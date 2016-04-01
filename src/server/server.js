@@ -20,6 +20,8 @@ let compiler = webpack(webpackConfig);
 app.use(webpackDevMiddleware(compiler, { noInfo: true, publicPath: webpackConfig.output.publicPath }));
 app.use(webpackHotMiddleware(compiler));
 
+
+
 app.use('/api', api);
 
 app.get('/', function (req, res) {
