@@ -30,7 +30,7 @@
     "express": "^4.13.4",
     "express-session": "^1.13.0",
     "isomorphic-fetch": "^2.2.1",
-    "lodash": "^4.7.0",
+    "lodash": "^4.8.2",
     "morgan": "^1.7.0",
     "path": "^0.12.7",
     "react": "^0.14.8",
@@ -43,10 +43,14 @@
     "redux-thunk": "^2.0.1"
   },
   "devDependencies": {
+    "css-loader": "^0.23.1",
+    "less": "^2.6.1",
+    "less-loader": "^2.2.3",
     "nodemon": "^1.9.1",
     "redux-devtools": "^3.1.1",
     "redux-devtools-dock-monitor": "^1.1.0",
     "redux-devtools-log-monitor": "^1.0.5",
+    "style-loader": "^0.13.1",
     "webpack": "^1.12.14",
     "webpack-dev-middleware": "^1.6.1",
     "webpack-dev-server": "^1.14.1",

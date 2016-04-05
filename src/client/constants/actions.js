@@ -2,11 +2,3 @@
 
 export const INCREASE = 'INCREASE';
 export const DECREASE = 'DECREASE';
-
-export const USER_LOGIN = 'USER_LOGIN';
-export const AUTHENTICATE_USER = 'AUTHENTICATE_USER';
-export const AUTHENTICATE_USER_FAILED = 'AUTHENTICATE_USER_FAILED';
-export const FETCH_USER = 'FETCH_USER';
-export const RECEIVE_USER = 'RECEIVE_USER';
-
-export const CHANGE_PATH = 'CHANGE_PATH';
