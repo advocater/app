@@ -6,6 +6,8 @@ import { browserHistory } from 'react-router'
 // import { resetErrorMessage } from '../actions'
 import { Header } from '../components'
 
+import './App.less'
+
 class App extends Component {
   constructor(props) {
     super(props)

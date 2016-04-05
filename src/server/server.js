@@ -17,9 +17,11 @@ let api = require('./api');
 
 require('./middleware')(app);
 let compiler = webpack(webpackConfig);
-app.use(webpackDevMiddleware(compiler, { noInfo: true, publicPath: webpackConfig.output.publicPath }));
+app.use(webpackDevMiddleware(compiler, { noInfo: true, publicPath: webpackConfig.output.publicPath, historyApiFallback: true }));
 app.use(webpackHotMiddleware(compiler));
 
+const PATH_IMAGES = path.resolve(__dirname,'../../lib/img')
+app.use('/images', express.static(PATH_IMAGES))
 
 
 app.use('/api', api);

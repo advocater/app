@@ -13,6 +13,10 @@ module.exports = {
     filename: "bundle.js",
     publicPath: "/dist/"
   },
+  devtool: 'source-map',
+  devServer: {
+    historyApiFallback: true
+  },
   plugins: [
     new webpack.optimize.OccurenceOrderPlugin(),
     new webpack.HotModuleReplacementPlugin(),
