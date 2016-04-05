@@ -1,7 +1,7 @@
 
-'use strict';
+'use strict'
 
-let _ = require('lodash');
+let _ = require('lodash')
 
 let config = {
   'dev': 'development',
@@ -10,10 +10,10 @@ let config = {
   'port': process.env.PORT || 3000
 }
 
-process.env.NODE_ENV = process.env.NODE_ENV || config.dev;
+process.env.NODE_ENV = process.env.NODE_ENV || config.dev
 
-config.env = process.env.NODE_ENV;
+config.env = process.env.NODE_ENV
 
-let environment = {};
+let environment = {}
 
-module.exports = _.merge(config, environment);
+module.exports = _.merge(config, environment)

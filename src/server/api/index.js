@@ -1,9 +1,9 @@
 
 
-'use strict';
+'use strict'
 
-let router = require('express').Router();
+let router = require('express').Router()
 
-// router.use('/coupons', require('./coupon'));
+// router.use('/coupons', require('./coupon'))
 
-module.exports = router;
+module.exports = router
