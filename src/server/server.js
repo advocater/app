@@ -20,7 +20,7 @@ let compiler = webpack(webpackConfig)
 app.use(webpackDevMiddleware(compiler, { noInfo: true, publicPath: webpackConfig.output.publicPath, historyApiFallback: true }))
 app.use(webpackHotMiddleware(compiler))
 
-const PATH_IMAGES = path.resolve(__dirname,'../../lib/imgages')
+const PATH_IMAGES = path.resolve(__dirname,'../../lib/images')
 app.use('/images', express.static(PATH_IMAGES))
 
 
