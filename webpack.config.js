@@ -1,12 +1,11 @@
 'use strict'
 
-let path = require('path');
-let webpack = require('webpack');
+let webpack = require('webpack')
+let path = require('path')
 
-module.exports = {
+let webpackConfig = {
   entry: [
-    "./src/client/index.js",
-    "webpack-hot-middleware/client"
+    "./src/client/index.js"
   ],
   output: {
     path: path.resolve(__dirname, "dist"),
@@ -17,11 +16,6 @@ module.exports = {
   devServer: {
     historyApiFallback: true
   },
-  plugins: [
-    new webpack.optimize.OccurenceOrderPlugin(),
-    new webpack.HotModuleReplacementPlugin(),
-    new webpack.NoErrorsPlugin()
-  ],
   module: {
     loaders: [
       { test: /\.css$/, loader: "style!css" },
@@ -29,4 +23,15 @@ module.exports = {
       { test: /\.js[x]?$/, exclude: /node_modules/, loader: "babel-loader"}
     ]
   }
-};
+}
+
+if (process.env.NODE_ENV === 'development') {
+  webpackConfig.entry.push("webpack-hot-middleware/client")
+  webpackConfig.plugins = [
+    new webpack.optimize.OccurenceOrderPlugin(),
+    new webpack.HotModuleReplacementPlugin(),
+    new webpack.NoErrorsPlugin()
+  ]
+}
+
+module.exports = webpackConfig
