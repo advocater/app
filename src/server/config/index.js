@@ -14,6 +14,6 @@ process.env.NODE_ENV = process.env.NODE_ENV || config.dev
 
 config.env = process.env.NODE_ENV
 
-let environment = {}
+let environment = require('./environment/' + config.env);
 
 module.exports = _.merge(config, environment)

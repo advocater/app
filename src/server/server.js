@@ -5,20 +5,25 @@
 let express = require('express')
 // let session = require('express-session')
 let path = require('path')
-let webpack = require('webpack')
-let webpackDevMiddleware = require('webpack-dev-middleware')
-let webpackHotMiddleware = require('webpack-hot-middleware')
 
-let webpackConfig = require('../../webpack.config')
+let config = require('./config');
 
 let app = express()
 
 let api = require('./api')
 
 require('./middleware')(app)
-let compiler = webpack(webpackConfig)
-app.use(webpackDevMiddleware(compiler, { noInfo: true, publicPath: webpackConfig.output.publicPath, historyApiFallback: true }))
-app.use(webpackHotMiddleware(compiler))
+
+if (process.env.NODE_ENV === 'development') {
+  let webpack = require('webpack')
+  let webpackDevMiddleware = require('webpack-dev-middleware')
+  let webpackHotMiddleware = require('webpack-hot-middleware')
+  let webpackConfig = require('../../webpack.config')
+  let compiler = webpack(webpackConfig)
+  app.use(webpackDevMiddleware(compiler, { noInfo: true, publicPath: webpackConfig.output.publicPath, historyApiFallback: true }))
+  app.use(webpackHotMiddleware(compiler))
+
+}
 
 const PATH_IMAGES = path.resolve(__dirname,'../../lib/images')
 app.use('/images', express.static(PATH_IMAGES))
