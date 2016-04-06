@@ -1,0 +1,1144 @@
+[
+    {
+        "issue": "SOCIAL",
+        "question": "What is your stance on abortion?",
+        "description": "Abortion is a medical procedure resulting in the termination of a human pregnancy and death of a fetus. Abortion was banned in 30 states until the 1973 Supreme Court decision Roe v. Wade. The ruling made abortion legal in all 50 states but gave them regulatory powers over when abortions could be performed during a pregnancy. Currently, all states must allow abortions early in pregnancies but may ban them in later trimesters.",
+        "answers": [
+            "Pro-choice",
+            "Pro-life",
+            "Pro-choice, but ban after the first three months",
+            "Pro-choice, I don’t agree but the government has no right to ban it",
+            "Pro-choice, but providing birth control, sex education, and more social services will help reduce the number of abortions",
+            "Pro-life, but allow in cases of rape, incest, or danger to the mother or child",
+            "Pro-life, and I also oppose abortion for victims of rape and incest"
+        ]
+    },
+    {
+        "issue": "SOCIAL",
+        "question": "Do you support the legalization of same sex marriage?",
+        "description": "On June 26, 2015 the U.S. Supreme Court ruled that the denial of marriage licenses violated the Due Process and the Equal Protection clauses of the Fourteenth Amendment of the United States Constitution. The ruling made same sex marriage legal in all 50 U.S. States.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, allow civil unions but don’t call it marriage",
+            "No, marriage should be defined as between a man and woman",
+            "Take the government out of marriage and instead make it a religious decision",
+            "Yes, but allow churches the right to refuse same-sex ceremonies"
+        ]
+    },
+    {
+        "issue": "SOCIAL",
+        "question": "Should the government continue to fund Planned Parenthood?",
+        "description": "Planned Parenthood is a non-profit organization that provides reproductive health services in the United States and internationally. In 2014, federal and state governments provided the organization with $528 million in funding (40% of its annual budget). The majority of this funding comes from Medicaid which subsidizes reproductive healthcare for low-income women. In 2014, abortions accounted for 3% of the services they provided. The majority of the other services include screening for and treating sexually transmitted diseases and infections and providing contraception. Proponents of funding argue that federal funding for Planned Parenthood does not pay for abortions and that the vast majority of government funding that the organization receives is through Medicaid reimbursements. Opponents of funding argue that the government should not fund any organizations that provide abortions.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, as long as funding is not used for abortion procedures",
+            "Yes, their services reach far beyond abortions and can save many lives through cancer screening, prenatal services, and   adoption referrals",
+            "No, and the government should not give funds to any organizations that perform abortions",
+            "No, and the government should not give funds to any organizations"
+        ]
+    },
+    {
+        "issue": "SOCIAL",
+        "question": "Should a business be able to deny service to a customer if the request conflicts with the owner’s religious beliefs?",
+        "description": "In 1993 the federal government passed the federal Religious Freedom Restoration Act. The law was intended to protect Native Americans in danger of losing their jobs because of religious ceremonies that involved the illegal drug peyote. Since then 20 states have passed their own versions of the “religious freedom” laws and 12 more have introduced the legislation this year. Supporters of the law argue that the government shouldn't force religious businesses and churches to serve customers who participate in lifestyles contrary to their owners’ beliefs. Proponents of the law argue that the political context has changed since 1992 and states are now passing their own versions of the law with the intent of discriminating against gay and lesbian couples.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, but only for small businesses",
+            "Yes, any business should be able to deny service for any reason",
+            "Yes, but the owner must post a sign stating their beliefs and what they refuse",
+            "No, all customers deserve to be treated equally"
+        ]
+    },
+    {
+        "issue": "SOCIAL",
+        "question": "Should health insurance providers be required to offer free birth control?",
+        "description": "On August 1st, 2012 the Patient Protection and Affordable Care Act (Obamacare) required all health insurers and employers to cover the cost of contraceptives in their health insurance plans. The provision currently exempts religious organizations and churches.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, it should be covered like any other prescription",
+            "No, the government should support abstinence programs instead",
+            "No, the government should not decide what services a private business can provide",
+            "Yes, except for religious organizations and charities that oppose the use of contraception"
+        ]
+    },
+    {
+        "issue": "SOCIAL",
+        "question": "Should the government support a separation of church and state by removing references to God on money, federal buildings, and national monuments?",
+        "description": "In 1956, Congress passed a resolution declaring “IN GOD WE TRUST” as the national motto of the United States. President Eisenhower signed the law and the motto was added to paper money beginning in 1957. Opponents argue that the motto violates the U.S. Constitution since it is a clear violation of the separation of church and state. Proponents argue that it does not prefer one religious denomination over another.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, as long as it does not reference a specific religion",
+            "No, religion is an important aspect of our country’s history",
+            "Yes, it creates a bias against religions that do not believe in God",
+            "Yes, but do not waste money removing existing references"
+        ]
+    },
+    {
+        "issue": "SOCIAL",
+        "question": "Do you support the death penalty?",
+        "description": "The death penalty or capital punishment is the punishment by death for a crime. Currently 58 countries worldwide allow the death penalty (including the U.S.) while 97 countries have outlawed it.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, too many people are innocently convicted",
+            "No, spending life in prison is a harsher sentence",
+            "Yes, but only for horrific crimes with undeniable evidence",
+            "Yes, but the victim’s family should decide the punishment"
+        ]
+    },
+    {
+        "issue": "SOCIAL",
+        "question": "Should terminally ill patients be allowed to end their lives via assisted suicide?",
+        "description": "Euthanasia, the practice of ending a life prematurely in order to end pain and suffering, is currently considered a criminal offense.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, but they should be allowed to refuse artificial life support",
+            "Yes, but only after a psychological examination to show they fully understand this choice",
+            "Yes, but only if there is no chance they will survive their illness"
+        ]
+    },
+    {
+        "issue": "SOCIAL",
+        "question": "Should businesses be required to have women on their board of directors?",
+        "description": "In the United States, women hold 19.2 percent of board seats of companies listed in the Standard and Poors directory. In Norway 35% of companies have women on their board seats and just 3% of Japanese companies do.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, but only for large international corporations",
+            "Yes, and the government should do more to require diversity in the workplace",
+            "No, the government should never require the diversity of private businesses",
+            "No, board members should be the most qualified regardless of gender"
+        ]
+    },
+    {
+        "issue": "SOCIAL",
+        "question": "Should the military allow women to serve in combat roles?",
+        "description": "In December 2015, the Pentagon announced that all combat roles would be opened to women. The roles include driving tanks, firing mortars, and leading infantry soldiers into combat. Women would also be able to serve as Army Rangers and Green Berets, Navy SEALs, Marine Corps Infantry and Air Force parajumpers. Proponents of women in combat argue that women have been serving in Afghanistan and Iraq for 15 years and preventing them from combat operations is discriminatory. Opponents argue that allowing women to serve in these roles would limit the military's ability to fight in combat situations.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, women are not as physically capable as men for combat",
+            "No, combat roles place women in a high risk situation for sexual assault",
+            "No, men are more likely to risk the success of a mission in order to protect a women from danger",
+            "Yes, preventing women from serving in combat roles is discriminatory",
+            "Yes, as long as they can pass the same physical tests as men"
+        ]
+    },
+    {
+        "issue": "SOCIAL",
+        "question": "Should states be allowed to display the Confederate flag on government property?",
+        "description": "In 1961, the South Carolina State Government passed a law mandating that the confederate flag be flown on the ground of its state capitol building. The law was passed to commemorate the centennial of the Civil War assault on Fort Sumter. Opponents argue that the flag is a political symbol that represents racial inequality and should be removed after the shooting deaths of nine African American church members in June 2015. Proponents argue that the flag is an important historical symbol that commemorates the state’s role in the Civil War.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, it is a symbol of racism",
+            "No, and ban any public display of the flag",
+            "Yes, it is a historical symbol of the Southern fight for states’ rights",
+            "Yes, each state should have the right to display any flag they choose",
+            "Yes, but only at historical monuments where it was originally flown"
+        ]
+    },
+    {
+        "issue": "SOCIAL",
+        "question": "Should “gender identity” be added to anti-discrimination laws?",
+        "description": "Gender identity is defined as a personal conception of oneself as male, female, both, or neither. In 2014, President Obama signed an executive order barring discrimination on the basis of sexual orientation or gender identity among federal contractors. The order covered employers who perform federal work and protected an estimated 20 percent of American workers. Opponents included religious groups, who argued that the order would prevent them from receiving federal money or contracts if they could not meet the new guidelines because of their beliefs. Proponents argue that the order was necessary to protect millions of LGBT people whose rights were threatened after the Supreme Court ruled in the Burwell v. Hobby Lobby Stores case. In that ruling, the court said that family-run corporations with religious objections could be exempted from providing employees with insurance coverage for contraception.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, and repeal anti-discrimination laws for private companies",
+            "No, there are only two genders which are genetically not psychologically determined",
+            "Yes, and the government should do more to protect minorities from discrimination"
+        ]
+    },
+    {
+        "issue": "ENVIRONMENTAL",
+        "question": "Should the government increase environmental regulations to prevent global warming?",
+        "description": "Global warming, or climate change, is an increase in the earth's atmospheric temperature since the late nineteenth century. In politics the debate over global warming is centered on whether this increase in temperature is due to greenhouse gas emissions or is the result of a natural pattern in the earth's temperature.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, tax carbon emissions instead",
+            "No, global warming is a natural occurrence",
+            "No, provide more incentives for alternative energy production instead",
+            "Yes, and provide more incentives for alternative energy production"
+        ]
+    },
+    {
+        "issue": "ENVIRONMENTAL",
+        "question": "Should national parks be preserved and protected by the federal government?",
+        "description": "The U.S. currently has 59 areas of land in 27 different states that are designated as National Parks by the federal government. The National Park Service Organic Act was signed into law in 1916 \"To conserve the scenery and the natural and historic objects and wild life therein and to provide for the enjoyment of the same in such manner and by such means as will leave them unimpaired for the enjoyment of future generations.\"",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, but allow more recreational access",
+            "Yes, and the government should protect more land",
+            "Yes, but allow limited logging, drilling, and mining",
+            "No, the government currently owns too much land"
+        ]
+    },
+    {
+        "issue": "ENVIRONMENTAL",
+        "question": "Should producers be required to label genetically engineered foods (GMOs)?",
+        "description": "Currently, GMO (Genetically Modified Organism) foods in the United States are not classified differently by the FDA and do not require labeling. Although no reports of ill effects from GMO foods have been documented, advocacy groups such as Greenpeace and the Organic Consumers Association argue that past studies cannot be trusted because they were sponsored by pro-GMO companies and do not measure the long-term effects on humans, the environment, and nature. Opponents argue that labeling adds an unfounded stigma over organic foods and that if a nutritional or allergenic difference were found, current FDA regulations would already require a label.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, but I would prefer to ban GMOs",
+            "Yes, consumers have a right to know what is in their food",
+            "Yes, I trust the science of responsible food engineering but I don’t trust the motives of the food companies selling them",
+            "No, we have selectively bred crops for thousands of years and labeling just adds an unfounded stigma to the science",
+            "No, GMOs are the most promising solution to ending world hunger",
+            "Regardless, producers should not be allowed to patent foods"
+        ]
+    },
+    {
+        "issue": "ENVIRONMENTAL",
+        "question": "Do you support the use of hydraulic fracking to extract oil and natural gas resources?",
+        "description": "Fracking is the process of extracting oil or natural gas from shale rock. Water, sand and chemicals are injected into the rock at high pressure which fractures the rock and allows the oil or gas to flow out to a well. While fracking has significantly boosted oil production, there are environmental concerns that the process is contaminating groundwater.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, but increase oversight",
+            "Yes, but not in heavily populated areas",
+            "No, more research is needed to measure the long term effects of fracking",
+            "No, we should pursue more sustainable energy resources instead"
+        ]
+    },
+    {
+        "issue": "ENVIRONMENTAL",
+        "question": "Should the U.S. expand offshore oil drilling?",
+        "description": "In 1990 President George H.W. Bush passed an executive order banning all offshore drilling in U.S. coastal waters. In response to rising gas prices in 2008 President George W. Bush lifted the ban. Currently, there are 3,500 offshore oil rigs, 79 of which are deep water wells.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, end all offshore oil drilling",
+            "No, and nationalize the energy sector",
+            "No, but maintain our current offshore oil wells",
+            "No, and provide more incentives for alternative energy production",
+            "Yes, and deregulate the energy sector to let the free market determine the best energy sources"
+        ]
+    },
+    {
+        "issue": "ENVIRONMENTAL",
+        "question": "Should the government give tax credits and subsidies to the wind power industry?",
+        "description": "As of July 2013, nearly 4% of all electricity generated in the U.S. is produced by wind turbines. By installing wind turbines on their properties farmers can earn up to tens of thousands of dollars per year in tax credits. Since 2008 these tax credits have amounted to more than $14 Billion.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, end all tax credits and subsidies to the energy industry",
+            "No, and the government should never support unproven technologies",
+            "No, wind power is an inferior alternative to oil, coal, and nuclear power",
+            "Yes, the government should support more sustainable energy technologies",
+            "Yes, wind power is the best alternative to coal and natural gas"
+        ]
+    },
+    {
+        "issue": "ECONOMIC",
+        "question": "Should physically and mentally capable adults on welfare be required to work?",
+        "description": "In 1996, President Bill Clinton and Congressman John Kasich co-sponsored a welfare reform law which included work-for-food requirements for welfare recipients. The provision applies to able-bodied adults ages 18 through 49 who have no children or other dependents in their home. It requires them to work, volunteer or attend education or job-training courses at least 80 hours a month to receive food aid. If they don't, their benefits are cut off after three months.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, “workfare” is a form of slave labor",
+            "No, but their benefits should expire after two years of unemployment",
+            "No, but they must prove they are looking for a job or are in a training program",
+            "Yes, anyone receiving government benefits should be required to work",
+            "Yes, and eliminate welfare as it is unconstitutional"
+        ]
+    },
+    {
+        "issue": "ECONOMIC",
+        "question": "Should employers be required to pay men and women the same salary for the same job?",
+        "description": "In 2014 the U.S. Senate blocked the Paycheck Fairness Act which would make it illegal for employers to pay unequal wages to men and women who perform the same work. The goals of the act were to make wages more transparent, require employers to prove that wage discrepancies are tied to legitimate business qualifications and not gender and prohibiting companies from taking retaliatory action against employees who raise concerns about gender-based wage discrimination. Opponents argue that studies which show pay gaps don’t take into account women who take jobs that are more family-friendly in terms of benefits rather than wages and that women are more likely to take breaks in employment to care for children or parents. Proponents point to studies including a 2008 census bureau report that stated that women's median annual earnings were 77.5% of men's earnings.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, and the gender wage gap is a myth",
+            "No, the current requirements in the Equal Pay Act of 1963 are already sufficient",
+            "No, the government should never determine what a private business should pay employees",
+            "No, there are too many other variables such as education, experience, and tenure that determine a fair salary",
+            "Yes, and businesses should be required to publish their salary ranges for each position"
+        ]
+    },
+    {
+        "issue": "ECONOMIC",
+        "question": "Should all welfare recipients be tested for drugs?",
+        "description": "Wisconsin Governor and potential 2016 Presidential candidate Scott Walker recently proposed drug testing everyone in Wisconsin who applies for state benefits including unemployment checks and food stamps. The applicants would be tested on a “suspicionless” basis, meaning all applicants would be tested – not just those with criminal backgrounds. Opponents of the proposal include civil libertarians and advocates of the poor who believe the government does not have the right to test people for drugs based on their economic status. Proponents argue that drug use often leads to economic plight and testing applicants for drugs will improve their livelihood by serving as a deterrent for narcotic abuse.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, but allow the use of marijuana",
+            "Yes, but provide treatment for those testing positive",
+            "Yes, and immediately terminate benefits for anyone testing positive",
+            "Yes, test anyone receiving money from the government including employees and politicians",
+            "No, only if they have a criminal history related to drug abuse",
+            "No, this is a waste of time and money",
+            "Regardless, we should end all social welfare programs"
+        ]
+    },
+    {
+        "issue": "ECONOMIC",
+        "question": "Should the government raise the federal minimum wage?",
+        "description": "The federal minimum wage is the lowest wage at which employers may pay their employees. Since July 24, 2009 the U.S. federal minimum wage has been set at $7.25 per hour. In 2014 President Obama proposed raising the federal minimum wage to $10.10 and tying it to an inflation index. The federal minimum wage applies to all federal employees including those who work on military bases, national parks and veterans working in nursing homes.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, and make it a living wage",
+            "Yes, and adjust it every year according to inflation",
+            "No, most minimum wage jobs are meant to develop experience, not support a family",
+            "No, this will only cause prices to increase in a never ending cycle",
+            "No, and eliminate all federal wage standards",
+            "Regardless, minimum wage standards should be adjusted by age group"
+        ]
+    },
+    {
+        "issue": "ECONOMIC",
+        "question": "Should businesses be required to provide paid leave for full-time employees during the birth of a child or sick family member?",
+        "description": "Several major U.S. companies including Netflix, Chipotle and Microsoft recently began offering their employees paid sick and maternity leave. The U.S. is currently the only industrialized country that doesn’t require companies to provide sick leave to their employees. 35% of American workers do not receive any type of paid sick leave.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, but only for maternity leave",
+            "Yes, but only for companies with 100+ employees",
+            "Yes, the lack of paid sick leave is unfair to working men and women",
+            "Yes, but the federal government should sponsor this program instead of businesses",
+            "Yes, but only for sick leave which is unexpected, instead of pregnancy which is a personal choice",
+            "No, private businesses should decide the amount of competitive incentives they offer to employees instead of a government mandate",
+            "No, too many workers take advantage of these programs"
+        ]
+    },
+    {
+        "issue": "ECONOMIC",
+        "question": "Should the government make cuts to public spending in order to reduce the national debt?",
+        "description": "Proponents of deficit reduction argue that governments who do not control budget deficits and debt are at risk of losing their ability to borrow money at affordable rates. Opponents of deficit reduction argue that government spending would increase demand for goods and services and help avert a dangerous fall into deflation, a downward spiral in wages and prices that can cripple an economy for years.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, and increase taxes",
+            "Yes, and eliminate federal agencies that are unconstitutional",
+            "No, cuts to public spending will negatively effect the economy",
+            "No, increase taxes on large multinational corporations instead",
+            "No, reduce military spending instead",
+            "No, increase taxes instead"
+        ]
+    },
+    {
+        "issue": "ECONOMIC",
+        "question": "Should the U.S. reduce corporate income tax rates?",
+        "description": "Currently, federal corporate income tax rates vary from 15% to 35%. Due to loopholes and offshore headquarters, many companies pay significantly less with several major corporations paying no taxes at all. Some economists argue that the tax should be abolished in place of higher taxes on certain high earning individuals and stock market transactions.",
+        "answers": [
+            "Yes",
+            "No",
+            "Switch to a flat tax with no deductions",
+            "No, corporations should have to pay the same rates as average citizens",
+            "No, and raise corporate income tax rates",
+            "Yes, but only for corporations that hire exclusively in the U.S.",
+            "Yes, but I would prefer to abolish corporate income taxes",
+            "Yes, but eliminate loopholes and require a minimum tax"
+        ]
+    },
+    {
+        "issue": "ECONOMIC",
+        "question": "Should Wall Street executives be criminally charged for their roles in the 2008 subprime mortgage crisis?",
+        "description": "Since the 2008 financial crisis, no Wall Street Executives have paid fines or gone to jail for their roles in selling fraudulent mortgage backed securities to investors. Instead of criminal charges, the six largest U.S. banks have paid over $70 Billion in fines to the U.S. Government. As part of the settlements, none will have to admit to any wrongdoing. Opponents argue that these fines are enough and jailing top Wall Street Executives will de-stabilize our financial system. Proponents argue that the fraud committed by the banks are criminal and the individual executives who orchestrated them should be fined and jailed.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, and nationalize the banks",
+            "Yes, they committed fraud and should be held responsible for the largest financial crisis since the Great Depression",
+            "No, the banks have already paid fines and jailing these executives would destabilize our financial system",
+            "No, lawmakers are more to blame for creating an environment of irresponsible and reckless lending"
+        ]
+    },
+    {
+        "issue": "ECONOMIC",
+        "question": "Do you believe labor unions help or hurt the economy?",
+        "description": "Labor unions represent workers in many industries in the United States. Their role is to bargain over wages, benefits, working conditions for their membership. Larger unions also typically engage in lobbying activities and electioneering at the state and federal level.",
+        "answers": [
+            "Help",
+            "Hurt",
+            "Help, but ban their ability to make political donations",
+            "Help, in theory but have recently become corrupt and should have their powers limited",
+            "Hurt, I support some private unions but am strongly against public labor unions"
+        ]
+    },
+    {
+        "issue": "ECONOMIC",
+        "question": "Should the government increase the tax rate on profits earned from the sale of stocks, bonds, and real estate?",
+        "description": "Capital gains are the profits earned from the the sale of stocks, bonds and properties. Investment managers pay a 15 to 20 percent capital gains tax on profits earned from their customers’ holdings. Supporters of the increase argue that capital gains should be taxed like any other income and should be raised to at least 31.5% (the average U.S. tax rate). Opponents of an increase argue that taxing capital gains will discourage investments in the U.S. economy and prohibit growth.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, and increase to the average U.S. tax rate (31.5%)",
+            "No, increasing the capital gains tax will limit investment in our economy"
+        ]
+    },
+    {
+        "issue": "ECONOMIC",
+        "question": "Should the Federal Reserve Bank be audited by Congress?",
+        "description": "The Federal Reserve is the central banking system of the US government. The main goal of the bank is to manage the US government’s money supply and stabilize the nation’s banks during panics and recessions. In 2015, Senator Rand Paul (R-KY) and Congressman Thomas Massie (R-KY) introduced the Federal Reserve Transparency Act of 2015 which would require the bank’s board of governors to conduct an audit and release it to Congress. An audit would determine if the accounting records the bank makes public are true and give Congress an insight into how the bank is run. Senator Paul has been a fierce critic of the bank’s practices, calling it a \"political, oligarchic force, and a key part of what looks and functions like a banking cartel.\" Proponents of the audit argue that the Federal Reserve bank should be audited after the role it played in the 2008 fiscal crisis when it took on trillions in debt to bail out several of the country’s largest banks. Opponents of the audit argue that the government accountability office already audits the Federal Reserve and a Congressional audit would destroy its independence.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, we deserve to know who the bank gives money to",
+            "Yes, but I would prefer to abolish it and return to the gold standard",
+            "No, in order to stabilize our financial system, it must remain independent of Congressional oversight"
+        ]
+    },
+    {
+        "issue": "ECONOMIC",
+        "question": "Should the government subsidize farmers?",
+        "description": "The U.S. government pays farmers more than $20 Billion a year in farm subsidies. Proponents argue that the subsides are necessary since net farm income has decline by 32% between 2014 and 2015. Opponents argue that the farmers should fend for themselves and point out that 2,300 farmers who do not grow crops receive annual subsidies.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, but only for organic farms",
+            "Yes, but only as a temporary measure to stabilize prices",
+            "Yes, but only small local farms instead of large corporations",
+            "No, end all government subsidies and let the free market run its course"
+        ]
+    },
+    {
+        "issue": "ECONOMIC",
+        "question": "Would you favor an increased sales tax in order to reduce property taxes?",
+        "description": "Most local governments in the United States impose a property tax as a principal source of revenue. This tax may be imposed on real estate or personal property. The tax is nearly always computed as the fair market value of the property times an assessment ratio times a tax rate. Values are determined by local officials, and may be disputed by property owners. A primary advantage of a property tax over a sales tax or income tax is that the revenue always equals the tax levy, unlike the other taxes, which can result in shortfalls producing budget deficits. The property tax always produces the required revenue for municipalities' tax levies. Property owners, especially seniors, believe the tax is unfair and does not represent the owner's ability to pay.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, but decrease tax rates for senior citizens",
+            "No, property taxes are the most reliable and consistent form of state revenue",
+            "Yes, but dramatically reduce government spending instead of raising taxes",
+            "Yes, property taxes rates do not reflect the owners ability to pay"
+        ]
+    },
+    {
+        "issue": "ECONOMIC",
+        "question": "Should pension plans for federal, state, and local government workers be transitioned into privately managed accounts?",
+        "description": "The average retired federal employee receives a pension (retirement plan) of $32,824 annually. Total unfunded pension liability for all U.S. cities and counties is an estimated $574 billion. In addition to their pensions, federal employees are offered a 401(k) plus 5% matching, whereas the average private employee is offered 3 percent matching of 401(k) without pension.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, but only for future workers",
+            "Yes, pension spending is out of control and must be reduced",
+            "No, privately managed accounts will jeopardize the financial security of senior citizens"
+        ]
+    },
+    {
+        "issue": "ECONOMIC",
+        "question": "Do you support the Trans-Pacific Partnership (TPP)?",
+        "description": "The Trans-Pacific Partnership is a trade deal that would make it easier for American companies to sell their goods and services in Pacific Rim countries. The deal will benefit American service companies who will be able to open up operations in Asian and South American countries. Opponents argue that this bill will incentivize US companies to move service and manufacturing jobs overseas. Proponents argue that it would make American companies more successful at selling their goods and services in Pacific Rim countries, leading to a stronger economy, more jobs and higher incomes for American workers.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, it will bring economic growth to all countries involved",
+            "No, there are too many hidden provisions in this specific agreement",
+            "No, this will incentivize companies to move U.S. jobs overseas"
+        ]
+    },
+    {
+        "issue": "ECONOMIC",
+        "question": "Should the government classify Bitcoin as a legal currency?",
+        "description": "Bitcoin is a type of digital currency in which encryption techniques are used to regulate the generation of units of currency and verify the transfer of funds, operating independently of a central bank. Bitcoins are stored in a digital wallet, which is like a virtual bank account that allows users to send or receive bitcoins and pay for goods or services. Bitcoin is anonymous, meaning that, while transactions are recorded in a public log, the names of buyers and sellers are never revealed.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, classify it as a commodity",
+            "No, and it has no intrinsic value",
+            "No, it provides too high of risk for criminal activity",
+            "Yes, and all countries should switch to a blockchain currency like Bitcoin",
+            "Yes, but it should not replace our national treasury-backed currency"
+        ]
+    },
+    {
+        "issue": "DOMESTIC POLICY",
+        "question": "Should there be more restrictions on the current process of purchasing a gun?",
+        "description": "The 2012 Sandy Hook Elementary School shootings caused several states and cities to pass strict gun control measures. In response, state lawmakers in gun friendly states in the South and West passed bills that would strengthen Stand Your Ground laws and allow weapons in most public places. In 2014, 21 states passed laws that expanded the rights of gun owners allowing them to possess firearms in churches, bars, schools and college campuses. The federal government has not passed any gun control measures since the 1994 Brady Bill and 42 states now allow the possession of assault rifles. In the U.S. two-thirds of all gun deaths are suicides and in 2010 there were 19,000 firearm suicides and 11,000 firearm homicides.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, only for assault weapons",
+            "No, only for criminals and the mentally ill",
+            "No, but increase penalties for gun-related crimes",
+            "No, and the government should pass a national “stand your ground” law",
+            "Yes, require strict background checks, psychological testing, and training",
+            "Yes, and ban all guns from public use"
+        ]
+    },
+    {
+        "issue": "DOMESTIC POLICY",
+        "question": "Should people on the “no-fly list” be banned from purchasing guns and ammunition?",
+        "description": "After the December shooting in San Bernardino, CA, President Obama stated in his weekly radio address that it was “insane” to allow suspected terrorists on the country’s no-fly list to purchase guns. Shortly after, Senate Democrats introduced a measure that would have restricted anyone on the federal terrorism watch list, also known as the no-fly list, from being able to purchase firearms in the U.S. The measure did not pass after Senate Republicans voted down the measure.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, and ban the sale of guns and ammunition to anyone",
+            "Yes, but not until the no-fly list screening process is improved for accuracy and includes due process",
+            "Yes, if the government considers you too dangerous to board a plane you should not be able to buy a gun",
+            "No, this is a slippery slope that will eventually ban the sale of guns to anyone",
+            "No, it is unconstitutional to deny someone’s rights without due process"
+        ]
+    },
+    {
+        "issue": "DOMESTIC POLICY",
+        "question": "Should there be term limits set for members of Congress?",
+        "description": "A term limit is a law that limits the amount of time a political representative may hold an elected office. In the U.S. the office of the President is restricted to two four year terms. There are currently no term limits for Congressional terms but various states and cities have enacted term limits for their elected officials at the local level.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, term limits will increase performance and prevent corruption",
+            "No, officials gain valuable experience and become more effective representatives over time"
+        ]
+    },
+    {
+        "issue": "DOMESTIC POLICY",
+        "question": "Should victims of gun violence be allowed to sue firearms dealers and manufacturers?",
+        "description": "In 2005, Congress passed the Protection of Lawful Commerce in Arms Act (PLCAA). The law protects gun manufacturers and dealers from being held liable when crimes have been committed with their products. The law was passed in response to a series of lawsuits filed against the gun industry in the late 1990s which claimed gun-makers and sellers were not doing enough to prevent crimes committed with their products. Proponents of the law argue that lawsuits will discourage gun manufacturers from supplying stores who sell guns that end up being used in violent crimes. Opponents argue that gun manufacturers are not responsible for random acts of violence committed with their products.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, manufacturers and dealers should only be held liable for negligence",
+            "Yes, as long as the losing party pays all legal fees, it’s our constitutional right to sue anyone for any reason",
+            "Yes, any business should be held liable if the primary use of its product is for illegal activity"
+        ]
+    },
+    {
+        "issue": "DOMESTIC POLICY",
+        "question": "Should Apple unlock the iPhones of suspected terrorists for the FBI?",
+        "description": "Apple recently challenged a court order which would force it to cooperate with the FBI and unlock an iPhone used by one of the two attackers who killed 14 people in San Bernardino, CA in December 2015. The Judge in the case ordered Apple to build a software key which would unlock the phone. The FBI claimed its agents had been unable to access information in the phone without the key. Opponents argue that technology companies should protect the privacy of their customers and creating a special key for law enforcement will open the door to hackers. Proponents argue that law enforcement authorities should have the ability to break encryption technologies in order to prevent and solve crimes.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, backdoors can expose innocent owners to malicious hackers",
+            "Yes, but only in situations where the owner is a proven threat to national security",
+            "Yes, but only for this specific request and do not allow future access"
+        ]
+    },
+    {
+        "issue": "DOMESTIC POLICY",
+        "question": "Are you in favor of decriminalizing drug use?",
+        "description": "In 1970, Congress passed the Controlled Substances Act which banned the manufacture, importation, possession, use and distribution of certain drugs. The act ranked drugs by their potential for abuse and placed them into five categories. Two of the most widely used drugs in the U.S., wine and alcohol, are exempt from the classifications. Ballot measures in several states including Colorado, Washington and Oregon have decriminalized possession of small amounts of marijuana. These laws apply only within the respective states and have no effect on Federal law.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, most but not all drugs",
+            "Yes, and retroactively reduce sentences for those already serving time",
+            "No, we should pass tougher drug laws"
+        ]
+    },
+    {
+        "issue": "DOMESTIC POLICY",
+        "question": "Should corporations and unions (Super PACs) be allowed to donate to political candidates?",
+        "description": "In 2010, the U.S. Supreme Court ruled that the First Amendment prohibited the government from restricting independent political expenditures from a nonprofit corporation. The plaintiff in the case, Citizen’s United, was a conservative political action group which wanted to air a film critical of Hillary Clinton during television broadcasts. In 2010 the airing of the ad was outlawed by the McCain Feingold Act which banned radio and TV advertising by corporations and unions within 60 days of a general election or 30 days of a primary. Justice Kennedy’s majority opinion struck down these provisions and ruled that corporations, as associations of individuals, therefore have speech rights under the First Amendment.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, any restriction on campaign spending violates the first amendment",
+            "No, corporations are not people and should not be allowed to finance political campaigns"
+        ]
+    },
+    {
+        "issue": "DOMESTIC POLICY",
+        "question": "Should the NSA (National Security Agency) be allowed to collect basic metadata of citizen’s phone calls such as numbers, timestamps, and call durations?",
+        "description": "Under a provision of the Patriot Act the NSA is allowed to collect phone metadata — the numbers, time stamps, and duration of a call, but not its actual content. Opponents include civil liberties advocates and Senator Rand Paul who argue that the collection is unconstitutional since it is done without a warrant. Supporters of the collection argue that the collection is necessary to track suspected terrorists.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, and abolish the NSA",
+            "No, only with a warrant showing probable cause of criminal activity",
+            "Yes, basic data collection is necessary to track suspected terrorists"
+        ]
+    },
+    {
+        "issue": "DOMESTIC POLICY",
+        "question": "Should internet service providers be allowed to speed up access to popular websites (that pay higher rates) at the expense of slowing down access to less popular websites (that pay lower rates)?",
+        "description": "Net neutrality is the principle that internet service providers should treat all data on the internet equally.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, only if it’s strictly based on a pay-per-quality model",
+            "Yes, this would make the internet faster and more reliable for users",
+            "Yes, but only give priority by type (video over images) and not source (big website over little website)",
+            "No, this would allow them to remove competition, create artificial scarcity, and increase prices",
+            "No, treat all traffic equally and continue the openness of the internet"
+        ]
+    },
+    {
+        "issue": "DOMESTIC POLICY",
+        "question": "Should the government raise the retirement age for Social Security?",
+        "description": "Former Florida Governor Bush recently told CBS News that the current basic retirement age of 65 needs to go to 68 or 70 as a way to sustain Social Security for those now under 40. The Social Security retirement age is based on a sliding scale which takes into account when the recipient was born and whether they want to retire early in return for a reduction in monthly benefits. The current age to begin receiving benefits is set at 65 for those born prior to 1938. Under current law, it rises gradually to age 67 for those born in 1960 or later. Proponents argue that Americans are living longer and healthier lives than they did when Social Security was founded and the program will run $7.7 trillion in the red during the next 75 years. Opponents argue that Social Security provides at least half of total retirement income for more than two-thirds of all retirees and raising the age will rob lower income seniors of necessary benefits.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, but I would prefer to privatize it instead",
+            "Yes, people are now living longer than when the program was created",
+            "No, this will disadvantage low income seniors whose life expectancy is lower than wealthier seniors",
+            "No, eliminate the income cap on taxable earnings instead",
+            "No, and stop spending current funds on other programs"
+        ]
+    },
+    {
+        "issue": "DOMESTIC POLICY",
+        "question": "Do you support affirmative action programs?",
+        "description": "Affirmative action is a policy that encourages the increased representation of members of a minority group. In the U.S. these policies are often enacted by employers and educational institutions in education or employment.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, and drastically increase the current amount of programs",
+            "No, and minority groups should not receive any favorable treatment",
+            "Regardless, we should create more social programs to address poverty"
+        ]
+    },
+    {
+        "issue": "DOMESTIC POLICY",
+        "question": "Do you support the Patriot Act?",
+        "description": "In response to the 9/11 terrorist attacks, the Patriot Act expanded intelligence gathering capabilities including: monitoring of foreign financial transactions, detaining and deporting immigrants suspected of terrorism, wiretaps, business record searches, and surveillance of individuals suspected of terrorist activities.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, but limit the scope of the government’s powers",
+            "No, and pass strict laws prohibiting any government surveillance"
+        ]
+    },
+    {
+        "issue": "DOMESTIC POLICY",
+        "question": "Should the redrawing of Congressional districts be controlled by an independent, non-partisan commission?",
+        "description": "Currently, the redistricting of congressional boundaries is controlled by state legislature every ten years. Gerrymandering is the redrawing of districts with the intent of benefiting a political party. It is most often implemented by state political parties with the intent of marginalizing districts of voters who represent the minority party. To gain extra seats, the incumbent party will redraw voting districts so that voters of the minority party will be grouped into smaller districts with less seats. Critics of gerrymandering say these practices allow incumbent representatives to choose their voters instead of voters choosing them. Proponents say that drawing districts is a privilege of the ruling party and have little effect on the popularity of their policies or candidates.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, there is no better alternative",
+            "No, gerrymandering allows officials to more effectively represent the interests of their constituency",
+            "Yes, gerrymandering gives an unfair advantage to the party in power during redistricting",
+            "Yes, switch to a multi-member, proportionally selected redistricting system"
+        ]
+    },
+    {
+        "issue": "DOMESTIC POLICY",
+        "question": "Should the government be allowed to seize private property, with reasonable compensation, for public or civic use?",
+        "description": "Eminent domain is the power of a state or a national government to take private property for public use. However, it can be legislatively delegated by the state to municipalities, government subdivisions, or even to private persons or corporations, when they are authorized to exercise the functions of public character. Opponents, including Conservatives and Libertarians in New Hampshire, oppose giving the government the power to seize property for private projects, like casinos, that was made possible to a 2005 Supreme Court decision, Kelo v. New London. Proponents, including advocates of oil pipelines and national parks, argue that the construction of roads and schools would not be possible if the government could not seize land under eminent domain.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, unless it is for an oil pipeline project",
+            "No, and the government should never be allowed to seize private property",
+            "Yes, as long as landowners are fairly compensated and the projects will benefit the community",
+            "Yes, but only if landowners are compensated drastically above fair market price",
+            "Yes, but only for public projects and never for private projects",
+            "Yes, but only in extreme cases of national emergency"
+        ]
+    },
+    {
+        "issue": "DOMESTIC POLICY",
+        "question": "Should local police increase surveillance and patrol of Muslim neighborhoods?",
+        "description": "After the March 22nd terrorist attacks in Belgium, Republican U.S. Presidential Candidate Ted Cruz said law enforcement should be empowered to “patrol and secure Muslim neighborhoods before they become radicalized.” In defending the plan, Cruz cited former New York Mayor Michael Bloomberg for his aggressive policing efforts, including the alleged targeting of Muslim neighborhoods for surveillance. Current New York City Mayor Bill de Blasio and NYPD commissioner Bill Bratton held a press conference where they criticized Cruz’s proposal as “incendiary” and “foolish.”",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, and increase surveillance on all new immigrants",
+            "Yes, until the frequency of terrorist attacks by Muslim extremists decrease",
+            "No, this decision should be based on crime rates instead of race or religion",
+            "No, targeting Muslims is unconstitutional, racist, and incendiary"
+        ]
+    },
+    {
+        "issue": "DOMESTIC POLICY",
+        "question": "Should the Senate hold hearings and a vote on President Obama’s Supreme Court nominee?",
+        "description": "On March 16, President Obama nominated Judge Merrick Garland as his choice to replace Justice Antonin Scalia on the U.S. Supreme Court. Senate Majority leader Mitch McConnell (R-KY) announced that the Senate would not hold hearings or a vote on Justice Garland. Senator McConnell stated that the next Supreme Court justice should be nominated by the next President in 2017. Senate Republicans can block the any hearings or votes on the current nominee due to their majority in the Senate. Senate Democrats argue that the Constitution specifies that the Senate should at least hold a vote on any Justices nominated by a sitting President.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, the current nominee, Justice Garland, is too liberal",
+            "No, the Senate should wait for the next President’s nominee",
+            "No, the current nominee, Justice Garland, is too conservative",
+            "Yes, the Senate should follow their Constitutional responsibility"
+        ]
+    },
+    {
+        "issue": "HEALTHCARE",
+        "question": "Do you support the Patient Protection and Affordable Care Act (Obamacare)?",
+        "description": "The Affordable Care Act is a federal statute signed into law in 2010 that introduces a sweeping overhaul of the nation's healthcare system. The act grants the federal government significant regulatory powers and price controls over U.S. medical service providers and insurance companies.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, government should not be involved in healthcare",
+            "No, open the markets so insurers can compete across state lines and reduce costs",
+            "Yes, and allow consumers to choose providers and import pharmaceuticals from other countries",
+            "Yes, but a mandatory single payer system would be even better",
+            "Yes, I support a majority of the plan but not all aspects"
+        ]
+    },
+    {
+        "issue": "HEALTHCARE",
+        "question": "Should the federal government require children to be vaccinated for preventable diseases?",
+        "description": "In January 2014, 102 measles cases linked to an outbreak at Disneyland were reported in 14 states. The outbreak alarmed the CDC, which declared the disease eliminated in the U.S. in the year 2000. Many health officials have tied the outbreak to the rising number of unvaccinated children under the age of 12. Proponents of a mandate argue that vaccines are necessary in order to insure herd immunity against preventable diseases. Herd immunity protects people who are unable to get vaccines due to their age or health condition. Opponents of a mandate believe the government should not be able to decide which vaccines their children should receive. Some opponents also believe there is a link between vaccinations and autism and vaccinating their children will have destructive consequences on their early childhood development.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, but only for deadly contagious diseases",
+            "Yes, but with exceptions for those whose religious beliefs forbid use of vaccines",
+            "Yes, they are essential to protecting other children who are too young to be vaccinated",
+            "No, but hold parents criminally liable for transferring deadly diseases to other children",
+            "No, fund public ad camapaigns about the risks and benefits instead",
+            "No, but require vaccination in order to attend public school",
+            "Regardless, this should be decided at the state level"
+        ]
+    },
+    {
+        "issue": "HEALTHCARE",
+        "question": "Do you support the legalization of Marijuana?",
+        "description": "U.S. law currently bans the sale and possession of all forms of marijuana. in 2014 Colorado and Washington will become the first states to legalize and regulate marijuana contrary to federal laws.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, but only for medical use",
+            "Yes, and immediately release anyone serving time soley for drug offenses",
+            "Yes, and legalize, tax, and regulate marijuana instead of criminalizing it",
+            "No, and increase penalties for non-violent drug offenders"
+        ]
+    },
+    {
+        "issue": "HEALTHCARE",
+        "question": "Should the federal government increase funding of health care for low income individuals (Medicaid)?",
+        "description": "When the Affordable Care Act (Obamacare) was enacted in 2010 it required all states to expand their Medicaid programs to include people with incomes slightly higher than those allowed under traditional Medicaid, as well as groups, like childless adults, that had not previously been covered. In 2012 the Supreme Court ruled that forcing States to expand their Medicaid coverage was unconstitutional. Since then 22 states have expanded their coverage and more than 35 have opted not to do so. Proponents of the expansion argue that it will lower healthcare costs for everyone by reducing the number of Americans without health insurance. Opponents argue that states should be allowed to run their own Medicaid programs without the intervention of the federal government.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, and abolish Medicaid",
+            "No, and each state should decide their own level of coverage",
+            "No, and eligibility should only include the elderly and disabled",
+            "No, and the federal government should not increase funding for any social programs",
+            "Yes, but I prefer switching to a single payer healthcare system",
+            "Yes, but only increase for the elderly and disabled"
+        ]
+    },
+    {
+        "issue": "ELECTORAL",
+        "question": "Should a photo ID be required to vote?",
+        "description": "Since 2011, twelve states have passed laws that require a photo identification to vote. Supporters argue that ID’s are needed to increase confidence in elections and prevent voter fraud. Critics argue that voter fraud rarely exists and that ID requirements are intended to suppress turnout by economically disadvantaged voters.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, this will prevent voter fraud",
+            "No, this will disadvantage those who do not have the resources to obtain one",
+            "No, and automatically register every citizen to vote when they turn 18",
+            "No, and there is little evidence that voter fraud even exists"
+        ]
+    },
+    {
+        "issue": "CRIMINAL",
+        "question": "Should prisons ban the use of solitary confinement for juveniles?",
+        "description": "In January 2016, President Obama issued a series of executive actions banning federal prisons from using solitary confinement to punish juveniles and prisoners who commit low level infractions. His orders also lowered the number of days an adult inmate could be subject to solitary confinement from 365 days to 60 days. A recent study found that prisoners who were subject to solitary confinement were 20-25% more likely to be repeat criminal offenders than prisoners who avoided it.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, but it is currently being overused",
+            "No, it is necessary for violent criminals who are a danger to themselves and other inmates",
+            "Yes, and we should create more social programs to help prevent and rehabilitate criminals",
+            "Yes, it is severely psychologically damaging to young undeveloped minds"
+        ]
+    },
+    {
+        "issue": "FOREIGN POLICY",
+        "question": "Should the U.S. accept refugees from Syria?",
+        "description": "President Obama recently declared that the U.S. will accept 10,000 refugees from Syria. The U.S. has been under pressure from its Syrian allies to help out with the crisis in which 3 Million refugees have fled Syria in the past year. Those in favor of accepting refugees believe that the U.S. has a duty to join its allies in Europe and accept at least 10,000 refugees. Opponents argue that the U.S. should stay out of this crisis and accepting refugees from the Middle East leads to a risk of letting terrorists into our borders.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, we should accept 10,000 refugees",
+            "Yes, but only accept families (no single Muslim men)",
+            "Yes, but we should accept much more than the proposed 10,000 refugees",
+            "Yes, but only after extensive background checks and continuous monitoring to ensure they have no terrorist connections",
+            "No, we should eliminate any opportunity for terrorists to enter the country",
+            "No, and send all refugees back to Syria"
+        ]
+    },
+    {
+        "issue": "FOREIGN POLICY",
+        "question": "Should foreign terrorism suspects be given constitutional rights?",
+        "description": "In 2002, the George W. Bush administration issued the Torture Memos which argued for a narrow definition of torture under U.S. law. They included granting the CIA authority to use “enhanced interrogation techniques” on enemy combatants. The techniques included waterboarding subjection to extreme cold and confinement in small boxes.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, give them a fair trial and shut down Guantanamo Bay",
+            "Yes, just like U.S. citizens, terrorists should be given a fair trial in federal courts",
+            "No, they should be tried in military tribunals but not subject to torture",
+            "No, they are not U.S. citizens and do not have constitutional rights"
+        ]
+    },
+    {
+        "issue": "FOREIGN POLICY",
+        "question": "Should the government decrease military spending?",
+        "description": "In 2015, the U.S.’ estimated military budget is expected to be $601 billion, down from $610 billion spent in 2014. The U.S. outspends the next six highest spending nations combined. China has the second largest budget at $216 billion and Russia has the third largest with $84.5 billion.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, increase the military budget",
+            "No, but limit profits made from military contracts",
+            "Do not change current military budget"
+        ]
+    },
+    {
+        "issue": "FOREIGN POLICY",
+        "question": "Should every 18 year old citizen be required to provide at least one year of military service?",
+        "description": "Military service is not required in the U.S. Proponents of required service argue that it isn’t fair that a small percentage of Americans serve in the military to protect the rest of the population. Opponents argue that the requirement is unnecessary because modern warfare is fought less and less with ground troops and more with unmanned technology including drones.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, service should be a choice instead of an obligation",
+            "Yes, but with less focus on military training and more focus on education and skill development",
+            "Yes, but only for those who do not pursue further education or employment",
+            "Yes, but only for those who are starting to build a criminal record"
+        ]
+    },
+    {
+        "issue": "FOREIGN POLICY",
+        "question": "Should the U.S. formally declare war on ISIS?",
+        "description": "Senator Rand Paul (R-KY) recently proposed declaring war against the Islamic State (ISIS). The declaration would give the President more authority to carry out broader attacks on the militant group without Congressional approval. Opponents argue that the order would give the President too much power by eliminating Congressional oversight. Proponents argue that fighting an organization like ISIS requires an unconventional war plan that requires the President to make quick decisions without Congressional oversight.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, and send in ground troops",
+            "Yes, but only with targeted airstrikes",
+            "Yes, but only with full cooperation from the United Nations",
+            "No, we should not legitimize ISIS as a sovereign entity",
+            "No, we should stay out of Middle Eastern conflicts",
+            "No, not until they attack us on U.S. soil"
+        ]
+    },
+    {
+        "issue": "FOREIGN POLICY",
+        "question": "Should the U.S. continue to support Israel?",
+        "description": "The U.S. currently gives $3.3 billion to Israel every year, which is 1/3rd of the U.S.’s foreign aid budget. Most of the aid is used by Israel to buy American military hardware, such as jets and components for missile defense.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, cut all support and aid",
+            "No, we should be less involved",
+            "No, we should not give aid to any foreign nations",
+            "Not the current administration",
+            "We should give equal support to Israel and Palestine.",
+            "Yes, but respect Israel’s sovereignty and do not dictate how it should interact with its neighbors",
+            "Yes, and increase funding in order to move our embassy to Jerusalem",
+            "Yes, and with more aid and support"
+        ]
+    },
+    {
+        "issue": "FOREIGN POLICY",
+        "question": "Should the U.S. send ground troops into Syria to fight ISIS?",
+        "description": "After the November 13th attacks in Paris several Presidential candidates gave new positions on how the U.S. should combat ISIS in the Syria. The U.S. is currently involved in a coalition of 19 countries that has launched 8,000 airstrikes against ISIS. None of the countries currently have ground troops in Syria.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, send a few hundred ground troops",
+            "Yes, send at least 10,000 ground troops",
+            "Yes, but only as a coordinated effort by the United Nations",
+            "No, not until they attack us on U.S. soil",
+            "No, conduct targeted airstrikes instead",
+            "No, we should stay out of this conflict"
+        ]
+    },
+    {
+        "issue": "FOREIGN POLICY",
+        "question": "Should the U.S. remain in the United Nations?",
+        "description": "The United Nations was formed in 1945 by the U.S., Soviet Union, U.K. and China as an Intergovernmental organization that would international co-operation after World War II. Recent U.N. interventions include the Sri Lankan civil war in 2009 and the 2010 earthquake in Haiti.",
+        "answers": [
+            "Yes",
+            "No",
+            "Scale back our current involvement",
+            "No, and remove the U.N. headquarters from the U.S.",
+            "Yes, and use the U.N. peacekeeping forces to protect our interests"
+        ]
+    },
+    {
+        "issue": "FOREIGN POLICY",
+        "question": "Should the military fly drones over foreign countries to gain intelligence and kill suspected terrorists?",
+        "description": "Drones are unmanned aerial vehicles deployed by U.S. defense and intelligence agencies to collect data and strike suspected enemy targets.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, but only with permission from the country in question",
+            "Yes, the U.S. needs to use all means necessary to combat terrorism",
+            "No, the military has no right to do so without a Congressional declaration of war",
+            "No, only to gather intelligence, not to kill suspected terrorists"
+        ]
+    },
+    {
+        "issue": "FOREIGN POLICY",
+        "question": "Should the military be allowed to use enhanced interrogation techniques, such as waterboarding, to gain information from suspected terrorists?",
+        "description": "After the September 11, 2001 terror attacks the George W. Bush administration authorized the use of “enhanced interrogation techniques” at secret detention facilities around the world run by the defense department and CIA. The authorization approved the use of many techniques including beatings, binding in stress positions, hooding, sleep deprivation and waterboarding. In 2008 President Obama signed an executive order banning the use torture by the U.S. military and CIA. In 2016 the use of torture became a topic during the Presidential race when candidate Donald Trump suggested it should be used against the Islamic State. Opponents of torture argue that the U.S. should never practice torture since it is inhumane and illegal under international law. Proponents argue that the military should not be prevented from using torture if they believe it will keep the country safe.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, but only as a last resort",
+            "Yes, but only if they are convicted terrorists",
+            "Yes, we must use any means necessary to prevent terrorism",
+            "Yes, allow the use of psychological but not physical tactics",
+            "No, and we should strictly follow the laws of the Geneva Convention",
+            "No, torture is inhumane, unethical, and violates the 8th amendment",
+            "No, torture is an ineffective form of interrogation"
+        ]
+    },
+    {
+        "issue": "FOREIGN POLICY",
+        "question": "Should the US increase or decrease foreign aid spending?",
+        "description": "Currently, the United States gives $31.55B, or .19% of GDP, development assistance to other countries. The top 10 recipient countries include Afghanistan, Israel, Egypt, Jordan, West Bank/Gaza, Ethiopia, South Sudan, Malawi, Uganda, and South Africa.",
+        "answers": [
+            "Increase",
+            "Decrease",
+            "I am satisfied with the current amount of spending",
+            "Decrease, until we drastically reduce our national budget deficit",
+            "Decrease, and we should not give foreign aid to any countries",
+            "Increase, but only for countries that have no human rights violations"
+        ]
+    },
+    {
+        "issue": "FOREIGN POLICY",
+        "question": "Should the U.S. close the military prison at Guantanamo Bay, Cuba?",
+        "description": "In February 2016, President Obama sent Congress a plan to close the Guantanamo Bay detention camp. The U.S. took over control of Guantanamo Bay after the Spanish American war in 1903 under the Cuban-American Treaty of Relations. The treaty specifies that the U.S. controls the territory while Cuba retains sovereignty. In January 2002, the U.S. military set up a detention center to hold terrorist suspects after the September 11, 2001 attacks. The U.S. chose the location due to the fact that terrorist suspects held at the center would not be protected under the Geneva Convention since it was located outside of the U.S. The detention center has held up to 779 inmates, many of whom have described being subject to abuse and torture including waterboarding. President Obama’s plan to close the prison would send 30 to 60 prisoners to prisons in the U.S. and transfer the remaining prisoners to other countries. Proponents of closing the base argue that indefinitely holding prisoners in Guantanamo is unconstitutional since none of the prisoners have been tried and convicted in a court of law. Opponents argue that closing the base would put the U.S. at risk of another terrorist attack since prisoners would be transferred to prisons in the U.S.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, it is a waste of money and resources",
+            "Yes, provide a fair trial and transfer the convicted to maximum security prisons",
+            "Yes, and it is unconstitutional to indefinitely hold suspected terrorists without trial",
+            "No, most of the detainees are too dangerous to be released or transferred",
+            "No, but apply rules of the Geneva Convention and end the use of torture",
+            "No, and we should use all means necessary to combat terrorism"
+        ]
+    },
+    {
+        "issue": "FOREIGN POLICY",
+        "question": "Do you support President Obama’s move to lift the trade and travel embargo on Cuba?",
+        "description": "In December 2014 President Obama ordered the restoration of full democratic relations with Cuba. The order lifted a 54 year old trade embargo and eased restrictions on banking and American’s travel to the country. Proponents of relations with Cuba argue that U.S. influence through tourism and trade will promote capitalism and weaken its communist regime. Opponents argue that trade and diplomatic relations will only strengthen the communist regime’s grip on the Cuban government.",
+        "answers": [
+            "Yes",
+            "No"
+        ]
+    },
+    {
+        "issue": "FOREIGN POLICY",
+        "question": "Should the U.S. conduct military strikes against North Korea in order to destroy their long-range missile and nuclear weapons capabilities?",
+        "description": "In January of 2016, North Korea announced that it detonated its first hydrogen bomb. CBS News reported that the U.S. intelligence community is skeptical that North Korea used a thermonuclear device. The blast was in single-digit kilotons, and a thermonuclear device is measured in megatons. North Korea’s leader, Kim Jong-un, has been more ambitious than his father in the pursuit of long-range missiles and nuclear weapons, even in the face of warnings from China. Proponents of military strikes argue that North Korea crossed a line with its latest test and must be stopped at all costs. Opponents argue that North Korea repeatedly lies about its missile capabilities and that the we should let other countries in the region, such as China and South Korea, address this issue.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, we should let China address this issue",
+            "No, we must use every diplomatic option first",
+            "No, and I am not convinced that North Korea has or is capable of developing a long-range nuclear missile",
+            "Yes, we cannot risk the launch of a nuclear weapon"
+        ]
+    },
+    {
+        "issue": "FOREIGN POLICY",
+        "question": "Should the U.S. prevent Russia from conducting airstrikes in Syria?",
+        "description": "In late September 2015, the Russian army conducted its first airstrikes in Syria and claimed they were intended to target ISIS positions within the country. U.S. military leaders and the Obama administration immediately warned that Russia is a close ally of Syrian President Bashar al-Assad and that the Russians will eventually turn their airstrikes against Syrian rebels who were recently supported by the U.S. Opponents of any further intervention in Syria argue that U.S. efforts to train rebels have failed miserably and we should stay out any further conflict in the region.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, and declare war on Russia",
+            "Yes, and establish a no-fly zone",
+            "No, we should let the Russians take out ISIS",
+            "No, we should not get involved"
+        ]
+    },
+    {
+        "issue": "FOREIGN POLICY",
+        "question": "Should the U.S. overthrow President Assad of Syria?",
+        "description": "The Syrian Civil war began in the spring of 2011 after nationwide protests against the government of President Bashar al-Assad resulted in armed conflict. After rebels seized control of several major cities, ISIS forces moved in and took over control of many regions of northern Syria. The government of Assad responded by carrying out airstrikes resulting in over 70,000 civilian deaths. Proponents of overthrowing Assad argue that he is a brutal dictator who must be removed from power before he carries out any more atrocities on innocent Syrian civilians. Opponents of regime change, including President Benjamin Netanyahu of Israel, argue that removing Assad will result in a power vacuum that will destabilize the Middle East.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, but we should defeat ISIS first",
+            "Yes, but only if we join an international coalition",
+            "Yes, Assad is a brutal dictator and must be removed from power",
+            "No, this would allow ISIS to control Syria"
+        ]
+    },
+    {
+        "issue": "FOREIGN POLICY",
+        "question": "Should the U.S. continue NSA surveillance of its allies?",
+        "description": "The cache of documents revealed by former NSA contractor Edward Snowden disclosed that the U.S. used surveillance methods to monitor the emails and phone calls of its closest foreign allies including Germany, France and Brazil. The revelations have severely damaged the U.S.'s relationship with these countries even though State Department officials have insisted that these surveillance programs have thwarted many terrorist threats worldwide.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, and abolish the NSA",
+            "No, spying on our allies severely damages our reputation abroad",
+            "Yes, surveillance of all foreign countries is essential to tracking potential terrorist threats",
+            "Add your own stance"
+        ]
+    },
+    {
+        "issue": "EDUCATION",
+        "question": "Do you support increasing taxes for the rich in order to reduce interest rates for student loans?",
+        "description": "Last Spring the U.S. Senate defeated The Bank on Students Emergency Loan Refinancing Act by a vote of 58-38. The act, proposed by Senator Elizabeth Warren (D-MA) would lower the interest rate on existing student loans from 7% to 3.86%. The act would be financed by levying a mandatory income tax of 30% on everyone who earns between $1 Million and $2 Million dollars per year. Proponents argue that current student loan interest rates are nearly double normal interest rates and should be lowered to provide relief for millions of low-income borrowers. Opponents argue that the borrowers agreed to pay the interest rates when they took out the loans and taxing the rich would hurt the economy.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, and transition all current government student loans into privately managed accounts",
+            "Yes, and increase government funding so every student receives a free college education"
+        ]
+    },
+    {
+        "issue": "EDUCATION",
+        "question": "Do you support Common Core national standards?",
+        "description": "The Common Core State Standards Initiative is an education initiative that details what K-12 students should know in English and Math at the end of each grade. The initiative is sponsored by the National Governors Association and the Council of Chief State School Officers and seeks to establish consistent education standards across the states as well as ensure that students graduating from high school are prepared to enter two or four year college programs or enter the workforce.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, I support the concept but not the current implementation",
+            "Yes, national standards will help improve our national average and better prepare students for college",
+            "Yes, I support a national base standard but allow states and local districts to customize their implementation",
+            "No, education should be handled at the state and local level instead of the national level",
+            "No, it is a waste of time and effort to change my state’s current educational standards",
+            "No, my state’s current standards exceed the Common Core standards",
+            "No, teach to each student's potential instead of uniform testing"
+        ]
+    },
+    {
+        "issue": "IMMIGRATION",
+        "question": "Should illegal immigrants have access to government-subsidized healthcare?",
+        "description": "Illegal immigrants, as well as legal immigrants in the country less than five years, are not eligible for free healthcare through Medicaid. A 2007 study estimated that less than 1 percent of Medicaid spending went to healthcare for illegal immigrants. Proponents of subsidized healthcare for immigrants argue that increased access to basic preventive care will lower the demand for costly emergency care. Opponents argue that immigrants in the healthcare system run the risk of becoming \"permanent patients,\" because they have no relatives, insurance or an established address where they can go once released.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, if they pay taxes",
+            "Yes, and grant them citizenship",
+            "Yes, but they should be deported after treatment",
+            "Yes, but only for life threatening emergencies or infectious diseases",
+            "No, but they should be allowed to purchase private healthcare",
+            "No, and the government should never subsidize healthcare",
+            "No, and we should deport all illegal immigrants",
+            "No, but their children should have access"
+        ]
+    },
+    {
+        "issue": "IMMIGRATION",
+        "question": "Should Muslim immigrants be banned from entering the country until the government improves its ability to screen out potential terrorists?",
+        "description": "At a December 7th campaign stop in South Carolina, Presidential candidate Donald Trump called for a “total and complete shutdown” of Muslims entering the country. The announcement sparked outrage from across the political spectrum with Republicans and Democrats both deeming it unconstitutional. Proponents argue that the government has little idea who is entering the U.S. through its current immigration system and that a temporary ban on Muslims is necessary after the terrorist attack in California. Opponents argue that the proposed ban is unconstitutional and racist towards Muslims.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, until terrorist attacks decrease",
+            "Yes, and ban all immigration until the government improves its screening process",
+            "No, banning immigrants based on their religion is unconstitutional",
+            "No, but we should ban immigrants from “high risk” countries"
+        ]
+    },
+    {
+        "issue": "IMMIGRATION",
+        "question": "Should the U.S. increase restrictions on its current border security policy?",
+        "description": "Congress has passed at least four laws since 1986 authorizing increases in Border Patrol personnel. The number of border patrol agents on the southwest border has grown from 2,268 in 1980 to 21,730 in 2015. Border fencing has increased from 14 miles in 1990 to 651 miles today. Proponents argue that too many immigrants cross our border every year and anyone entering the U.S. from a foreign country should pass through customs and have a valid visa. Opponents of stronger border controls argue the majority of illegal entrants are Mexicans seeking temporary work and pose no threat to national security.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, just enforce the current border policy",
+            "No, and we should implement an open border policy",
+            "No, make it easier for immigrants to access temporary work visas",
+            "Yes, and allow border states to manage their own security policy"
+        ]
+    },
+    {
+        "issue": "IMMIGRATION",
+        "question": "Should illegal immigrants be offered in-state tuition rates at public colleges within their residing state?",
+        "description": "Currently sixteen states (California, Colorado, Connecticut, Illinois, Kansas, Maryland, Minnesota, Nebraska, New Jersey, New Mexico, New York, Oklahoma, Oregon, Texas, Utah, and Washington) allow illegal immigrants to pay the same in-state tuition rates as other residents of the state. To qualify, students must have attended a school in the state for a certain number of years, have graduated high school in the state, have confirmed they are applying for legal citizenship.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, as long as they pay taxes",
+            "Yes, but deny elligibility for financial assistance and scholarships",
+            "Yes, and they should also be elligible for financial assistance and scholarships",
+            "No, they should pay the same rate as out-of-state students",
+            "No, and illegal immigrants should be deported"
+        ]
+    },
+    {
+        "issue": "IMMIGRATION",
+        "question": "Should immigrants be required to learn English?",
+        "description": "The U.S. nationality law requires applicants to have a working knowledge of the English language in order achieve citizenship. In 1990 the government passed exceptions to this requirement for older applicants and those with mental or physical disabilities.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, America was built on diversity",
+            "No, but remove multilingual translations from government documents and services",
+            "Yes, and remove multilingual translations from government documents and services",
+            "Yes, but the government should provide free language learning courses"
+        ]
+    },
+    {
+        "issue": "IMMIGRATION",
+        "question": "Should children of illegal immigrants be granted legal citizenship?",
+        "description": "The 14th amendment of the U.S. constitution states that “All persons born or naturalized in the United States and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside.” Opponents of birth right citizenship argue that the 14th amendment is not clear since it does not specifically state that babies born to parents who were in the United States unlawfully were automatically citizens. Proponents argue that overturning the 14th amendment would increase the number of undocumented immigrants with each child born here, cost the U.S. taxpayers billions, and reduce the tax base.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, if they were born here",
+            "Yes, and abolish all national borders",
+            "Yes, but it should not grant their parents citizenship",
+            "Yes, but only after performing 4 years of military service or graduating college",
+            "No, they must formally apply like every other new citizen",
+            "No, all illegal immigrants should be deported"
+        ]
+    },
+    {
+        "issue": "IMMIGRATION",
+        "question": "Should local law enforcement be allowed to detain illegal immigrants for minor crimes and transfer them to federal immigration authorities?",
+        "description": "On October 7, 2013 California Governor Jerry Brown signed a state bill prohibiting law-enforcement officials from detaining an individual on the basis of a U.S. Immigration and Customs Enforcement hold after that person becomes eligible for release, unless he or she has been charged with or convicted of certain crimes, including violent felonies.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, only if they are convicted of a violent crime",
+            "No, too many non-violent immigrants are being deported",
+            "Yes, all illegal immigrants should be turned over to federal authorities and deported"
+        ]
+    },
+    {
+        "issue": "IMMIGRATION",
+        "question": "Should working illegal immigrants be given temporary amnesty?",
+        "description": "Amnesty is an act by passed by the federal government which grants immunity from immigration laws to undocumented immigrants currently living in the U.S. Various levels of criteria have been proposed for immigrants to be granted amnesty including proof of employment and willingness to pay taxes.",
+        "answers": [
+            "Yes",
+            "No",
+            "No, but allow them to stay",
+            "No, remove them from the U.S.",
+            "No, fine companies that employ illegal immigrants",
+            "Yes, create a simple path to citizenship for immigrants with no criminal record",
+            "Yes, but only if they pay taxes"
+        ]
+    },
+    {
+        "issue": "IMMIGRATION",
+        "question": "Should the US increase or decrease the amount of temporary work visas given to high-skilled immigrant workers?",
+        "description": "Skilled temporary work visas are usually given to foreign scientists, engineers, programmers, architects, executives, and other positions or fields where demand outpaces supply. Most businesses argue that hiring skilled foreign workers allows them to competitively fill positions which are in high demand. Opponents argue that skilled immigrants decrease middle class wages and job tenure.",
+        "answers": [
+            "Increase",
+            "Decrease",
+            "I am satisfied with the current amount",
+            "Decrease, and the government should provide more incentives to prepare our citizens for these jobs",
+            "Decrease, companies are currently taking advantage of this program to decrease wages",
+            "Increase, our economy relies on businesses hiring the highest skilled workers at the lowest cost"
+        ]
+    },
+    {
+        "issue": "SCIENCE",
+        "question": "Should the government fund space travel?",
+        "description": "In 2014 NASA received $17.6 Billion in funding from the U.S. government. This represented .5% of the of the $3.4 Trillion budget last year and 35% of total spending on academic scientific research in the United States.",
+        "answers": [
+            "Yes",
+            "No",
+            "Yes, and drastically increase NASA’s current budget",
+            "No, the government should leave human space travel to private companies",
+            "No, the government should not fund any space exploration missions",
+            "No, we should focus on saving the Earth instead of leaving it",
+            "No, and NASA’s budget should only be for military missions",
+            "No, not until we drastically decrease our federal deficit",
+            "Add your own stance",
+            ""
+        ]
+    }
+]
