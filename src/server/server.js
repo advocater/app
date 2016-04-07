@@ -25,7 +25,8 @@ if (process.env.NODE_ENV === 'development') {
 
 }
 
-const PATH_IMAGES = path.resolve(__dirname,'../../lib/images')
+const PATH_IMAGES = path.resolve(__dirname, '../../lib/images')
+const PATH_DIST = path.resolve(__dirname, '../../dist')
 app.use('/images', express.static(PATH_IMAGES))
 
 
