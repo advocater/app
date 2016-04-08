@@ -29,15 +29,9 @@ import { App, Home, Dashboard, Quiz, Explore } from './containers'
 export default (
   <Route path="/" component={App}>
     <IndexRoute component={Home} />
-    <Route path="campaign" component={Dashboard}>
-      <Route path="/dashboard" component={Dashboard} />
-      {/*
-        <Route path="/polls/:id" component={} />
-        <Route path="/responses" component={} />
-        <Route path="/donors/:id" component={} />
-      */}
-    </Route>
+
     <Route path="dashboard" component={Dashboard} />
+    {/*<Route path="polls/:id" component={Poll} />*/}
 
     <Route path="quiz" component={Quiz} />
     <Route path="explore" component={Explore} />

@@ -42,11 +42,23 @@ class Dashboard extends React.Component {
     dispatch(actions.fetchPolls())
   }
 
+  renderRow(poll) {
+    return (
+      <tr key={this.props.id}>
+        <td>{poll.question}</td>
+        <td>{poll.start}</td>
+        <td>{poll.end}</td>
+        <td>{poll.polls_responded} / {poll.polls_sent}</td>
+      </tr>
+    )
+  }
+
   render() {
     let i = 0;
     let { polls } = this.props
     // console.log(polls.map(poll => console.log(i++)))
     console.log(polls.polls)
+    let tableBody = polls.polls.map((poll) => { return this.renderRow(poll) })
     return (
       <div className="dashboard-container">
         <div className="breadcrumb container">
@@ -66,16 +78,7 @@ class Dashboard extends React.Component {
               </tr>
             </thead>
             <tbody>
-              {polls.polls.map((poll) => {
-                <PollSummary key={poll.id} poll={poll} />
-              })}
-
-              <tr key={1}>
-                <td>{"How did I do in last night's debate?"}</td>
-                <td>{Date.now()}</td>
-                <td>{Date.now()}</td>
-                <td>{10} / {100}</td>
-              </tr>
+              {tableBody}
             </tbody>
           </table>
         </div>
