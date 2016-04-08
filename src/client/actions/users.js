@@ -9,7 +9,7 @@ function log(message, value) { console.log(message, value); return value; }
 
 /* Poll actions */
 export function receiveUsers(payload) {
-  return { type: RECEIVE_RESPONSES, payload }
+  return { type: RECEIVE_USERS, payload }
 }
 
 export function fetchUsers() {

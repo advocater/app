@@ -19,7 +19,7 @@ class Dashboard extends React.Component {
 
   componentDidMount() {
     this.refreshPolls()
-    // this.refreshUsers()
+    this.refreshUsers()
     this.refreshResponses()
   }
 

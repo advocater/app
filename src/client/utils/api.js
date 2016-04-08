@@ -35,3 +35,11 @@ export function responses_get() {
     .then(getJSON)
     .catch(logError)
 }
+
+/* Users */
+export function users_get() {
+  return fetch('/api/users', { method: 'GET', credentials: 'same-origin' })
+    .then(checkStatus)
+    .then(getJSON)
+    .catch(logError)
+}
