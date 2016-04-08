@@ -19,11 +19,23 @@ class Dashboard extends React.Component {
 
   componentDidMount() {
     this.refreshPolls()
+    // this.refreshUsers()
+    this.refreshResponses()
   }
 
   refreshPolls() {
     let { dispatch } = this.props
     dispatch(actions.fetchPolls())
+  }
+
+  refreshResponses() {
+    let { dispatch } = this.props
+    dispatch(actions.fetchResponses())
+  }
+
+  refreshUsers() {
+    let { dispatch } = this.props
+    dispatch(actions.fetchUsers())
   }
 
   renderRow(poll) {
@@ -38,7 +50,7 @@ class Dashboard extends React.Component {
   }
 
   render() {
-    let polls = this.props.polls.polls
+    let polls = this.props.polls.objects
     // console.log(polls.map(poll => console.log(i++)))
     let tableBody = polls.map((poll) => { return this.renderRow(poll) })
     return (

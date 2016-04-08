@@ -18,9 +18,25 @@ function checkStatus(response) {
 
 function getJSON(response) { return response.json() }
 
-/* Surveys */
-export function surveys_get() {
-  return fetch('/api/surveys', { method: 'GET', credentials: 'same-origin' })
+/* Polls */
+export function polls_get() {
+  return fetch('/api/polls', { method: 'GET', credentials: 'same-origin' })
+    .then(checkStatus)
+    .then(getJSON)
+    .catch(logError)
+}
+
+/* Responses */
+export function responses_get() {
+  return fetch('/api/responses', { method: 'GET', credentials: 'same-origin' })
+    .then(checkStatus)
+    .then(getJSON)
+    .catch(logError)
+}
+
+/* Users */
+export function users_get() {
+  return fetch('/api/users', { method: 'GET', credentials: 'same-origin' })
     .then(checkStatus)
     .then(getJSON)
     .catch(logError)

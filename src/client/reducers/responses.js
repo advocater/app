@@ -1,11 +1,11 @@
 
-import { FETCH_POLLS, RECEIVE_POLLS } from '../constants'
+import { FETCH_RESPONSES, RECEIVE_RESPONSES } from '../constants'
 
 const initialState = { objects: [] }
 
-export default function polls(state = initialState, action) {
+export default function responses(state = initialState, action) {
   switch (action.type) {
-    case RECEIVE_POLLS:
+    case RECEIVE_RESPONSES:
       let payload = action.payload
       return {
         ...state,
