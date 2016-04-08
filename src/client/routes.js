@@ -29,8 +29,7 @@ import { App, Home, Dashboard, Quiz, Explore } from './containers'
 export default (
   <Route path="/" component={App}>
     <IndexRoute component={Home} />
-    <Route path="campaign">
-      <IndexRoute component={Dashboard} />
+    <Route path="campaign" component={Dashboard}>
       <Route path="/dashboard" component={Dashboard} />
       {/*
         <Route path="/polls/:id" component={} />
@@ -39,6 +38,7 @@ export default (
       */}
     </Route>
     <Route path="dashboard" component={Dashboard} />
+
     <Route path="quiz" component={Quiz} />
     <Route path="explore" component={Explore} />
   </Route>

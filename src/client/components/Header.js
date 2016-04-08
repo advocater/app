@@ -22,7 +22,7 @@ export default class Header extends React.Component {
           </div>
           <div id="navbar" className="navbar-collapse collapse">
             <ul className="nav navbar-nav">
-              <li><Link to="/campaign/dashboard">Dashboard</Link></li>
+              <li><Link to="/dashboard">Dashboard</Link></li>
               {/*<li><Link to="/quiz">Quiz</Link></li>
               <li><Link to="/explore">Explore</Link></li>*/}
             </ul>
@@ -31,5 +31,4 @@ export default class Header extends React.Component {
       </nav>
     )
   }
-
 }
