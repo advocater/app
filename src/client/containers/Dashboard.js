@@ -1,17 +1,35 @@
 
 import React from 'react'
+import { connect } from 'react-redux'
 import _ from 'lodash'
+
+import * as actions from '../actions'
 
 import './Dashboard.less'
 
 // Seed data
 // let surveys = require('../../../lib/data/surveys.json')
 
+function select(state){
+  return { surveys: state.surveys }
+}
 
-export default class Dashboard extends React.Component {
+class Dashboard extends React.Component {
+
+  componentDidMount() {
+    this.refreshSurveys()
+  }
+
+  refreshSurveys() {
+    let { dispatch } = this.props
+    dispatch(actions.fetchSurveys())
+  }
+
   render() {
     let i = 0;
-
+    let { surveys } = this.props
+    // console.log(surveys.map(survey => console.log(i++)))
+    console.log(surveys.surveys)
     return (
       <div className="dashboard-container">
         <div className="breadcrumb container">
@@ -28,9 +46,16 @@ export default class Dashboard extends React.Component {
               </tr>
             </thead>
             <tbody>
-              {/*_.map(surveys, (survey) => {
+              {/*this.props.surveys.surveys.map((survey) => {
                 <SurveySummary key={survey.id} survey={survey} />
               })*/}
+
+              <tr key={1}>
+                <td>{"How did I do in last night's debate?"}</td>
+                <td>{Date.now()}</td>
+                <td>{Date.now()}</td>
+                <td>{10} / {100}</td>
+              </tr>
             </tbody>
           </table>
         </div>
@@ -55,3 +80,5 @@ class SurveySummary extends React.Component {
   }
 
 }
+
+export default connect(select)(Dashboard)
