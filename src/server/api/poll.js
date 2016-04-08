@@ -7,8 +7,8 @@ let surveys = require('../../../lib/data/example_polls.json')
 
 router.route('/')
   .get(function(req, res){
-    console.log("Got surveys")
-    res.json(surveys)
+    console.log("Got polls")
+    res.json(polls)
   })
 
 

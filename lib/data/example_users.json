@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1000,
+    "first_name": "Danny",
+    "last_name": "THOMPSON",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94143"
+  },
+  {
+    "id": 1001,
+    "first_name": "Penny",
+    "last_name": "CLARK",
+    "party": "REPUBLICAN",
+    "gender": "female",
+    "zip": "9412"
+  },
+  {
+    "id": 1002,
+    "first_name": "Phil",
+    "last_name": "WALKER",
+    "party": "GREEN",
+    "gender": "female",
+    "zip": "94157"
+  },
+  {
+    "id": 1003,
+    "first_name": "Devin",
+    "last_name": "CLARK",
+    "party": "GREEN",
+    "gender": "female",
+    "zip": "94118"
+  },
+  {
+    "id": 1004,
+    "first_name": "Susan",
+    "last_name": "HILL",
+    "party": "REPUBLICAN",
+    "gender": "female",
+    "zip": "94175"
+  },
+  {
+    "id": 1005,
+    "first_name": "Danny",
+    "last_name": "SMITH",
+    "party": "INDEPENDENT",
+    "gender": "female",
+    "zip": "94161"
+  },
+  {
+    "id": 1006,
+    "first_name": "Claire",
+    "last_name": "BAKER",
+    "party": "DEMOCRAT",
+    "gender": "female",
+    "zip": "9413"
+  },
+  {
+    "id": 1007,
+    "first_name": "Devin",
+    "last_name": "ANDERSON",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "9410"
+  },
+  {
+    "id": 1008,
+    "first_name": "Devin",
+    "last_name": "KING",
+    "party": "GREEN",
+    "gender": "female",
+    "zip": "94195"
+  },
+  {
+    "id": 1009,
+    "first_name": "Thomas",
+    "last_name": "WILSON",
+    "party": "GREEN",
+    "gender": "female",
+    "zip": "94132"
+  },
+  {
+    "id": 1010,
+    "first_name": "Melanie",
+    "last_name": "ALLEN",
+    "party": "INDEPENDENT",
+    "gender": "female",
+    "zip": "94153"
+  },
+  {
+    "id": 1011,
+    "first_name": "Frank",
+    "last_name": "WHITE",
+    "party": "REPUBLICAN",
+    "gender": "female",
+    "zip": "94175"
+  },
+  {
+    "id": 1012,
+    "first_name": "Caroline",
+    "last_name": "ADAMS",
+    "party": "INDEPENDENT",
+    "gender": "female",
+    "zip": "94138"
+  },
+  {
+    "id": 1013,
+    "first_name": "Leonard",
+    "last_name": "Vik",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94158"
+  },
+  {
+    "id": 1014,
+    "first_name": "Devin",
+    "last_name": "CLARK",
+    "party": "INDEPENDENT",
+    "gender": "female",
+    "zip": "94155"
+  },
+  {
+    "id": 1015,
+    "first_name": "Claire",
+    "last_name": "ANDERSON",
+    "party": "REPUBLICAN",
+    "gender": "female",
+    "zip": "94181"
+  },
+  {
+    "id": 1016,
+    "first_name": "Susan",
+    "last_name": "JACKSON",
+    "party": "INDEPENDENT",
+    "gender": "female",
+    "zip": "9411"
+  },
+  {
+    "id": 1017,
+    "first_name": "Derek",
+    "last_name": "KING",
+    "party": "REPUBLICAN",
+    "gender": "female",
+    "zip": "94121"
+  },
+  {
+    "id": 1018,
+    "first_name": "Thomas",
+    "last_name": "THOMPSON",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94162"
+  },
+  {
+    "id": 1019,
+    "first_name": "Sally",
+    "last_name": "WALKER",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94185"
+  },
+  {
+    "id": 1020,
+    "first_name": "Joe",
+    "last_name": "KING",
+    "party": "REPUBLICAN",
+    "gender": "female",
+    "zip": "94110"
+  },
+  {
+    "id": 1021,
+    "first_name": "Leonard",
+    "last_name": "MILLER",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94147"
+  },
+  {
+    "id": 1022,
+    "first_name": "Penny",
+    "last_name": "HALL",
+    "party": "INDEPENDENT",
+    "gender": "female",
+    "zip": "9414"
+  },
+  {
+    "id": 1023,
+    "first_name": "Joe",
+    "last_name": "DAVIS",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94169"
+  },
+  {
+    "id": 1024,
+    "first_name": "Christine",
+    "last_name": "Vik",
+    "party": "DEMOCRAT",
+    "gender": "female",
+    "zip": "94172"
+  },
+  {
+    "id": 1025,
+    "first_name": "Danny",
+    "last_name": "BAKER",
+    "party": "REPUBLICAN",
+    "gender": "female",
+    "zip": "94128"
+  },
+  {
+    "id": 1026,
+    "first_name": "Thomas",
+    "last_name": "HILL",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94162"
+  },
+  {
+    "id": 1027,
+    "first_name": "Sally",
+    "last_name": "Sakamoto",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94147"
+  },
+  {
+    "id": 1028,
+    "first_name": "Penny",
+    "last_name": "MOORE",
+    "party": "REPUBLICAN",
+    "gender": "female",
+    "zip": "94189"
+  },
+  {
+    "id": 1029,
+    "first_name": "Derek",
+    "last_name": "Vik",
+    "party": "DEMOCRAT",
+    "gender": "female",
+    "zip": "94127"
+  },
+  {
+    "id": 1030,
+    "first_name": "Thomas",
+    "last_name": "HARRIS",
+    "party": "DEMOCRAT",
+    "gender": "female",
+    "zip": "94118"
+  },
+  {
+    "id": 1031,
+    "first_name": "Melanie",
+    "last_name": "LEWIS",
+    "party": "DEMOCRAT",
+    "gender": "female",
+    "zip": "94153"
+  },
+  {
+    "id": 1032,
+    "first_name": "Caroline",
+    "last_name": "Fujita",
+    "party": "GREEN",
+    "gender": "female",
+    "zip": "94110"
+  },
+  {
+    "id": 1033,
+    "first_name": "Derek",
+    "last_name": "KING",
+    "party": "REPUBLICAN",
+    "gender": "female",
+    "zip": "94133"
+  },
+  {
+    "id": 1034,
+    "first_name": "Susan",
+    "last_name": "HILL",
+    "party": "GREEN",
+    "gender": "female",
+    "zip": "94143"
+  },
+  {
+    "id": 1035,
+    "first_name": "Phil",
+    "last_name": "CLARK",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94133"
+  },
+  {
+    "id": 1036,
+    "first_name": "Sally",
+    "last_name": "HARRIS",
+    "party": "DEMOCRAT",
+    "gender": "female",
+    "zip": "94122"
+  },
+  {
+    "id": 1037,
+    "first_name": "Devin",
+    "last_name": "Fujita",
+    "party": "INDEPENDENT",
+    "gender": "female",
+    "zip": "94141"
+  },
+  {
+    "id": 1038,
+    "first_name": "Danny",
+    "last_name": "JONES",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94120"
+  },
+  {
+    "id": 1039,
+    "first_name": "Derek",
+    "last_name": "WILSON",
+    "party": "INDEPENDENT",
+    "gender": "female",
+    "zip": "94158"
+  },
+  {
+    "id": 1040,
+    "first_name": "Danny",
+    "last_name": "Vik",
+    "party": "REPUBLICAN",
+    "gender": "female",
+    "zip": "94111"
+  },
+  {
+    "id": 1041,
+    "first_name": "Derek",
+    "last_name": "BAKER",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94121"
+  },
+  {
+    "id": 1042,
+    "first_name": "Derek",
+    "last_name": "WALKER",
+    "party": "REPUBLICAN",
+    "gender": "female",
+    "zip": "94125"
+  },
+  {
+    "id": 1043,
+    "first_name": "Susan",
+    "last_name": "Fujita",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94146"
+  },
+  {
+    "id": 1044,
+    "first_name": "Glenn",
+    "last_name": "BROWN",
+    "party": "DEMOCRAT",
+    "gender": "female",
+    "zip": "94156"
+  },
+  {
+    "id": 1045,
+    "first_name": "Caroline",
+    "last_name": "JONES",
+    "party": "REPUBLICAN",
+    "gender": "female",
+    "zip": "94139"
+  },
+  {
+    "id": 1046,
+    "first_name": "Thomas",
+    "last_name": "THOMAS",
+    "party": "INDEPENDENT",
+    "gender": "female",
+    "zip": "94186"
+  },
+  {
+    "id": 1047,
+    "first_name": "Frank",
+    "last_name": "LEE",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94138"
+  },
+  {
+    "id": 1048,
+    "first_name": "Penny",
+    "last_name": "WALKER",
+    "party": "REPUBLICAN",
+    "gender": "female",
+    "zip": "94171"
+  },
+  {
+    "id": 1049,
+    "first_name": "Melanie",
+    "last_name": "TAYLOR",
+    "party": "INDEPENDENT",
+    "gender": "female",
+    "zip": "94140"
+  },
+  {
+    "id": 1050,
+    "first_name": "Glenn",
+    "last_name": "TAYLOR",
+    "party": "GREEN",
+    "gender": "female",
+    "zip": "94149"
+  },
+  {
+    "id": 1051,
+    "first_name": "Susan",
+    "last_name": "WRIGHT",
+    "party": "GREEN",
+    "gender": "female",
+    "zip": "94132"
+  },
+  {
+    "id": 1052,
+    "first_name": "Christine",
+    "last_name": "Vik",
+    "party": "REPUBLICAN",
+    "gender": "female",
+    "zip": "94121"
+  },
+  {
+    "id": 1053,
+    "first_name": "Joe",
+    "last_name": "KING",
+    "party": "REPUBLICAN",
+    "gender": "female",
+    "zip": "94130"
+  },
+  {
+    "id": 1054,
+    "first_name": "Rachel",
+    "last_name": "JOHNSON",
+    "party": "INDEPENDENT",
+    "gender": "female",
+    "zip": "94198"
+  },
+  {
+    "id": 1055,
+    "first_name": "Claire",
+    "last_name": "HARRIS",
+    "party": "DEMOCRAT",
+    "gender": "female",
+    "zip": "94116"
+  },
+  {
+    "id": 1056,
+    "first_name": "Claire",
+    "last_name": "JONES",
+    "party": "INDEPENDENT",
+    "gender": "female",
+    "zip": "94137"
+  },
+  {
+    "id": 1057,
+    "first_name": "Leonard",
+    "last_name": "HARRIS",
+    "party": "GREEN",
+    "gender": "female",
+    "zip": "94180"
+  },
+  {
+    "id": 1058,
+    "first_name": "Devin",
+    "last_name": "MILLER",
+    "party": "GREEN",
+    "gender": "female",
+    "zip": "94192"
+  },
+  {
+    "id": 1059,
+    "first_name": "Sally",
+    "last_name": "THOMPSON",
+    "party": "INDEPENDENT",
+    "gender": "female",
+    "zip": "94146"
+  },
+  {
+    "id": 1060,
+    "first_name": "Joe",
+    "last_name": "THOMAS",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94122"
+  },
+  {
+    "id": 1061,
+    "first_name": "Penny",
+    "last_name": "Vik",
+    "party": "DEMOCRAT",
+    "gender": "female",
+    "zip": "94121"
+  },
+  {
+    "id": 1062,
+    "first_name": "Devin",
+    "last_name": "MILLER",
+    "party": "REPUBLICAN",
+    "gender": "female",
+    "zip": "94146"
+  },
+  {
+    "id": 1063,
+    "first_name": "Phil",
+    "last_name": "BAKER",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94112"
+  },
+  {
+    "id": 1064,
+    "first_name": "Derek",
+    "last_name": "LEE",
+    "party": "INDEPENDENT",
+    "gender": "female",
+    "zip": "94118"
+  },
+  {
+    "id": 1065,
+    "first_name": "Rachel",
+    "last_name": "HALL",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94138"
+  },
+  {
+    "id": 1066,
+    "first_name": "Danny",
+    "last_name": "Luby",
+    "party": "GREEN",
+    "gender": "female",
+    "zip": "94113"
+  },
+  {
+    "id": 1067,
+    "first_name": "Penny",
+    "last_name": "ALLEN",
+    "party": "GREEN",
+    "gender": "female",
+    "zip": "9410"
+  },
+  {
+    "id": 1068,
+    "first_name": "Penny",
+    "last_name": "Fujita",
+    "party": "DEMOCRAT",
+    "gender": "female",
+    "zip": "94193"
+  },
+  {
+    "id": 1069,
+    "first_name": "Claire",
+    "last_name": "Vik",
+    "party": "GREEN",
+    "gender": "female",
+    "zip": "94176"
+  },
+  {
+    "id": 1070,
+    "first_name": "Rachel",
+    "last_name": "ANDERSON",
+    "party": "DEMOCRAT",
+    "gender": "female",
+    "zip": "94154"
+  },
+  {
+    "id": 1071,
+    "first_name": "Sally",
+    "last_name": "LEWIS",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94179"
+  },
+  {
+    "id": 1072,
+    "first_name": "Rachel",
+    "last_name": "THOMPSON",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94175"
+  },
+  {
+    "id": 1073,
+    "first_name": "Christine",
+    "last_name": "Fujita",
+    "party": "REPUBLICAN",
+    "gender": "female",
+    "zip": "9415"
+  },
+  {
+    "id": 1074,
+    "first_name": "Leonard",
+    "last_name": "ADAMS",
+    "party": "INDEPENDENT",
+    "gender": "female",
+    "zip": "94112"
+  },
+  {
+    "id": 1075,
+    "first_name": "Melanie",
+    "last_name": "WRIGHT",
+    "party": "GREEN",
+    "gender": "female",
+    "zip": "94187"
+  },
+  {
+    "id": 1076,
+    "first_name": "Derek",
+    "last_name": "ADAMS",
+    "party": "REPUBLICAN",
+    "gender": "female",
+    "zip": "94174"
+  },
+  {
+    "id": 1077,
+    "first_name": "Caroline",
+    "last_name": "LEE",
+    "party": "DEMOCRAT",
+    "gender": "female",
+    "zip": "94115"
+  },
+  {
+    "id": 1078,
+    "first_name": "Leonard",
+    "last_name": "ALLEN",
+    "party": "GREEN",
+    "gender": "female",
+    "zip": "94195"
+  },
+  {
+    "id": 1079,
+    "first_name": "Melanie",
+    "last_name": "THOMAS",
+    "party": "DEMOCRAT",
+    "gender": "female",
+    "zip": "94182"
+  },
+  {
+    "id": 1080,
+    "first_name": "Danny",
+    "last_name": "TAYLOR",
+    "party": "REPUBLICAN",
+    "gender": "female",
+    "zip": "94122"
+  },
+  {
+    "id": 1081,
+    "first_name": "Rachel",
+    "last_name": "TAYLOR",
+    "party": "DEMOCRAT",
+    "gender": "female",
+    "zip": "94119"
+  },
+  {
+    "id": 1082,
+    "first_name": "Leonard",
+    "last_name": "LEE",
+    "party": "DEMOCRAT",
+    "gender": "female",
+    "zip": "94110"
+  },
+  {
+    "id": 1083,
+    "first_name": "Claire",
+    "last_name": "THOMAS",
+    "party": "GREEN",
+    "gender": "female",
+    "zip": "94154"
+  },
+  {
+    "id": 1084,
+    "first_name": "Phil",
+    "last_name": "THOMAS",
+    "party": "DEMOCRAT",
+    "gender": "female",
+    "zip": "94122"
+  },
+  {
+    "id": 1085,
+    "first_name": "Joe",
+    "last_name": "LEE",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94161"
+  },
+  {
+    "id": 1086,
+    "first_name": "Danny",
+    "last_name": "MILLER",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94132"
+  },
+  {
+    "id": 1087,
+    "first_name": "Phil",
+    "last_name": "DAVIS",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94163"
+  },
+  {
+    "id": 1088,
+    "first_name": "Minnie",
+    "last_name": "HALL",
+    "party": "GREEN",
+    "gender": "female",
+    "zip": "94179"
+  },
+  {
+    "id": 1089,
+    "first_name": "Phil",
+    "last_name": "BAKER",
+    "party": "GREEN",
+    "gender": "female",
+    "zip": "94147"
+  },
+  {
+    "id": 1090,
+    "first_name": "Susan",
+    "last_name": "JONES",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94139"
+  },
+  {
+    "id": 1091,
+    "first_name": "Joe",
+    "last_name": "SMITH",
+    "party": "INDEPENDENT",
+    "gender": "female",
+    "zip": "94123"
+  },
+  {
+    "id": 1092,
+    "first_name": "Joe",
+    "last_name": "THOMAS",
+    "party": "LIBERTARIAN",
+    "gender": "female",
+    "zip": "94175"
+  },
+  {
+    "id": 1093,
+    "first_name": "Minnie",
+    "last_name": "Vik",
+    "party": "REPUBLICAN",
+    "gender": "female",
+    "zip": "9418"
+  },
+  {
+    "id": 1094,
+    "first_name": "Devin",
+    "last_name": "THOMAS",
+    "party": "GREEN",
+    "gender": "female",
+    "zip": "94137"
+  },
+  {
+    "id": 1095,
+    "first_name": "Caroline",
+    "last_name": "ADAMS",
+    "party": "INDEPENDENT",
+    "gender": "female",
+    "zip": "94148"
+  },
+  {
+    "id": 1096,
+    "first_name": "Joe",
+    "last_name": "MILLER",
+    "party": "DEMOCRAT",
+    "gender": "female",
+    "zip": "94142"
+  },
+  {
+    "id": 1097,
+    "first_name": "Joe",
+    "last_name": "Sakamoto",
+    "party": "DEMOCRAT",
+    "gender": "female",
+    "zip": "94149"
+  },
+  {
+    "id": 1098,
+    "first_name": "Danny",
+    "last_name": "ALLEN",
+    "party": "INDEPENDENT",
+    "gender": "female",
+    "zip": "94161"
+  },
+  {
+    "id": 1099,
+    "first_name": "Glenn",
+    "last_name": "Sakamoto",
+    "party": "GREEN",
+    "gender": "female",
+    "zip": "94198"
+  }
+]

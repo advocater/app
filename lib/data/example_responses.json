@@ -1,0 +1,691 @@
+[
+  {
+    "id": 1010,
+    "user": {
+      "id": 1013,
+      "first_name": "Leonard",
+      "last_name": "Vik",
+      "party": "LIBERTARIAN",
+      "gender": "female",
+      "zip": "94158"
+    },
+    "message": "10 STOP sending me these",
+    "score": 10
+  },
+  {
+    "id": 1020,
+    "user": {
+      "id": 1073,
+      "first_name": "Christine",
+      "last_name": "Fujita",
+      "party": "REPUBLICAN",
+      "gender": "female",
+      "zip": "9415"
+    },
+    "message": "1 STOP sending me these",
+    "score": 1
+  },
+  {
+    "id": 1030,
+    "user": {
+      "id": 1013,
+      "first_name": "Leonard",
+      "last_name": "Vik",
+      "party": "LIBERTARIAN",
+      "gender": "female",
+      "zip": "94158"
+    },
+    "message": "10",
+    "score": 10
+  },
+  {
+    "id": 1040,
+    "user": {
+      "id": 1099,
+      "first_name": "Glenn",
+      "last_name": "Sakamoto",
+      "party": "GREEN",
+      "gender": "female",
+      "zip": "94198"
+    },
+    "message": "3 STOP sending me these",
+    "score": 3
+  },
+  {
+    "id": 1011,
+    "user": {
+      "id": 1029,
+      "first_name": "Derek",
+      "last_name": "Vik",
+      "party": "DEMOCRAT",
+      "gender": "female",
+      "zip": "94127"
+    },
+    "message": "0 I could do better",
+    "score": 0
+  },
+  {
+    "id": 1021,
+    "user": {
+      "id": 1032,
+      "first_name": "Caroline",
+      "last_name": "Fujita",
+      "party": "GREEN",
+      "gender": "female",
+      "zip": "94110"
+    },
+    "message": "8 (^*%&$^#^%$#^)",
+    "score": 8
+  },
+  {
+    "id": 1031,
+    "user": {
+      "id": 1077,
+      "first_name": "Caroline",
+      "last_name": "LEE",
+      "party": "DEMOCRAT",
+      "gender": "female",
+      "zip": "94115"
+    },
+    "message": "4",
+    "score": 4
+  },
+  {
+    "id": 1041,
+    "user": {
+      "id": 1093,
+      "first_name": "Minnie",
+      "last_name": "Vik",
+      "party": "REPUBLICAN",
+      "gender": "female",
+      "zip": "9418"
+    },
+    "message": "10 STOP sending me these",
+    "score": 10
+  },
+  {
+    "id": 1051,
+    "user": {
+      "id": 1013,
+      "first_name": "Leonard",
+      "last_name": "Vik",
+      "party": "LIBERTARIAN",
+      "gender": "female",
+      "zip": "94158"
+    },
+    "message": "0 #winning",
+    "score": 0
+  },
+  {
+    "id": 1061,
+    "user": {
+      "id": 1081,
+      "first_name": "Rachel",
+      "last_name": "TAYLOR",
+      "party": "DEMOCRAT",
+      "gender": "female",
+      "zip": "94119"
+    },
+    "message": "2 (^*%&$^#^%$#^)",
+    "score": 2
+  },
+  {
+    "id": 1071,
+    "user": {
+      "id": 1070,
+      "first_name": "Rachel",
+      "last_name": "ANDERSON",
+      "party": "DEMOCRAT",
+      "gender": "female",
+      "zip": "94154"
+    },
+    "message": "6 #boo",
+    "score": 6
+  },
+  {
+    "id": 1081,
+    "user": {
+      "id": 1069,
+      "first_name": "Claire",
+      "last_name": "Vik",
+      "party": "GREEN",
+      "gender": "female",
+      "zip": "94176"
+    },
+    "message": "0 I want to hear more about abortion",
+    "score": 0
+  },
+  {
+    "id": 1012,
+    "user": {
+      "id": 1040,
+      "first_name": "Danny",
+      "last_name": "Vik",
+      "party": "REPUBLICAN",
+      "gender": "female",
+      "zip": "94111"
+    },
+    "message": "2 #winning",
+    "score": 2
+  },
+  {
+    "id": 1022,
+    "user": {
+      "id": 1065,
+      "first_name": "Rachel",
+      "last_name": "HALL",
+      "party": "LIBERTARIAN",
+      "gender": "female",
+      "zip": "94138"
+    },
+    "message": "3 I love you",
+    "score": 3
+  },
+  {
+    "id": 1032,
+    "user": {
+      "id": 1055,
+      "first_name": "Claire",
+      "last_name": "HARRIS",
+      "party": "DEMOCRAT",
+      "gender": "female",
+      "zip": "94116"
+    },
+    "message": "10 I could do better",
+    "score": 10
+  },
+  {
+    "id": 1042,
+    "user": {
+      "id": 1086,
+      "first_name": "Danny",
+      "last_name": "MILLER",
+      "party": "LIBERTARIAN",
+      "gender": "female",
+      "zip": "94132"
+    },
+    "message": "5 I want to hear more about abortion",
+    "score": 5
+  },
+  {
+    "id": 1013,
+    "user": {
+      "id": 1020,
+      "first_name": "Joe",
+      "last_name": "KING",
+      "party": "REPUBLICAN",
+      "gender": "female",
+      "zip": "94110"
+    },
+    "message": "1 I love you",
+    "score": 1
+  },
+  {
+    "id": 1023,
+    "user": {
+      "id": 1095,
+      "first_name": "Caroline",
+      "last_name": "ADAMS",
+      "party": "INDEPENDENT",
+      "gender": "female",
+      "zip": "94148"
+    },
+    "message": "4 (^*%&$^#^%$#^)",
+    "score": 4
+  },
+  {
+    "id": 1014,
+    "user": {
+      "id": 1080,
+      "first_name": "Danny",
+      "last_name": "TAYLOR",
+      "party": "REPUBLICAN",
+      "gender": "female",
+      "zip": "94122"
+    },
+    "message": "7",
+    "score": 7
+  },
+  {
+    "id": 1024,
+    "user": {
+      "id": 1015,
+      "first_name": "Claire",
+      "last_name": "ANDERSON",
+      "party": "REPUBLICAN",
+      "gender": "female",
+      "zip": "94181"
+    },
+    "message": "8 I want to hear more about abortion",
+    "score": 8
+  },
+  {
+    "id": 1034,
+    "user": {
+      "id": 1019,
+      "first_name": "Sally",
+      "last_name": "WALKER",
+      "party": "LIBERTARIAN",
+      "gender": "female",
+      "zip": "94185"
+    },
+    "message": "5 I want to hear more about abortion",
+    "score": 5
+  },
+  {
+    "id": 1044,
+    "user": {
+      "id": 1011,
+      "first_name": "Frank",
+      "last_name": "WHITE",
+      "party": "REPUBLICAN",
+      "gender": "female",
+      "zip": "94175"
+    },
+    "message": "7 (^*%&$^#^%$#^)",
+    "score": 7
+  },
+  {
+    "id": 1054,
+    "user": {
+      "id": 1098,
+      "first_name": "Danny",
+      "last_name": "ALLEN",
+      "party": "INDEPENDENT",
+      "gender": "female",
+      "zip": "94161"
+    },
+    "message": "3 I could do better",
+    "score": 3
+  },
+  {
+    "id": 1064,
+    "user": {
+      "id": 1066,
+      "first_name": "Danny",
+      "last_name": "Luby",
+      "party": "GREEN",
+      "gender": "female",
+      "zip": "94113"
+    },
+    "message": "8 I love you",
+    "score": 8
+  },
+  {
+    "id": 1074,
+    "user": {
+      "id": 1071,
+      "first_name": "Sally",
+      "last_name": "LEWIS",
+      "party": "LIBERTARIAN",
+      "gender": "female",
+      "zip": "94179"
+    },
+    "message": "5 STOP sending me these",
+    "score": 5
+  },
+  {
+    "id": 1084,
+    "user": {
+      "id": 1063,
+      "first_name": "Phil",
+      "last_name": "BAKER",
+      "party": "LIBERTARIAN",
+      "gender": "female",
+      "zip": "94112"
+    },
+    "message": "2 (^*%&$^#^%$#^)",
+    "score": 2
+  },
+  {
+    "id": 1094,
+    "user": {
+      "id": 1081,
+      "first_name": "Rachel",
+      "last_name": "TAYLOR",
+      "party": "DEMOCRAT",
+      "gender": "female",
+      "zip": "94119"
+    },
+    "message": "1 STOP sending me these",
+    "score": 1
+  },
+  {
+    "id": 1015,
+    "user": {
+      "id": 1059,
+      "first_name": "Sally",
+      "last_name": "THOMPSON",
+      "party": "INDEPENDENT",
+      "gender": "female",
+      "zip": "94146"
+    },
+    "message": "4 (^*%&$^#^%$#^)",
+    "score": 4
+  },
+  {
+    "id": 1025,
+    "user": {
+      "id": 1053,
+      "first_name": "Joe",
+      "last_name": "KING",
+      "party": "REPUBLICAN",
+      "gender": "female",
+      "zip": "94130"
+    },
+    "message": "3 (^*%&$^#^%$#^)",
+    "score": 3
+  },
+  {
+    "id": 1035,
+    "user": {
+      "id": 1024,
+      "first_name": "Christine",
+      "last_name": "Vik",
+      "party": "DEMOCRAT",
+      "gender": "female",
+      "zip": "94172"
+    },
+    "message": "10 #boo",
+    "score": 10
+  },
+  {
+    "id": 1045,
+    "user": {
+      "id": 1085,
+      "first_name": "Joe",
+      "last_name": "LEE",
+      "party": "LIBERTARIAN",
+      "gender": "female",
+      "zip": "94161"
+    },
+    "message": "2 I love you",
+    "score": 2
+  },
+  {
+    "id": 1055,
+    "user": {
+      "id": 1058,
+      "first_name": "Devin",
+      "last_name": "MILLER",
+      "party": "GREEN",
+      "gender": "female",
+      "zip": "94192"
+    },
+    "message": "6",
+    "score": 6
+  },
+  {
+    "id": 1016,
+    "user": {
+      "id": 1018,
+      "first_name": "Thomas",
+      "last_name": "THOMPSON",
+      "party": "LIBERTARIAN",
+      "gender": "female",
+      "zip": "94162"
+    },
+    "message": "0",
+    "score": 0
+  },
+  {
+    "id": 1026,
+    "user": {
+      "id": 1068,
+      "first_name": "Penny",
+      "last_name": "Fujita",
+      "party": "DEMOCRAT",
+      "gender": "female",
+      "zip": "94193"
+    },
+    "message": "1 #winning",
+    "score": 1
+  },
+  {
+    "id": 1036,
+    "user": {
+      "id": 1088,
+      "first_name": "Minnie",
+      "last_name": "HALL",
+      "party": "GREEN",
+      "gender": "female",
+      "zip": "94179"
+    },
+    "message": "5 I could do better",
+    "score": 5
+  },
+  {
+    "id": 1046,
+    "user": {
+      "id": 1079,
+      "first_name": "Melanie",
+      "last_name": "THOMAS",
+      "party": "DEMOCRAT",
+      "gender": "female",
+      "zip": "94182"
+    },
+    "message": "8 STOP sending me these",
+    "score": 8
+  },
+  {
+    "id": 1056,
+    "user": {
+      "id": 1066,
+      "first_name": "Danny",
+      "last_name": "Luby",
+      "party": "GREEN",
+      "gender": "female",
+      "zip": "94113"
+    },
+    "message": "0 I could do better",
+    "score": 0
+  },
+  {
+    "id": 1066,
+    "user": {
+      "id": 1015,
+      "first_name": "Claire",
+      "last_name": "ANDERSON",
+      "party": "REPUBLICAN",
+      "gender": "female",
+      "zip": "94181"
+    },
+    "message": "4 I want to hear more about abortion",
+    "score": 4
+  },
+  {
+    "id": 1076,
+    "user": {
+      "id": 1061,
+      "first_name": "Penny",
+      "last_name": "Vik",
+      "party": "DEMOCRAT",
+      "gender": "female",
+      "zip": "94121"
+    },
+    "message": "6 I love you",
+    "score": 6
+  },
+  {
+    "id": 1086,
+    "user": {
+      "id": 1005,
+      "first_name": "Danny",
+      "last_name": "SMITH",
+      "party": "INDEPENDENT",
+      "gender": "female",
+      "zip": "94161"
+    },
+    "message": "10 #winning",
+    "score": 10
+  },
+  {
+    "id": 1017,
+    "user": {
+      "id": 1080,
+      "first_name": "Danny",
+      "last_name": "TAYLOR",
+      "party": "REPUBLICAN",
+      "gender": "female",
+      "zip": "94122"
+    },
+    "message": "3 I could do better",
+    "score": 3
+  },
+  {
+    "id": 1027,
+    "user": {
+      "id": 1070,
+      "first_name": "Rachel",
+      "last_name": "ANDERSON",
+      "party": "DEMOCRAT",
+      "gender": "female",
+      "zip": "94154"
+    },
+    "message": "5 (^*%&$^#^%$#^)",
+    "score": 5
+  },
+  {
+    "id": 1037,
+    "user": {
+      "id": 1010,
+      "first_name": "Melanie",
+      "last_name": "ALLEN",
+      "party": "INDEPENDENT",
+      "gender": "female",
+      "zip": "94153"
+    },
+    "message": "4 #boo",
+    "score": 4
+  },
+  {
+    "id": 1047,
+    "user": {
+      "id": 1096,
+      "first_name": "Joe",
+      "last_name": "MILLER",
+      "party": "DEMOCRAT",
+      "gender": "female",
+      "zip": "94142"
+    },
+    "message": "6 I love you",
+    "score": 6
+  },
+  {
+    "id": 1057,
+    "user": {
+      "id": 1019,
+      "first_name": "Sally",
+      "last_name": "WALKER",
+      "party": "LIBERTARIAN",
+      "gender": "female",
+      "zip": "94185"
+    },
+    "message": "7 I could do better",
+    "score": 7
+  },
+  {
+    "id": 1067,
+    "user": {
+      "id": 1057,
+      "first_name": "Leonard",
+      "last_name": "HARRIS",
+      "party": "GREEN",
+      "gender": "female",
+      "zip": "94180"
+    },
+    "message": "8 #boo",
+    "score": 8
+  },
+  {
+    "id": 1018,
+    "user": {
+      "id": 1060,
+      "first_name": "Joe",
+      "last_name": "THOMAS",
+      "party": "LIBERTARIAN",
+      "gender": "female",
+      "zip": "94122"
+    },
+    "message": "5 #winning",
+    "score": 5
+  },
+  {
+    "id": 1028,
+    "user": {
+      "id": 1082,
+      "first_name": "Leonard",
+      "last_name": "LEE",
+      "party": "DEMOCRAT",
+      "gender": "female",
+      "zip": "94110"
+    },
+    "message": "3 I could do better",
+    "score": 3
+  },
+  {
+    "id": 1019,
+    "user": {
+      "id": 1062,
+      "first_name": "Devin",
+      "last_name": "MILLER",
+      "party": "REPUBLICAN",
+      "gender": "female",
+      "zip": "94146"
+    },
+    "message": "5 STOP sending me these",
+    "score": 5
+  },
+  {
+    "id": 1029,
+    "user": {
+      "id": 1050,
+      "first_name": "Glenn",
+      "last_name": "TAYLOR",
+      "party": "GREEN",
+      "gender": "female",
+      "zip": "94149"
+    },
+    "message": "6 I want to hear more about abortion",
+    "score": 6
+  },
+  {
+    "id": 1039,
+    "user": {
+      "id": 1070,
+      "first_name": "Rachel",
+      "last_name": "ANDERSON",
+      "party": "DEMOCRAT",
+      "gender": "female",
+      "zip": "94154"
+    },
+    "message": "8 #winning",
+    "score": 8
+  },
+  {
+    "id": 1049,
+    "user": {
+      "id": 1057,
+      "first_name": "Leonard",
+      "last_name": "HARRIS",
+      "party": "GREEN",
+      "gender": "female",
+      "zip": "94180"
+    },
+    "message": "7 I love you",
+    "score": 7
+  },
+  {
+    "id": 1059,
+    "user": {
+      "id": 1077,
+      "first_name": "Caroline",
+      "last_name": "LEE",
+      "party": "DEMOCRAT",
+      "gender": "female",
+      "zip": "94115"
+    },
+    "message": "9 STOP sending me these",
+    "score": 9
+  }
+]
