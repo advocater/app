@@ -1,6 +1,8 @@
 
 'use strict'
 
+let router = require('express').Router();
+
 let surveys = require('../../../lib/data/surveys.json')
 
 router.route('/')

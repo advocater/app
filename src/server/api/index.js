@@ -4,7 +4,7 @@
 
 let router = require('express').Router()
 
-router.use('/surveys', require('./surveys'))
-// router.use('/responses', require('./responses'))
+router.use('/polls', require('./poll'))
+// router.use('/responses', require('./response'))
 
 module.exports = router

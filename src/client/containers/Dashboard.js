@@ -8,47 +8,67 @@ import * as actions from '../actions'
 import './Dashboard.less'
 
 // Seed data
-// let surveys = require('../../../lib/data/surveys.json')
+// let polls = require('../../../lib/data/polls.json')
 
 function select(state){
-  return { surveys: state.surveys }
+  return { polls: state.polls }
+}
+
+class PollSummary extends React.Component {
+
+  render() {
+    let poll = this.props.poll
+    let effectiveness = poll.polls_responded / poll.polls_sent
+    return (
+      <tr key={this.props.id}>
+        <td>{poll.question}</td>
+        <td>{poll.start}</td>
+        <td>{poll.end}</td>
+        <td>{poll.polls_responded} / {poll.polls_sent}</td>
+      </tr>
+    )
+  }
+
 }
 
 class Dashboard extends React.Component {
 
   componentDidMount() {
-    this.refreshSurveys()
+    this.refreshPolls()
   }
 
-  refreshSurveys() {
+  refreshPolls() {
     let { dispatch } = this.props
-    dispatch(actions.fetchSurveys())
+    dispatch(actions.fetchPolls())
   }
 
   render() {
     let i = 0;
-    let { surveys } = this.props
-    // console.log(surveys.map(survey => console.log(i++)))
-    console.log(surveys.surveys)
+    let { polls } = this.props
+    // console.log(polls.map(poll => console.log(i++)))
+    console.log(polls.polls)
     return (
       <div className="dashboard-container">
         <div className="breadcrumb container">
-          Add a new survey
+          Add a new poll
         </div>
         <div className="panel panel-default container">
+          <div>
+            There are currently {polls.polls.length} polls.
+          </div>
           <table className="table table-striped table-hover">
             <thead>
               <tr>
-                <th>Survey Questions</th>
+                <th>Poll Questions</th>
                 <th>Date</th>
                 <th>Time</th>
                 <th>Effectiveness</th>
               </tr>
             </thead>
             <tbody>
-              {/*this.props.surveys.surveys.map((survey) => {
-                <SurveySummary key={survey.id} survey={survey} />
-              })*/}
+              {polls.polls.map((poll) => {
+                <PollSummary key={poll.id} poll={poll} />
+              })}
 
               <tr key={1}>
                 <td>{"How did I do in last night's debate?"}</td>
@@ -64,21 +84,5 @@ class Dashboard extends React.Component {
   }
 }
 
-class SurveySummary extends React.Component {
-
-  render() {
-    let survey = this.props.survey
-    let effectiveness = survey.polls_responded / survey.polls_sent
-    return (
-      <tr key={this.props.id}>
-        <td>{survey.question}</td>
-        <td>{survey.start}</td>
-        <td>{survey.end}</td>
-        <td>{survey.polls_responded} / {survey.polls_sent}</td>
-      </tr>
-    )
-  }
-
-}
 
 export default connect(select)(Dashboard)

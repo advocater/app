@@ -3,5 +3,5 @@
 export const INCREASE = 'INCREASE'
 export const DECREASE = 'DECREASE'
 
-export const FETCH_SURVEYS = 'FETCH_SURVEYS'
-export const RECEIVE_SURVEYS = 'RECEIVE_SURVEYS'
+export const FETCH_POLLS = 'FETCH_POLLS'
+export const RECEIVE_POLLS = 'RECEIVE_POLLS'

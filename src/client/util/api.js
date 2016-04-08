@@ -1,5 +1,5 @@
 
-import fetch from 'isomorphic-fetch'
+import 'fetch' from 'isomorphic-fetch'
 
 /* Helper functions */
 function logError(err) { console.log('Error in actions/surveys.js', err); throw err; }
@@ -19,18 +19,8 @@ function checkStatus(response) {
 function getJSON(response) { return response.json() }
 
 /* Surveys */
-export function polls_get() {
-  let path = '/api/polls/'
-  return fetch(path, { method: 'GET', credentials: 'same-origin' })
-    .then(checkStatus)
-    .then(getJSON)
-    .catch(logError)
-}
-
-/* Responses */
-export function responses_get() {
-  let path = '/api/responses'
-  return fetch(path, { method: 'GET', credentials: 'same-origin'})
+export function surveys_get() {
+  return fetch('/api/surveys', { method: 'GET', credentials: 'same-origin' })
     .then(checkStatus)
     .then(getJSON)
     .catch(logError)

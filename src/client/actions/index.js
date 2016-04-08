@@ -1,2 +1,2 @@
 export * from './count'
-export * from './surveys'
+export * from './polls'
