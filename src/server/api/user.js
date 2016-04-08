@@ -3,12 +3,12 @@
 
 let router = require('express').Router();
 
-let polls = require('../../../lib/data/example_polls.json')
+let users = require('../../../lib/data/example_users.json')
 
 router.route('/')
   .get(function(req, res){
-    console.log("Got polls")
-    res.json(polls)
+    console.log("Got users")
+    res.json(users)
   })
 
 
