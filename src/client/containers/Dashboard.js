@@ -10,9 +10,8 @@ import './Dashboard.less'
 
 export default class Dashboard extends React.Component {
   render() {
-    surveys = JSON.parse(JSON.stringify(surveys))
-    console.log(surveys)
     let i = 0;
+
     return (
       <div className="dashboard-container">
         <div className="breadcrumb container">
@@ -29,9 +28,9 @@ export default class Dashboard extends React.Component {
               </tr>
             </thead>
             <tbody>
-              {_.map(surveys, (survey) => {
+              {/*_.map(surveys, (survey) => {
                 <SurveySummary key={survey.id} survey={survey} />
-              })}
+              })*/}
             </tbody>
           </table>
         </div>
