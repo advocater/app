@@ -6,6 +6,8 @@ import _ from 'lodash'
 
 import * as actions from '../actions'
 
+import { PollsTable } from '../components'
+
 import './Dashboard.less'
 
 // Seed data
@@ -51,8 +53,6 @@ class Dashboard extends React.Component {
 
   render() {
     let polls = this.props.polls.objects
-    // console.log(polls.map(poll => console.log(i++)))
-    let tableBody = polls.map((poll) => { return this.renderRow(poll) })
     return (
       <div className="dashboard-container">
         <div className="breadcrumb container">
@@ -62,19 +62,7 @@ class Dashboard extends React.Component {
           <div>
             There are currently {polls.length} polls.
           </div>
-          <table className="table table-striped table-hover">
-            <thead>
-              <tr>
-                <th>Poll Questions</th>
-                <th>Date</th>
-                <th>Time</th>
-                <th>Effectiveness</th>
-              </tr>
-            </thead>
-            <tbody>
-              {tableBody}
-            </tbody>
-          </table>
+          <PollsTable polls={polls} />
         </div>
       </div>
     )

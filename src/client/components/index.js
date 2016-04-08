@@ -1,2 +1,4 @@
 
-export Header from './Header.js';
+export Header from './Header';
+
+export PollsTable from './PollsTable'
