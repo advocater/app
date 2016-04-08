@@ -1,6 +1,7 @@
 
 import React from 'react'
 import { connect } from 'react-redux'
+import moment from 'moment'
 import _ from 'lodash'
 
 import * as actions from '../actions'
@@ -12,23 +13,6 @@ import './Dashboard.less'
 
 function select(state){
   return { polls: state.polls }
-}
-
-class PollSummary extends React.Component {
-
-  render() {
-    let poll = this.props.poll
-    let effectiveness = poll.polls_responded / poll.polls_sent
-    return (
-      <tr key={this.props.id}>
-        <td>{poll.question}</td>
-        <td>{poll.start}</td>
-        <td>{poll.end}</td>
-        <td>{poll.polls_responded} / {poll.polls_sent}</td>
-      </tr>
-    )
-  }
-
 }
 
 class Dashboard extends React.Component {
@@ -44,7 +28,7 @@ class Dashboard extends React.Component {
 
   renderRow(poll) {
     return (
-      <tr key={this.props.id}>
+      <tr key={poll.id}>
         <td>{poll.question}</td>
         <td>{poll.start}</td>
         <td>{poll.end}</td>
@@ -54,11 +38,9 @@ class Dashboard extends React.Component {
   }
 
   render() {
-    let i = 0;
-    let { polls } = this.props
+    let polls = this.props.polls.polls
     // console.log(polls.map(poll => console.log(i++)))
-    console.log(polls.polls)
-    let tableBody = polls.polls.map((poll) => { return this.renderRow(poll) })
+    let tableBody = polls.map((poll) => { return this.renderRow(poll) })
     return (
       <div className="dashboard-container">
         <div className="breadcrumb container">
@@ -66,7 +48,7 @@ class Dashboard extends React.Component {
         </div>
         <div className="panel panel-default container">
           <div>
-            There are currently {polls.polls.length} polls.
+            There are currently {polls.length} polls.
           </div>
           <table className="table table-striped table-hover">
             <thead>

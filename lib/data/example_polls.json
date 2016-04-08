@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1000,
+    "question": "What place did I get in last night's debate? (0-10)",
+    "start": 1459973500108,
+    "end": 1459980700108,
+    "polls_sent": 1000,
+    "polls_responded": 421,
+    "responses": []
+  },
+  {
+    "id": 1001,
+    "question": "Do you approve of my campaign so far? (0-10)",
+    "start": 1459627900108,
+    "end": 1459635100108,
+    "polls_sent": 1000,
+    "polls_responded": 134,
+    "responses": []
+  },
+  {
+    "id": 1002,
+    "question": "What place did I get in last night's debate? (0-10)",
+    "start": 1459627900108,
+    "end": 1459635100108,
+    "polls_sent": 1000,
+    "polls_responded": 45,
+    "responses": []
+  },
+  {
+    "id": 1003,
+    "question": "How did I do in last night's debate? (0-10)",
+    "start": 1459455100108,
+    "end": 1459462300108,
+    "polls_sent": 1000,
+    "polls_responded": 816,
+    "responses": []
+  },
+  {
+    "id": 1004,
+    "question": "What place did I get in last night's debate? (0-10)",
+    "start": 1459023100108,
+    "end": 1459030300108,
+    "polls_sent": 1000,
+    "polls_responded": 458,
+    "responses": []
+  },
+  {
+    "id": 1005,
+    "question": "Do you approve of my campaign so far? (0-10)",
+    "start": 1458850300108,
+    "end": 1458857500108,
+    "polls_sent": 1000,
+    "polls_responded": 238,
+    "responses": []
+  },
+  {
+    "id": 1006,
+    "question": "Would you recommend me as a candidate to your friend? (0-10)",
+    "start": 1458418300108,
+    "end": 1458425500108,
+    "polls_sent": 1000,
+    "polls_responded": 67,
+    "responses": []
+  },
+  {
+    "id": 1007,
+    "question": "How did I do in last night's debate? (0-10)",
+    "start": 1458418300108,
+    "end": 1458425500108,
+    "polls_sent": 1000,
+    "polls_responded": 691,
+    "responses": []
+  },
+  {
+    "id": 1008,
+    "question": "Do you approve of my campaign so far? (0-10)",
+    "start": 1457640700108,
+    "end": 1457647900108,
+    "polls_sent": 1000,
+    "polls_responded": 754,
+    "responses": []
+  },
+  {
+    "id": 1009,
+    "question": "Do you approve of my campaign so far? (0-10)",
+    "start": 1457295100108,
+    "end": 1457302300108,
+    "polls_sent": 1000,
+    "polls_responded": 213,
+    "responses": []
+  }
+]

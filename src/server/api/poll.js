@@ -3,7 +3,7 @@
 
 let router = require('express').Router();
 
-let surveys = require('../../../lib/data/surveys.json')
+let surveys = require('../../../lib/data/example_polls.json')
 
 router.route('/')
   .get(function(req, res){
