@@ -4,6 +4,7 @@
 
 let router = require('express').Router()
 
-// router.use('/coupons', require('./coupon'))
+// router.use('/surveys', require('./surveys'))
+// router.use('/responses', require('./responses'))
 
 module.exports = router

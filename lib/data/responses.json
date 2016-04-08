@@ -1,0 +1,112 @@
+[
+  {
+    "id": 0,
+    "poll_id": "1001",
+    "phone_number": "(238) 622-8371",
+    "first_name": "Caroline",
+    "last_name": "Vik",
+    "raw_response": "2",
+    "parsed": true,
+    "parsed_response": "2",
+    "type": "NPS"
+  },
+  {
+    "id": 1,
+    "poll_id": "1001",
+    "phone_number": "(238) 622-8371",
+    "first_name": "Caroline",
+    "last_name": "Vik",
+    "raw_response": "5",
+    "parsed": true,
+    "parsed_response": "5",
+    "type": "NPS"
+  },
+  {
+    "id": 2,
+    "poll_id": "1001",
+    "phone_number": "(238) 622-8371",
+    "first_name": "Caroline",
+    "last_name": "Vik",
+    "raw_response": "8",
+    "parsed": true,
+    "parsed_response": "8",
+    "type": "NPS"
+  },
+  {
+    "id": 3,
+    "poll_id": "1001",
+    "phone_number": "(238) 622-8371",
+    "first_name": "Caroline",
+    "last_name": "Vik",
+    "raw_response": "6",
+    "parsed": true,
+    "parsed_response": "6",
+    "type": "NPS"
+  },
+  {
+    "id": 4,
+    "poll_id": "1001",
+    "phone_number": "(238) 622-8371",
+    "first_name": "Caroline",
+    "last_name": "Vik",
+    "raw_response": "9",
+    "parsed": true,
+    "parsed_response": "9",
+    "type": "NPS"
+  },
+  {
+    "id": 5,
+    "poll_id": "1001",
+    "phone_number": "(238) 622-8371",
+    "first_name": "Caroline",
+    "last_name": "Vik",
+    "raw_response": "3",
+    "parsed": true,
+    "parsed_response": "3",
+    "type": "NPS"
+  },
+  {
+    "id": 6,
+    "poll_id": "1001",
+    "phone_number": "(238) 622-8371",
+    "first_name": "Caroline",
+    "last_name": "Vik",
+    "raw_response": "1",
+    "parsed": true,
+    "parsed_response": "1",
+    "type": "NPS"
+  },
+  {
+    "id": 7,
+    "poll_id": "1001",
+    "phone_number": "(238) 622-8371",
+    "first_name": "Caroline",
+    "last_name": "Vik",
+    "raw_response": "7",
+    "parsed": true,
+    "parsed_response": "7",
+    "type": "NPS"
+  },
+  {
+    "id": 8,
+    "poll_id": "1001",
+    "phone_number": "(238) 622-8371",
+    "first_name": "Caroline",
+    "last_name": "Vik",
+    "raw_response": "5",
+    "parsed": true,
+    "parsed_response": "5",
+    "type": "NPS"
+  },
+  {
+    "id": 9,
+    "poll_id": "1001",
+    "phone_number": "(238) 622-8371",
+    "first_name": "Caroline",
+    "last_name": "Vik",
+    "raw_response": "10",
+    "parsed": true,
+    "parsed_response": "10",
+    "type": "NPS"
+  }
+]

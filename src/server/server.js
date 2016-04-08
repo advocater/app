@@ -1,19 +1,30 @@
-
+/**
+ * server.js - Primary server file
+ */
 
 'use strict'
 
+/* Load dependencies */
 let express = require('express')
 // let session = require('express-session')
 let path = require('path')
 
-let config = require('./config');
+/* Define some constants */
+const PATH_DIST = path.resolve(__dirname, '../../dist')
+const PATH_IMAGES = path.resolve(__dirname, '../../lib/images')
+const PATH_DATA = path.resolve(__dirname, '../../lib/data')
 
-let app = express()
-
+/* Load local dependencies */
+let config = require('./config')
 let api = require('./api')
 
+/* Start app */
+let app = express()
+
+/* Load middleware */
 require('./middleware')(app)
 
+// Webpack hot loader for development environment
 if (process.env.NODE_ENV === 'development') {
   let webpack = require('webpack')
   let webpackDevMiddleware = require('webpack-dev-middleware')
@@ -22,15 +33,14 @@ if (process.env.NODE_ENV === 'development') {
   let compiler = webpack(webpackConfig)
   app.use(webpackDevMiddleware(compiler, { noInfo: true, publicPath: webpackConfig.output.publicPath, historyApiFallback: true }))
   app.use(webpackHotMiddleware(compiler))
-
 }
 
-const PATH_IMAGES = path.resolve(__dirname, '../../lib/images')
-const PATH_DIST = path.resolve(__dirname, '../../dist')
+// Serve static files
 app.use('/dist', express.static(PATH_DIST))
 app.use('/images', express.static(PATH_IMAGES))
+app.use('/data', express.static(PATH_DATA))
 
-
+// Connect to API
 app.use('/api', api)
 
 app.get('/', function (req, res) {
