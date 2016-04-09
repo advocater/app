@@ -32,13 +32,11 @@ class User extends React.Component {
   }
 
   filterUser(id, users) {
-    return users.filter((user) => { return user.id === id })
+    return _.filter(users, {id: id})
   }
 
   filterResponses(id, responses) {
-    return responses.filter((response) => {
-      return response.user.id === id
-    })
+    return _.filter(responses, {userId: id})
   }
 
   render() {
