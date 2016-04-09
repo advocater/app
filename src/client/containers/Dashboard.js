@@ -40,12 +40,12 @@ class Dashboard extends React.Component {
     return (
       <div className="dashboard-container">
         <div className="breadcrumb container">
-          Add a new poll
+          <h4>
+            Latest Polls
+            <button className="btn btn-default pull-right">Add Poll</button>
+          </h4>
         </div>
         <div className="panel panel-default container">
-          <div>
-            There are currently {polls.length} polls.
-          </div>
           <PollsTable polls={polls} />
         </div>
       </div>

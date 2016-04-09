@@ -6,7 +6,7 @@ import _ from 'lodash'
 
 import * as actions from '../actions'
 
-import { ResponsesTable } from '../components'
+import { ResponsesTable, ResponseResults } from '../components'
 
 import './User.less'
 
@@ -47,8 +47,8 @@ class User extends React.Component {
       <div className="user container">
         <div className="panel panel-default container">
           <h2>{user.first_name + ' ' + user.last_name}</h2>
-          <h4>Gender: {user.gender} Zip: {user.zip}</h4>
-          <h4>Political Party: {user.party}</h4>
+          <h4>Gender: {user.gender} Zip: {user.zip} Political Party: {user.party}</h4>
+          <ResponseResults responses={userResponses} />
         </div>
         <div className="panel panel-default container">
           <ResponsesTable metadata={'poll'} responses={userResponses} />
