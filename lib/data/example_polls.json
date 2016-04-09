@@ -1,82 +1,82 @@
 [
   {
     "id": "1000",
-    "question": "Would you recommend me as a candidate to your friend? (0-10)",
-    "start": "1460169437190",
-    "end": "1460176637190",
+    "question": "What place did I get in last night's debate? (0-10)",
+    "start": "2016-04-06T03:08:47.294Z",
+    "end": "2016-04-06T05:08:47.294Z",
     "polls_sent": 10,
-    "polls_responded": 4
+    "polls_responded": 7
   },
   {
     "id": "1001",
-    "question": "How much do you care about the 2nd Amendment? (0-10)",
-    "start": "1459737437190",
-    "end": "1459744637190",
+    "question": "What place did I get in last night's debate? (0-10)",
+    "start": "2016-04-02T05:08:47.294Z",
+    "end": "2016-04-02T07:08:47.294Z",
     "polls_sent": 10,
-    "polls_responded": 2
+    "polls_responded": 5
   },
   {
     "id": "1002",
-    "question": "Would you recommend me as a candidate to your friend? (0-10)",
-    "start": "1459564637190",
-    "end": "1459571837190",
+    "question": "How did I do in last night's debate? (0-10)",
+    "start": "2016-03-30T07:08:47.294Z",
+    "end": "2016-03-30T09:08:47.294Z",
     "polls_sent": 10,
-    "polls_responded": 7
+    "polls_responded": 8
   },
   {
     "id": "1003",
     "question": "Would you recommend me as a candidate to your friend? (0-10)",
-    "start": "1459478237190",
-    "end": "1459485437190",
-    "polls_sent": 10,
-    "polls_responded": 2
-  },
-  {
-    "id": "1004",
-    "question": "Would you recommend me as a candidate to your friend? (0-10)",
-    "start": "1459478237190",
-    "end": "1459485437190",
+    "start": "2016-03-23T09:08:47.294Z",
+    "end": "2016-03-23T11:08:47.294Z",
     "polls_sent": 10,
     "polls_responded": 7
   },
   {
-    "id": "1005",
-    "question": "Do you approve of my campaign so far? (0-10)",
-    "start": "1459391837190",
-    "end": "1459399037190",
+    "id": "1004",
+    "question": "How did I do in last night's debate? (0-10)",
+    "start": "2016-03-17T11:08:47.294Z",
+    "end": "2016-03-17T13:08:47.294Z",
     "polls_sent": 10,
     "polls_responded": 6
   },
   {
+    "id": "1005",
+    "question": "Do you approve of my campaign so far? (0-10)",
+    "start": "2016-03-14T13:08:47.294Z",
+    "end": "2016-03-14T15:08:47.294Z",
+    "polls_sent": 10,
+    "polls_responded": 5
+  },
+  {
     "id": "1006",
     "question": "How did I do in last night's debate? (0-10)",
-    "start": "1459219037190",
-    "end": "1459226237190",
+    "start": "2016-03-07T15:08:47.294Z",
+    "end": "2016-03-07T17:08:47.294Z",
     "polls_sent": 10,
     "polls_responded": 7
   },
   {
     "id": "1007",
-    "question": "How did I do in last night's debate? (0-10)",
-    "start": "1458614237190",
-    "end": "1458621437190",
+    "question": "Would you recommend me as a candidate to your friend? (0-10)",
+    "start": "2016-03-04T17:08:47.294Z",
+    "end": "2016-03-04T19:08:47.294Z",
     "polls_sent": 10,
-    "polls_responded": 3
+    "polls_responded": 7
   },
   {
     "id": "1008",
-    "question": "How did I do in last night's debate? (0-10)",
-    "start": "1458614237190",
-    "end": "1458621437190",
+    "question": "How much do you care about the 2nd Amendment? (0-10)",
+    "start": "2016-02-24T19:08:47.294Z",
+    "end": "2016-02-24T21:08:47.294Z",
     "polls_sent": 10,
-    "polls_responded": 1
+    "polls_responded": 7
   },
   {
     "id": "1009",
-    "question": "Do you approve of my campaign so far? (0-10)",
-    "start": "1458182237190",
-    "end": "1458189437190",
+    "question": "What place did I get in last night's debate? (0-10)",
+    "start": "2016-02-24T21:08:47.294Z",
+    "end": "2016-02-24T23:08:47.294Z",
     "polls_sent": 10,
-    "polls_responded": 8
+    "polls_responded": 5
   }
 ]

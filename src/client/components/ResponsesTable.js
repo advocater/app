@@ -25,7 +25,7 @@ export default class ResponsesTable extends React.Component {
       <tr key={response.id}>
         <td>{response.value}</td>
         <td><Link to={link}>{metadataValue}</Link></td>
-        <td>{'A time'}</td>
+        <td>{response.time}</td>
         <td>{response.message}</td>
       </tr>
     )

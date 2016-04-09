@@ -2,1082 +2,1537 @@
   {
     "id": "100010",
     "user": {
-      "id": "1021",
-      "first_name": "CHRISTINE",
-      "last_name": "THOMPSON",
-      "party": "REPUBLICAN",
+      "id": "1066",
+      "first_name": "SUSAN",
+      "last_name": "BROWN",
+      "party": "DEMOCRAT",
       "gender": "female",
-      "zip": "94137"
+      "zip": "94111"
     },
-    "userId": "1021",
+    "userId": "1066",
     "poll": {
       "id": "1000",
-      "question": "Would you recommend me as a candidate to your friend? (0-10)",
-      "start": "1460169437190",
-      "end": "1460176637190",
+      "question": "What place did I get in last night's debate? (0-10)",
+      "start": "2016-04-06T03:08:47.294Z",
+      "end": "2016-04-06T05:08:47.294Z",
       "polls_sent": 10,
-      "polls_responded": 4
+      "polls_responded": 7
     },
     "pollId": "1000",
+    "time": "2016-04-06T05:06:17.036Z",
     "message": "1 (^*%&$^#^%$#^)",
     "value": "1"
   },
   {
     "id": "100020",
     "user": {
-      "id": "1097",
-      "first_name": "MELANIE",
-      "last_name": "JOHNSON",
+      "id": "1044",
+      "first_name": "CAROLINE",
+      "last_name": "ALLEN",
       "party": "LIBERTARIAN",
       "gender": "female",
-      "zip": "94197"
+      "zip": "94151"
     },
-    "userId": "1097",
+    "userId": "1044",
     "poll": {
       "id": "1000",
-      "question": "Would you recommend me as a candidate to your friend? (0-10)",
-      "start": "1460169437190",
-      "end": "1460176637190",
+      "question": "What place did I get in last night's debate? (0-10)",
+      "start": "2016-04-06T03:08:47.294Z",
+      "end": "2016-04-06T05:08:47.294Z",
       "polls_sent": 10,
-      "polls_responded": 4
+      "polls_responded": 7
     },
     "pollId": "1000",
-    "message": "9 STOP sending me these",
-    "value": "9"
-  },
-  {
-    "id": "100030",
-    "user": {
-      "id": "1033",
-      "first_name": "CHRISTINE",
-      "last_name": "WILLIAMS",
-      "party": "DEMOCRAT",
-      "gender": "female",
-      "zip": "94168"
-    },
-    "userId": "1033",
-    "poll": {
-      "id": "1000",
-      "question": "Would you recommend me as a candidate to your friend? (0-10)",
-      "start": "1460169437190",
-      "end": "1460176637190",
-      "polls_sent": 10,
-      "polls_responded": 4
-    },
-    "pollId": "1000",
-    "message": "9 I could do better",
-    "value": "9"
-  },
-  {
-    "id": "100040",
-    "user": {
-      "id": "1036",
-      "first_name": "GLENN",
-      "last_name": "DAVIS",
-      "party": "INDEPENDENT",
-      "gender": "female",
-      "zip": "94122"
-    },
-    "userId": "1036",
-    "poll": {
-      "id": "1000",
-      "question": "Would you recommend me as a candidate to your friend? (0-10)",
-      "start": "1460169437190",
-      "end": "1460176637190",
-      "polls_sent": 10,
-      "polls_responded": 4
-    },
-    "pollId": "1000",
-    "message": "0 #boo",
-    "value": "0"
-  },
-  {
-    "id": "100110",
-    "user": {
-      "id": "1048",
-      "first_name": "CLAIRE",
-      "last_name": "HILL",
-      "party": "GREEN",
-      "gender": "female",
-      "zip": "94170"
-    },
-    "userId": "1048",
-    "poll": {
-      "id": "1001",
-      "question": "How much do you care about the 2nd Amendment? (0-10)",
-      "start": "1459737437190",
-      "end": "1459744637190",
-      "polls_sent": 10,
-      "polls_responded": 2
-    },
-    "pollId": "1001",
-    "message": "5 #boo",
-    "value": "5"
-  },
-  {
-    "id": "100120",
-    "user": {
-      "id": "1080",
-      "first_name": "LEONARD",
-      "last_name": "BAKER",
-      "party": "LIBERTARIAN",
-      "gender": "female",
-      "zip": "94160"
-    },
-    "userId": "1080",
-    "poll": {
-      "id": "1001",
-      "question": "How much do you care about the 2nd Amendment? (0-10)",
-      "start": "1459737437190",
-      "end": "1459744637190",
-      "polls_sent": 10,
-      "polls_responded": 2
-    },
-    "pollId": "1001",
+    "time": "2016-04-06T03:15:12.899Z",
     "message": "2 (^*%&$^#^%$#^)",
     "value": "2"
   },
   {
-    "id": "100210",
+    "id": "100030",
     "user": {
-      "id": "1076",
-      "first_name": "MINNIE",
-      "last_name": "HILL",
-      "party": "REPUBLICAN",
+      "id": "1065",
+      "first_name": "DEREK",
+      "last_name": "WRIGHT",
+      "party": "LIBERTARIAN",
       "gender": "female",
-      "zip": "94129"
+      "zip": "94147"
     },
-    "userId": "1076",
+    "userId": "1065",
     "poll": {
-      "id": "1002",
-      "question": "Would you recommend me as a candidate to your friend? (0-10)",
-      "start": "1459564637190",
-      "end": "1459571837190",
+      "id": "1000",
+      "question": "What place did I get in last night's debate? (0-10)",
+      "start": "2016-04-06T03:08:47.294Z",
+      "end": "2016-04-06T05:08:47.294Z",
       "polls_sent": 10,
       "polls_responded": 7
     },
-    "pollId": "1002",
-    "message": "7 I love you",
-    "value": "7"
+    "pollId": "1000",
+    "time": "2016-04-06T04:46:52.130Z",
+    "message": "2 I love you",
+    "value": "2"
   },
   {
-    "id": "100220",
+    "id": "100040",
     "user": {
-      "id": "1031",
-      "first_name": "DEVIN",
-      "last_name": "WHITE",
-      "party": "DEMOCRAT",
+      "id": "1004",
+      "first_name": "CLAIRE",
+      "last_name": "HILL",
+      "party": "INDEPENDENT",
       "gender": "female",
-      "zip": "94146"
+      "zip": "94182"
     },
-    "userId": "1031",
+    "userId": "1004",
     "poll": {
-      "id": "1002",
-      "question": "Would you recommend me as a candidate to your friend? (0-10)",
-      "start": "1459564637190",
-      "end": "1459571837190",
+      "id": "1000",
+      "question": "What place did I get in last night's debate? (0-10)",
+      "start": "2016-04-06T03:08:47.294Z",
+      "end": "2016-04-06T05:08:47.294Z",
       "polls_sent": 10,
       "polls_responded": 7
     },
-    "pollId": "1002",
+    "pollId": "1000",
+    "time": "2016-04-06T03:38:08.791Z",
+    "message": "4 #winning",
+    "value": "4"
+  },
+  {
+    "id": "100050",
+    "user": {
+      "id": "1003",
+      "first_name": "RACHEL",
+      "last_name": "LEWIS",
+      "party": "REPUBLICAN",
+      "gender": "female",
+      "zip": "94172"
+    },
+    "userId": "1003",
+    "poll": {
+      "id": "1000",
+      "question": "What place did I get in last night's debate? (0-10)",
+      "start": "2016-04-06T03:08:47.294Z",
+      "end": "2016-04-06T05:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 7
+    },
+    "pollId": "1000",
+    "time": "2016-04-06T04:41:01.689Z",
     "message": "2 #winning",
     "value": "2"
   },
   {
-    "id": "100230",
+    "id": "100060",
     "user": {
-      "id": "1033",
-      "first_name": "CHRISTINE",
-      "last_name": "WILLIAMS",
-      "party": "DEMOCRAT",
+      "id": "1064",
+      "first_name": "FRANK",
+      "last_name": "FUJITA",
+      "party": "LIBERTARIAN",
       "gender": "female",
-      "zip": "94168"
+      "zip": "9413"
     },
-    "userId": "1033",
+    "userId": "1064",
     "poll": {
-      "id": "1002",
-      "question": "Would you recommend me as a candidate to your friend? (0-10)",
-      "start": "1459564637190",
-      "end": "1459571837190",
+      "id": "1000",
+      "question": "What place did I get in last night's debate? (0-10)",
+      "start": "2016-04-06T03:08:47.294Z",
+      "end": "2016-04-06T05:08:47.294Z",
       "polls_sent": 10,
       "polls_responded": 7
     },
+    "pollId": "1000",
+    "time": "2016-04-06T04:19:17.781Z",
+    "message": "1 (^*%&$^#^%$#^)",
+    "value": "1"
+  },
+  {
+    "id": "100070",
+    "user": {
+      "id": "1056",
+      "first_name": "LEONARD",
+      "last_name": "MILLER",
+      "party": "INDEPENDENT",
+      "gender": "female",
+      "zip": "94165"
+    },
+    "userId": "1056",
+    "poll": {
+      "id": "1000",
+      "question": "What place did I get in last night's debate? (0-10)",
+      "start": "2016-04-06T03:08:47.294Z",
+      "end": "2016-04-06T05:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 7
+    },
+    "pollId": "1000",
+    "time": "2016-04-06T04:40:16.027Z",
+    "message": "1 I want to hear more about abortion",
+    "value": "1"
+  },
+  {
+    "id": "100110",
+    "user": {
+      "id": "1028",
+      "first_name": "MINNIE",
+      "last_name": "VIK",
+      "party": "LIBERTARIAN",
+      "gender": "female",
+      "zip": "94117"
+    },
+    "userId": "1028",
+    "poll": {
+      "id": "1001",
+      "question": "What place did I get in last night's debate? (0-10)",
+      "start": "2016-04-02T05:08:47.294Z",
+      "end": "2016-04-02T07:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 5
+    },
+    "pollId": "1001",
+    "time": "2016-04-02T06:44:29.434Z",
+    "message": "3 (^*%&$^#^%$#^)",
+    "value": "3"
+  },
+  {
+    "id": "100120",
+    "user": {
+      "id": "1002",
+      "first_name": "PENNY",
+      "last_name": "WILLIAMS",
+      "party": "GREEN",
+      "gender": "female",
+      "zip": "9412"
+    },
+    "userId": "1002",
+    "poll": {
+      "id": "1001",
+      "question": "What place did I get in last night's debate? (0-10)",
+      "start": "2016-04-02T05:08:47.294Z",
+      "end": "2016-04-02T07:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 5
+    },
+    "pollId": "1001",
+    "time": "2016-04-02T06:07:21.406Z",
+    "message": "6 STOP sending me these",
+    "value": "6"
+  },
+  {
+    "id": "100130",
+    "user": {
+      "id": "1078",
+      "first_name": "RACHEL",
+      "last_name": "SAKAMOTO",
+      "party": "GREEN",
+      "gender": "female",
+      "zip": "94187"
+    },
+    "userId": "1078",
+    "poll": {
+      "id": "1001",
+      "question": "What place did I get in last night's debate? (0-10)",
+      "start": "2016-04-02T05:08:47.294Z",
+      "end": "2016-04-02T07:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 5
+    },
+    "pollId": "1001",
+    "time": "2016-04-02T06:25:40.251Z",
+    "message": "8 #boo",
+    "value": "8"
+  },
+  {
+    "id": "100140",
+    "user": {
+      "id": "1077",
+      "first_name": "GLENN",
+      "last_name": "FUJITA",
+      "party": "INDEPENDENT",
+      "gender": "female",
+      "zip": "94181"
+    },
+    "userId": "1077",
+    "poll": {
+      "id": "1001",
+      "question": "What place did I get in last night's debate? (0-10)",
+      "start": "2016-04-02T05:08:47.294Z",
+      "end": "2016-04-02T07:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 5
+    },
+    "pollId": "1001",
+    "time": "2016-04-02T06:42:38.653Z",
+    "message": "6 I love you",
+    "value": "6"
+  },
+  {
+    "id": "100150",
+    "user": {
+      "id": "1006",
+      "first_name": "DEVIN",
+      "last_name": "DAVIS",
+      "party": "DEMOCRAT",
+      "gender": "female",
+      "zip": "94157"
+    },
+    "userId": "1006",
+    "poll": {
+      "id": "1001",
+      "question": "What place did I get in last night's debate? (0-10)",
+      "start": "2016-04-02T05:08:47.294Z",
+      "end": "2016-04-02T07:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 5
+    },
+    "pollId": "1001",
+    "time": "2016-04-02T06:09:49.683Z",
+    "message": "3",
+    "value": "3"
+  },
+  {
+    "id": "100210",
+    "user": {
+      "id": "1050",
+      "first_name": "CAROLINE",
+      "last_name": "LUBY",
+      "party": "REPUBLICAN",
+      "gender": "female",
+      "zip": "94186"
+    },
+    "userId": "1050",
+    "poll": {
+      "id": "1002",
+      "question": "How did I do in last night's debate? (0-10)",
+      "start": "2016-03-30T07:08:47.294Z",
+      "end": "2016-03-30T09:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 8
+    },
     "pollId": "1002",
-    "message": "0 STOP sending me these",
+    "time": "2016-03-30T08:46:58.056Z",
+    "message": "2 I want to hear more about abortion",
+    "value": "2"
+  },
+  {
+    "id": "100220",
+    "user": {
+      "id": "1047",
+      "first_name": "LEONARD",
+      "last_name": "MILLER",
+      "party": "LIBERTARIAN",
+      "gender": "female",
+      "zip": "94143"
+    },
+    "userId": "1047",
+    "poll": {
+      "id": "1002",
+      "question": "How did I do in last night's debate? (0-10)",
+      "start": "2016-03-30T07:08:47.294Z",
+      "end": "2016-03-30T09:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 8
+    },
+    "pollId": "1002",
+    "time": "2016-03-30T07:43:06.076Z",
+    "message": "3 #boo",
+    "value": "3"
+  },
+  {
+    "id": "100230",
+    "user": {
+      "id": "1062",
+      "first_name": "PHIL",
+      "last_name": "WHITE",
+      "party": "INDEPENDENT",
+      "gender": "female",
+      "zip": "94176"
+    },
+    "userId": "1062",
+    "poll": {
+      "id": "1002",
+      "question": "How did I do in last night's debate? (0-10)",
+      "start": "2016-03-30T07:08:47.294Z",
+      "end": "2016-03-30T09:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 8
+    },
+    "pollId": "1002",
+    "time": "2016-03-30T08:46:44.557Z",
+    "message": "0",
     "value": "0"
   },
   {
     "id": "100240",
     "user": {
-      "id": "1078",
-      "first_name": "JOE",
-      "last_name": "THOMPSON",
-      "party": "DEMOCRAT",
+      "id": "1032",
+      "first_name": "LEONARD",
+      "last_name": "TAYLOR",
+      "party": "INDEPENDENT",
       "gender": "female",
-      "zip": "94180"
+      "zip": "94118"
     },
-    "userId": "1078",
+    "userId": "1032",
     "poll": {
       "id": "1002",
-      "question": "Would you recommend me as a candidate to your friend? (0-10)",
-      "start": "1459564637190",
-      "end": "1459571837190",
+      "question": "How did I do in last night's debate? (0-10)",
+      "start": "2016-03-30T07:08:47.294Z",
+      "end": "2016-03-30T09:08:47.294Z",
       "polls_sent": 10,
-      "polls_responded": 7
+      "polls_responded": 8
     },
     "pollId": "1002",
-    "message": "3 (^*%&$^#^%$#^)",
-    "value": "3"
+    "time": "2016-03-30T07:13:40.522Z",
+    "message": "1",
+    "value": "1"
   },
   {
     "id": "100250",
     "user": {
-      "id": "1050",
+      "id": "1064",
       "first_name": "FRANK",
-      "last_name": "HILL",
-      "party": "DEMOCRAT",
+      "last_name": "FUJITA",
+      "party": "LIBERTARIAN",
       "gender": "female",
-      "zip": "94133"
+      "zip": "9413"
     },
-    "userId": "1050",
+    "userId": "1064",
     "poll": {
       "id": "1002",
-      "question": "Would you recommend me as a candidate to your friend? (0-10)",
-      "start": "1459564637190",
-      "end": "1459571837190",
+      "question": "How did I do in last night's debate? (0-10)",
+      "start": "2016-03-30T07:08:47.294Z",
+      "end": "2016-03-30T09:08:47.294Z",
       "polls_sent": 10,
-      "polls_responded": 7
+      "polls_responded": 8
     },
     "pollId": "1002",
-    "message": "9 #winning",
-    "value": "9"
+    "time": "2016-03-30T07:20:05.699Z",
+    "message": "3 I could do better",
+    "value": "3"
   },
   {
     "id": "100260",
     "user": {
-      "id": "1047",
-      "first_name": "DANNY",
+      "id": "1032",
+      "first_name": "LEONARD",
       "last_name": "TAYLOR",
-      "party": "LIBERTARIAN",
+      "party": "INDEPENDENT",
       "gender": "female",
-      "zip": "94191"
+      "zip": "94118"
     },
-    "userId": "1047",
+    "userId": "1032",
     "poll": {
       "id": "1002",
-      "question": "Would you recommend me as a candidate to your friend? (0-10)",
-      "start": "1459564637190",
-      "end": "1459571837190",
+      "question": "How did I do in last night's debate? (0-10)",
+      "start": "2016-03-30T07:08:47.294Z",
+      "end": "2016-03-30T09:08:47.294Z",
       "polls_sent": 10,
-      "polls_responded": 7
+      "polls_responded": 8
     },
     "pollId": "1002",
-    "message": "0 I love you",
+    "time": "2016-03-30T08:36:33.140Z",
+    "message": "0 I could do better",
     "value": "0"
   },
   {
     "id": "100270",
     "user": {
-      "id": "1084",
-      "first_name": "JOE",
-      "last_name": "JOHNSON",
-      "party": "DEMOCRAT",
+      "id": "1065",
+      "first_name": "DEREK",
+      "last_name": "WRIGHT",
+      "party": "LIBERTARIAN",
       "gender": "female",
-      "zip": "94139"
+      "zip": "94147"
     },
-    "userId": "1084",
+    "userId": "1065",
     "poll": {
       "id": "1002",
-      "question": "Would you recommend me as a candidate to your friend? (0-10)",
-      "start": "1459564637190",
-      "end": "1459571837190",
+      "question": "How did I do in last night's debate? (0-10)",
+      "start": "2016-03-30T07:08:47.294Z",
+      "end": "2016-03-30T09:08:47.294Z",
       "polls_sent": 10,
-      "polls_responded": 7
+      "polls_responded": 8
     },
     "pollId": "1002",
-    "message": "5 STOP sending me these",
+    "time": "2016-03-30T07:21:01.100Z",
+    "message": "6 STOP sending me these",
+    "value": "6"
+  },
+  {
+    "id": "100280",
+    "user": {
+      "id": "1041",
+      "first_name": "LEONARD",
+      "last_name": "LEE",
+      "party": "LIBERTARIAN",
+      "gender": "female",
+      "zip": "94143"
+    },
+    "userId": "1041",
+    "poll": {
+      "id": "1002",
+      "question": "How did I do in last night's debate? (0-10)",
+      "start": "2016-03-30T07:08:47.294Z",
+      "end": "2016-03-30T09:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 8
+    },
+    "pollId": "1002",
+    "time": "2016-03-30T08:55:08.419Z",
+    "message": "5 #winning",
     "value": "5"
   },
   {
     "id": "100310",
     "user": {
-      "id": "1041",
-      "first_name": "GLENN",
-      "last_name": "LUBY",
-      "party": "INDEPENDENT",
+      "id": "1080",
+      "first_name": "DEREK",
+      "last_name": "ALLEN",
+      "party": "DEMOCRAT",
       "gender": "female",
-      "zip": "94138"
+      "zip": "94116"
     },
-    "userId": "1041",
+    "userId": "1080",
     "poll": {
       "id": "1003",
       "question": "Would you recommend me as a candidate to your friend? (0-10)",
-      "start": "1459478237190",
-      "end": "1459485437190",
+      "start": "2016-03-23T09:08:47.294Z",
+      "end": "2016-03-23T11:08:47.294Z",
       "polls_sent": 10,
-      "polls_responded": 2
+      "polls_responded": 7
     },
     "pollId": "1003",
-    "message": "9 I want to hear more about abortion",
-    "value": "9"
+    "time": "2016-03-23T10:37:53.997Z",
+    "message": "0 I want to hear more about abortion",
+    "value": "0"
   },
   {
     "id": "100320",
     "user": {
-      "id": "1014",
-      "first_name": "PHIL",
-      "last_name": "JONES",
-      "party": "INDEPENDENT",
+      "id": "1017",
+      "first_name": "LEONARD",
+      "last_name": "ALLEN",
+      "party": "DEMOCRAT",
       "gender": "female",
-      "zip": "9419"
+      "zip": "9415"
     },
-    "userId": "1014",
+    "userId": "1017",
     "poll": {
       "id": "1003",
       "question": "Would you recommend me as a candidate to your friend? (0-10)",
-      "start": "1459478237190",
-      "end": "1459485437190",
+      "start": "2016-03-23T09:08:47.294Z",
+      "end": "2016-03-23T11:08:47.294Z",
       "polls_sent": 10,
-      "polls_responded": 2
+      "polls_responded": 7
     },
     "pollId": "1003",
-    "message": "0 (^*%&$^#^%$#^)",
-    "value": "0"
-  },
-  {
-    "id": "100410",
-    "user": {
-      "id": "1085",
-      "first_name": "SALLY",
-      "last_name": "WILLIAMS",
-      "party": "GREEN",
-      "gender": "female",
-      "zip": "94144"
-    },
-    "userId": "1085",
-    "poll": {
-      "id": "1004",
-      "question": "Would you recommend me as a candidate to your friend? (0-10)",
-      "start": "1459478237190",
-      "end": "1459485437190",
-      "polls_sent": 10,
-      "polls_responded": 7
-    },
-    "pollId": "1004",
-    "message": "1 STOP sending me these",
-    "value": "1"
-  },
-  {
-    "id": "100420",
-    "user": {
-      "id": "1063",
-      "first_name": "RACHEL",
-      "last_name": "ALLEN",
-      "party": "GREEN",
-      "gender": "female",
-      "zip": "94164"
-    },
-    "userId": "1063",
-    "poll": {
-      "id": "1004",
-      "question": "Would you recommend me as a candidate to your friend? (0-10)",
-      "start": "1459478237190",
-      "end": "1459485437190",
-      "polls_sent": 10,
-      "polls_responded": 7
-    },
-    "pollId": "1004",
-    "message": "1 #winning",
-    "value": "1"
-  },
-  {
-    "id": "100430",
-    "user": {
-      "id": "1081",
-      "first_name": "MELANIE",
-      "last_name": "KING",
-      "party": "DEMOCRAT",
-      "gender": "female",
-      "zip": "94169"
-    },
-    "userId": "1081",
-    "poll": {
-      "id": "1004",
-      "question": "Would you recommend me as a candidate to your friend? (0-10)",
-      "start": "1459478237190",
-      "end": "1459485437190",
-      "polls_sent": 10,
-      "polls_responded": 7
-    },
-    "pollId": "1004",
-    "message": "10 I want to hear more about abortion",
-    "value": "10"
-  },
-  {
-    "id": "100440",
-    "user": {
-      "id": "1097",
-      "first_name": "MELANIE",
-      "last_name": "JOHNSON",
-      "party": "LIBERTARIAN",
-      "gender": "female",
-      "zip": "94197"
-    },
-    "userId": "1097",
-    "poll": {
-      "id": "1004",
-      "question": "Would you recommend me as a candidate to your friend? (0-10)",
-      "start": "1459478237190",
-      "end": "1459485437190",
-      "polls_sent": 10,
-      "polls_responded": 7
-    },
-    "pollId": "1004",
-    "message": "4 STOP sending me these",
-    "value": "4"
-  },
-  {
-    "id": "100450",
-    "user": {
-      "id": "1068",
-      "first_name": "MELANIE",
-      "last_name": "WRIGHT",
-      "party": "INDEPENDENT",
-      "gender": "female",
-      "zip": "94167"
-    },
-    "userId": "1068",
-    "poll": {
-      "id": "1004",
-      "question": "Would you recommend me as a candidate to your friend? (0-10)",
-      "start": "1459478237190",
-      "end": "1459485437190",
-      "polls_sent": 10,
-      "polls_responded": 7
-    },
-    "pollId": "1004",
-    "message": "8 STOP sending me these",
-    "value": "8"
-  },
-  {
-    "id": "100460",
-    "user": {
-      "id": "1090",
-      "first_name": "DANNY",
-      "last_name": "FUJITA",
-      "party": "REPUBLICAN",
-      "gender": "female",
-      "zip": "94198"
-    },
-    "userId": "1090",
-    "poll": {
-      "id": "1004",
-      "question": "Would you recommend me as a candidate to your friend? (0-10)",
-      "start": "1459478237190",
-      "end": "1459485437190",
-      "polls_sent": 10,
-      "polls_responded": 7
-    },
-    "pollId": "1004",
-    "message": "8",
-    "value": "8"
-  },
-  {
-    "id": "100470",
-    "user": {
-      "id": "1082",
-      "first_name": "RACHEL",
-      "last_name": "THOMPSON",
-      "party": "GREEN",
-      "gender": "female",
-      "zip": "94184"
-    },
-    "userId": "1082",
-    "poll": {
-      "id": "1004",
-      "question": "Would you recommend me as a candidate to your friend? (0-10)",
-      "start": "1459478237190",
-      "end": "1459485437190",
-      "polls_sent": 10,
-      "polls_responded": 7
-    },
-    "pollId": "1004",
-    "message": "8 STOP sending me these",
-    "value": "8"
-  },
-  {
-    "id": "100510",
-    "user": {
-      "id": "1006",
-      "first_name": "CAROLINE",
-      "last_name": "DAVIS",
-      "party": "DEMOCRAT",
-      "gender": "female",
-      "zip": "94174"
-    },
-    "userId": "1006",
-    "poll": {
-      "id": "1005",
-      "question": "Do you approve of my campaign so far? (0-10)",
-      "start": "1459391837190",
-      "end": "1459399037190",
-      "polls_sent": 10,
-      "polls_responded": 6
-    },
-    "pollId": "1005",
-    "message": "4 I could do better",
-    "value": "4"
-  },
-  {
-    "id": "100520",
-    "user": {
-      "id": "1093",
-      "first_name": "MELANIE",
-      "last_name": "HALL",
-      "party": "INDEPENDENT",
-      "gender": "female",
-      "zip": "94173"
-    },
-    "userId": "1093",
-    "poll": {
-      "id": "1005",
-      "question": "Do you approve of my campaign so far? (0-10)",
-      "start": "1459391837190",
-      "end": "1459399037190",
-      "polls_sent": 10,
-      "polls_responded": 6
-    },
-    "pollId": "1005",
-    "message": "4 (^*%&$^#^%$#^)",
-    "value": "4"
-  },
-  {
-    "id": "100530",
-    "user": {
-      "id": "1004",
-      "first_name": "LEONARD",
-      "last_name": "FUJITA",
-      "party": "REPUBLICAN",
-      "gender": "female",
-      "zip": "94199"
-    },
-    "userId": "1004",
-    "poll": {
-      "id": "1005",
-      "question": "Do you approve of my campaign so far? (0-10)",
-      "start": "1459391837190",
-      "end": "1459399037190",
-      "polls_sent": 10,
-      "polls_responded": 6
-    },
-    "pollId": "1005",
-    "message": "10 STOP sending me these",
-    "value": "10"
-  },
-  {
-    "id": "100540",
-    "user": {
-      "id": "1070",
-      "first_name": "SUSAN",
-      "last_name": "WILSON",
-      "party": "REPUBLICAN",
-      "gender": "female",
-      "zip": "94199"
-    },
-    "userId": "1070",
-    "poll": {
-      "id": "1005",
-      "question": "Do you approve of my campaign so far? (0-10)",
-      "start": "1459391837190",
-      "end": "1459399037190",
-      "polls_sent": 10,
-      "polls_responded": 6
-    },
-    "pollId": "1005",
+    "time": "2016-03-23T10:19:05.870Z",
     "message": "10 #winning",
     "value": "10"
   },
   {
-    "id": "100550",
+    "id": "100330",
     "user": {
-      "id": "1042",
-      "first_name": "DANNY",
-      "last_name": "VIK",
+      "id": "1040",
+      "first_name": "CHRISTINE",
+      "last_name": "ANDERSON",
+      "party": "REPUBLICAN",
+      "gender": "female",
+      "zip": "94158"
+    },
+    "userId": "1040",
+    "poll": {
+      "id": "1003",
+      "question": "Would you recommend me as a candidate to your friend? (0-10)",
+      "start": "2016-03-23T09:08:47.294Z",
+      "end": "2016-03-23T11:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 7
+    },
+    "pollId": "1003",
+    "time": "2016-03-23T10:55:24.792Z",
+    "message": "5",
+    "value": "5"
+  },
+  {
+    "id": "100340",
+    "user": {
+      "id": "1007",
+      "first_name": "MELANIE",
+      "last_name": "JOHNSON",
       "party": "DEMOCRAT",
       "gender": "female",
-      "zip": "94145"
+      "zip": "94165"
     },
-    "userId": "1042",
+    "userId": "1007",
     "poll": {
-      "id": "1005",
-      "question": "Do you approve of my campaign so far? (0-10)",
-      "start": "1459391837190",
-      "end": "1459399037190",
+      "id": "1003",
+      "question": "Would you recommend me as a candidate to your friend? (0-10)",
+      "start": "2016-03-23T09:08:47.294Z",
+      "end": "2016-03-23T11:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 7
+    },
+    "pollId": "1003",
+    "time": "2016-03-23T09:36:19.754Z",
+    "message": "2",
+    "value": "2"
+  },
+  {
+    "id": "100350",
+    "user": {
+      "id": "1003",
+      "first_name": "RACHEL",
+      "last_name": "LEWIS",
+      "party": "REPUBLICAN",
+      "gender": "female",
+      "zip": "94172"
+    },
+    "userId": "1003",
+    "poll": {
+      "id": "1003",
+      "question": "Would you recommend me as a candidate to your friend? (0-10)",
+      "start": "2016-03-23T09:08:47.294Z",
+      "end": "2016-03-23T11:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 7
+    },
+    "pollId": "1003",
+    "time": "2016-03-23T09:43:17.057Z",
+    "message": "5 (^*%&$^#^%$#^)",
+    "value": "5"
+  },
+  {
+    "id": "100360",
+    "user": {
+      "id": "1052",
+      "first_name": "RACHEL",
+      "last_name": "WILSON",
+      "party": "REPUBLICAN",
+      "gender": "female",
+      "zip": "9411"
+    },
+    "userId": "1052",
+    "poll": {
+      "id": "1003",
+      "question": "Would you recommend me as a candidate to your friend? (0-10)",
+      "start": "2016-03-23T09:08:47.294Z",
+      "end": "2016-03-23T11:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 7
+    },
+    "pollId": "1003",
+    "time": "2016-03-23T09:28:02.802Z",
+    "message": "5 I could do better",
+    "value": "5"
+  },
+  {
+    "id": "100370",
+    "user": {
+      "id": "1083",
+      "first_name": "JOE",
+      "last_name": "ALLEN",
+      "party": "INDEPENDENT",
+      "gender": "female",
+      "zip": "94126"
+    },
+    "userId": "1083",
+    "poll": {
+      "id": "1003",
+      "question": "Would you recommend me as a candidate to your friend? (0-10)",
+      "start": "2016-03-23T09:08:47.294Z",
+      "end": "2016-03-23T11:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 7
+    },
+    "pollId": "1003",
+    "time": "2016-03-23T09:23:07.007Z",
+    "message": "1 (^*%&$^#^%$#^)",
+    "value": "1"
+  },
+  {
+    "id": "100410",
+    "user": {
+      "id": "1051",
+      "first_name": "DEVIN",
+      "last_name": "MOORE",
+      "party": "GREEN",
+      "gender": "female",
+      "zip": "94128"
+    },
+    "userId": "1051",
+    "poll": {
+      "id": "1004",
+      "question": "How did I do in last night's debate? (0-10)",
+      "start": "2016-03-17T11:08:47.294Z",
+      "end": "2016-03-17T13:08:47.294Z",
       "polls_sent": 10,
       "polls_responded": 6
     },
-    "pollId": "1005",
-    "message": "0 (^*%&$^#^%$#^)",
+    "pollId": "1004",
+    "time": "2016-03-17T11:13:27.041Z",
+    "message": "2",
+    "value": "2"
+  },
+  {
+    "id": "100420",
+    "user": {
+      "id": "1024",
+      "first_name": "PENNY",
+      "last_name": "VIK",
+      "party": "DEMOCRAT",
+      "gender": "female",
+      "zip": "94149"
+    },
+    "userId": "1024",
+    "poll": {
+      "id": "1004",
+      "question": "How did I do in last night's debate? (0-10)",
+      "start": "2016-03-17T11:08:47.294Z",
+      "end": "2016-03-17T13:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 6
+    },
+    "pollId": "1004",
+    "time": "2016-03-17T12:01:32.918Z",
+    "message": "2 STOP sending me these",
+    "value": "2"
+  },
+  {
+    "id": "100430",
+    "user": {
+      "id": "1022",
+      "first_name": "PENNY",
+      "last_name": "BROWN",
+      "party": "LIBERTARIAN",
+      "gender": "female",
+      "zip": "94160"
+    },
+    "userId": "1022",
+    "poll": {
+      "id": "1004",
+      "question": "How did I do in last night's debate? (0-10)",
+      "start": "2016-03-17T11:08:47.294Z",
+      "end": "2016-03-17T13:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 6
+    },
+    "pollId": "1004",
+    "time": "2016-03-17T12:17:14.554Z",
+    "message": "0 I want to hear more about abortion",
     "value": "0"
   },
   {
-    "id": "100560",
+    "id": "100440",
     "user": {
-      "id": "1055",
-      "first_name": "MINNIE",
-      "last_name": "LEE",
+      "id": "1046",
+      "first_name": "PHIL",
+      "last_name": "HARRIS",
       "party": "REPUBLICAN",
       "gender": "female",
-      "zip": "94159"
+      "zip": "94190"
+    },
+    "userId": "1046",
+    "poll": {
+      "id": "1004",
+      "question": "How did I do in last night's debate? (0-10)",
+      "start": "2016-03-17T11:08:47.294Z",
+      "end": "2016-03-17T13:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 6
+    },
+    "pollId": "1004",
+    "time": "2016-03-17T12:04:49.085Z",
+    "message": "7 #winning",
+    "value": "7"
+  },
+  {
+    "id": "100450",
+    "user": {
+      "id": "1099",
+      "first_name": "SALLY",
+      "last_name": "MARTIN",
+      "party": "LIBERTARIAN",
+      "gender": "female",
+      "zip": "94115"
+    },
+    "userId": "1099",
+    "poll": {
+      "id": "1004",
+      "question": "How did I do in last night's debate? (0-10)",
+      "start": "2016-03-17T11:08:47.294Z",
+      "end": "2016-03-17T13:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 6
+    },
+    "pollId": "1004",
+    "time": "2016-03-17T12:29:59.519Z",
+    "message": "6 #boo",
+    "value": "6"
+  },
+  {
+    "id": "100460",
+    "user": {
+      "id": "1088",
+      "first_name": "JOE",
+      "last_name": "ADAMS",
+      "party": "GREEN",
+      "gender": "female",
+      "zip": "94190"
+    },
+    "userId": "1088",
+    "poll": {
+      "id": "1004",
+      "question": "How did I do in last night's debate? (0-10)",
+      "start": "2016-03-17T11:08:47.294Z",
+      "end": "2016-03-17T13:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 6
+    },
+    "pollId": "1004",
+    "time": "2016-03-17T13:07:34.645Z",
+    "message": "0 #boo",
+    "value": "0"
+  },
+  {
+    "id": "100510",
+    "user": {
+      "id": "1034",
+      "first_name": "DANNY",
+      "last_name": "MOORE",
+      "party": "REPUBLICAN",
+      "gender": "female",
+      "zip": "94188"
+    },
+    "userId": "1034",
+    "poll": {
+      "id": "1005",
+      "question": "Do you approve of my campaign so far? (0-10)",
+      "start": "2016-03-14T13:08:47.294Z",
+      "end": "2016-03-14T15:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 5
+    },
+    "pollId": "1005",
+    "time": "2016-03-14T13:23:22.001Z",
+    "message": "5 I love you",
+    "value": "5"
+  },
+  {
+    "id": "100520",
+    "user": {
+      "id": "1034",
+      "first_name": "DANNY",
+      "last_name": "MOORE",
+      "party": "REPUBLICAN",
+      "gender": "female",
+      "zip": "94188"
+    },
+    "userId": "1034",
+    "poll": {
+      "id": "1005",
+      "question": "Do you approve of my campaign so far? (0-10)",
+      "start": "2016-03-14T13:08:47.294Z",
+      "end": "2016-03-14T15:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 5
+    },
+    "pollId": "1005",
+    "time": "2016-03-14T13:22:58.495Z",
+    "message": "1",
+    "value": "1"
+  },
+  {
+    "id": "100530",
+    "user": {
+      "id": "1005",
+      "first_name": "CHRISTINE",
+      "last_name": "MARTIN",
+      "party": "LIBERTARIAN",
+      "gender": "female",
+      "zip": "94173"
+    },
+    "userId": "1005",
+    "poll": {
+      "id": "1005",
+      "question": "Do you approve of my campaign so far? (0-10)",
+      "start": "2016-03-14T13:08:47.294Z",
+      "end": "2016-03-14T15:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 5
+    },
+    "pollId": "1005",
+    "time": "2016-03-14T14:33:50.078Z",
+    "message": "0 I want to hear more about abortion",
+    "value": "0"
+  },
+  {
+    "id": "100540",
+    "user": {
+      "id": "1055",
+      "first_name": "PENNY",
+      "last_name": "MILLER",
+      "party": "DEMOCRAT",
+      "gender": "female",
+      "zip": "9415"
     },
     "userId": "1055",
     "poll": {
       "id": "1005",
       "question": "Do you approve of my campaign so far? (0-10)",
-      "start": "1459391837190",
-      "end": "1459399037190",
+      "start": "2016-03-14T13:08:47.294Z",
+      "end": "2016-03-14T15:08:47.294Z",
       "polls_sent": 10,
-      "polls_responded": 6
+      "polls_responded": 5
     },
     "pollId": "1005",
-    "message": "3 I could do better",
-    "value": "3"
+    "time": "2016-03-14T13:57:36.635Z",
+    "message": "5 I could do better",
+    "value": "5"
+  },
+  {
+    "id": "100550",
+    "user": {
+      "id": "1076",
+      "first_name": "SUSAN",
+      "last_name": "MILLER",
+      "party": "LIBERTARIAN",
+      "gender": "female",
+      "zip": "94133"
+    },
+    "userId": "1076",
+    "poll": {
+      "id": "1005",
+      "question": "Do you approve of my campaign so far? (0-10)",
+      "start": "2016-03-14T13:08:47.294Z",
+      "end": "2016-03-14T15:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 5
+    },
+    "pollId": "1005",
+    "time": "2016-03-14T14:48:59.131Z",
+    "message": "5 #winning",
+    "value": "5"
   },
   {
     "id": "100610",
     "user": {
-      "id": "1060",
-      "first_name": "SUSAN",
-      "last_name": "MOORE",
-      "party": "LIBERTARIAN",
+      "id": "1082",
+      "first_name": "GLENN",
+      "last_name": "MILLER",
+      "party": "INDEPENDENT",
       "gender": "female",
-      "zip": "94120"
+      "zip": "94194"
     },
-    "userId": "1060",
+    "userId": "1082",
     "poll": {
       "id": "1006",
       "question": "How did I do in last night's debate? (0-10)",
-      "start": "1459219037190",
-      "end": "1459226237190",
+      "start": "2016-03-07T15:08:47.294Z",
+      "end": "2016-03-07T17:08:47.294Z",
       "polls_sent": 10,
       "polls_responded": 7
     },
     "pollId": "1006",
-    "message": "8 I want to hear more about abortion",
-    "value": "8"
+    "time": "2016-03-07T16:49:44.370Z",
+    "message": "5 (^*%&$^#^%$#^)",
+    "value": "5"
   },
   {
     "id": "100620",
     "user": {
-      "id": "1059",
-      "first_name": "DEREK",
-      "last_name": "TAYLOR",
-      "party": "GREEN",
-      "gender": "female",
-      "zip": "94189"
-    },
-    "userId": "1059",
-    "poll": {
-      "id": "1006",
-      "question": "How did I do in last night's debate? (0-10)",
-      "start": "1459219037190",
-      "end": "1459226237190",
-      "polls_sent": 10,
-      "polls_responded": 7
-    },
-    "pollId": "1006",
-    "message": "0 #winning",
-    "value": "0"
-  },
-  {
-    "id": "100630",
-    "user": {
-      "id": "1037",
-      "first_name": "GLENN",
-      "last_name": "JONES",
-      "party": "INDEPENDENT",
-      "gender": "female",
-      "zip": "94195"
-    },
-    "userId": "1037",
-    "poll": {
-      "id": "1006",
-      "question": "How did I do in last night's debate? (0-10)",
-      "start": "1459219037190",
-      "end": "1459226237190",
-      "polls_sent": 10,
-      "polls_responded": 7
-    },
-    "pollId": "1006",
-    "message": "4 #boo",
-    "value": "4"
-  },
-  {
-    "id": "100640",
-    "user": {
-      "id": "1036",
-      "first_name": "GLENN",
-      "last_name": "DAVIS",
-      "party": "INDEPENDENT",
-      "gender": "female",
-      "zip": "94122"
-    },
-    "userId": "1036",
-    "poll": {
-      "id": "1006",
-      "question": "How did I do in last night's debate? (0-10)",
-      "start": "1459219037190",
-      "end": "1459226237190",
-      "polls_sent": 10,
-      "polls_responded": 7
-    },
-    "pollId": "1006",
-    "message": "1 I love you",
-    "value": "1"
-  },
-  {
-    "id": "100650",
-    "user": {
-      "id": "1063",
-      "first_name": "RACHEL",
-      "last_name": "ALLEN",
-      "party": "GREEN",
-      "gender": "female",
-      "zip": "94164"
-    },
-    "userId": "1063",
-    "poll": {
-      "id": "1006",
-      "question": "How did I do in last night's debate? (0-10)",
-      "start": "1459219037190",
-      "end": "1459226237190",
-      "polls_sent": 10,
-      "polls_responded": 7
-    },
-    "pollId": "1006",
-    "message": "0 #winning",
-    "value": "0"
-  },
-  {
-    "id": "100660",
-    "user": {
-      "id": "1044",
-      "first_name": "MINNIE",
-      "last_name": "LEWIS",
-      "party": "LIBERTARIAN",
-      "gender": "female",
-      "zip": "94178"
-    },
-    "userId": "1044",
-    "poll": {
-      "id": "1006",
-      "question": "How did I do in last night's debate? (0-10)",
-      "start": "1459219037190",
-      "end": "1459226237190",
-      "polls_sent": 10,
-      "polls_responded": 7
-    },
-    "pollId": "1006",
-    "message": "4 I could do better",
-    "value": "4"
-  },
-  {
-    "id": "100670",
-    "user": {
       "id": "1093",
-      "first_name": "MELANIE",
-      "last_name": "HALL",
+      "first_name": "MINNIE",
+      "last_name": "LUBY",
       "party": "INDEPENDENT",
       "gender": "female",
-      "zip": "94173"
+      "zip": "94168"
     },
     "userId": "1093",
     "poll": {
       "id": "1006",
       "question": "How did I do in last night's debate? (0-10)",
-      "start": "1459219037190",
-      "end": "1459226237190",
+      "start": "2016-03-07T15:08:47.294Z",
+      "end": "2016-03-07T17:08:47.294Z",
       "polls_sent": 10,
       "polls_responded": 7
     },
     "pollId": "1006",
-    "message": "8 I could do better",
+    "time": "2016-03-07T15:36:26.951Z",
+    "message": "1 I want to hear more about abortion",
+    "value": "1"
+  },
+  {
+    "id": "100630",
+    "user": {
+      "id": "1000",
+      "first_name": "PHIL",
+      "last_name": "ALLEN",
+      "party": "REPUBLICAN",
+      "gender": "female",
+      "zip": "94146"
+    },
+    "userId": "1000",
+    "poll": {
+      "id": "1006",
+      "question": "How did I do in last night's debate? (0-10)",
+      "start": "2016-03-07T15:08:47.294Z",
+      "end": "2016-03-07T17:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 7
+    },
+    "pollId": "1006",
+    "time": "2016-03-07T16:42:50.202Z",
+    "message": "9 I could do better",
+    "value": "9"
+  },
+  {
+    "id": "100640",
+    "user": {
+      "id": "1027",
+      "first_name": "DEREK",
+      "last_name": "ANDERSON",
+      "party": "GREEN",
+      "gender": "female",
+      "zip": "94120"
+    },
+    "userId": "1027",
+    "poll": {
+      "id": "1006",
+      "question": "How did I do in last night's debate? (0-10)",
+      "start": "2016-03-07T15:08:47.294Z",
+      "end": "2016-03-07T17:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 7
+    },
+    "pollId": "1006",
+    "time": "2016-03-07T16:15:57.917Z",
+    "message": "3 (^*%&$^#^%$#^)",
+    "value": "3"
+  },
+  {
+    "id": "100650",
+    "user": {
+      "id": "1098",
+      "first_name": "MINNIE",
+      "last_name": "JONES",
+      "party": "REPUBLICAN",
+      "gender": "female",
+      "zip": "94139"
+    },
+    "userId": "1098",
+    "poll": {
+      "id": "1006",
+      "question": "How did I do in last night's debate? (0-10)",
+      "start": "2016-03-07T15:08:47.294Z",
+      "end": "2016-03-07T17:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 7
+    },
+    "pollId": "1006",
+    "time": "2016-03-07T16:20:10.876Z",
+    "message": "8 I love you",
     "value": "8"
+  },
+  {
+    "id": "100660",
+    "user": {
+      "id": "1016",
+      "first_name": "MELANIE",
+      "last_name": "FUJITA",
+      "party": "DEMOCRAT",
+      "gender": "female",
+      "zip": "94141"
+    },
+    "userId": "1016",
+    "poll": {
+      "id": "1006",
+      "question": "How did I do in last night's debate? (0-10)",
+      "start": "2016-03-07T15:08:47.294Z",
+      "end": "2016-03-07T17:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 7
+    },
+    "pollId": "1006",
+    "time": "2016-03-07T16:39:31.475Z",
+    "message": "2 I could do better",
+    "value": "2"
+  },
+  {
+    "id": "100670",
+    "user": {
+      "id": "1044",
+      "first_name": "CAROLINE",
+      "last_name": "ALLEN",
+      "party": "LIBERTARIAN",
+      "gender": "female",
+      "zip": "94151"
+    },
+    "userId": "1044",
+    "poll": {
+      "id": "1006",
+      "question": "How did I do in last night's debate? (0-10)",
+      "start": "2016-03-07T15:08:47.294Z",
+      "end": "2016-03-07T17:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 7
+    },
+    "pollId": "1006",
+    "time": "2016-03-07T16:35:33.965Z",
+    "message": "6",
+    "value": "6"
   },
   {
     "id": "100710",
     "user": {
-      "id": "1052",
-      "first_name": "SUSAN",
-      "last_name": "JONES",
+      "id": "1080",
+      "first_name": "DEREK",
+      "last_name": "ALLEN",
       "party": "DEMOCRAT",
       "gender": "female",
-      "zip": "94136"
+      "zip": "94116"
     },
-    "userId": "1052",
+    "userId": "1080",
     "poll": {
       "id": "1007",
-      "question": "How did I do in last night's debate? (0-10)",
-      "start": "1458614237190",
-      "end": "1458621437190",
+      "question": "Would you recommend me as a candidate to your friend? (0-10)",
+      "start": "2016-03-04T17:08:47.294Z",
+      "end": "2016-03-04T19:08:47.294Z",
       "polls_sent": 10,
-      "polls_responded": 3
+      "polls_responded": 7
     },
     "pollId": "1007",
-    "message": "0 STOP sending me these",
-    "value": "0"
+    "time": "2016-03-04T18:37:14.449Z",
+    "message": "2 #boo",
+    "value": "2"
   },
   {
     "id": "100720",
     "user": {
-      "id": "1042",
-      "first_name": "DANNY",
-      "last_name": "VIK",
-      "party": "DEMOCRAT",
+      "id": "1047",
+      "first_name": "LEONARD",
+      "last_name": "MILLER",
+      "party": "LIBERTARIAN",
       "gender": "female",
-      "zip": "94145"
+      "zip": "94143"
     },
-    "userId": "1042",
+    "userId": "1047",
     "poll": {
       "id": "1007",
-      "question": "How did I do in last night's debate? (0-10)",
-      "start": "1458614237190",
-      "end": "1458621437190",
+      "question": "Would you recommend me as a candidate to your friend? (0-10)",
+      "start": "2016-03-04T17:08:47.294Z",
+      "end": "2016-03-04T19:08:47.294Z",
       "polls_sent": 10,
-      "polls_responded": 3
+      "polls_responded": 7
     },
     "pollId": "1007",
-    "message": "4 I want to hear more about abortion",
-    "value": "4"
+    "time": "2016-03-04T18:17:07.883Z",
+    "message": "1 #boo",
+    "value": "1"
   },
   {
     "id": "100730",
     "user": {
-      "id": "1049",
-      "first_name": "DANNY",
-      "last_name": "HALL",
+      "id": "1032",
+      "first_name": "LEONARD",
+      "last_name": "TAYLOR",
+      "party": "INDEPENDENT",
+      "gender": "female",
+      "zip": "94118"
+    },
+    "userId": "1032",
+    "poll": {
+      "id": "1007",
+      "question": "Would you recommend me as a candidate to your friend? (0-10)",
+      "start": "2016-03-04T17:08:47.294Z",
+      "end": "2016-03-04T19:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 7
+    },
+    "pollId": "1007",
+    "time": "2016-03-04T19:03:39.941Z",
+    "message": "3 #boo",
+    "value": "3"
+  },
+  {
+    "id": "100740",
+    "user": {
+      "id": "1002",
+      "first_name": "PENNY",
+      "last_name": "WILLIAMS",
+      "party": "GREEN",
+      "gender": "female",
+      "zip": "9412"
+    },
+    "userId": "1002",
+    "poll": {
+      "id": "1007",
+      "question": "Would you recommend me as a candidate to your friend? (0-10)",
+      "start": "2016-03-04T17:08:47.294Z",
+      "end": "2016-03-04T19:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 7
+    },
+    "pollId": "1007",
+    "time": "2016-03-04T18:58:22.827Z",
+    "message": "2 STOP sending me these",
+    "value": "2"
+  },
+  {
+    "id": "100750",
+    "user": {
+      "id": "1040",
+      "first_name": "CHRISTINE",
+      "last_name": "ANDERSON",
       "party": "REPUBLICAN",
       "gender": "female",
       "zip": "94158"
     },
-    "userId": "1049",
+    "userId": "1040",
     "poll": {
       "id": "1007",
-      "question": "How did I do in last night's debate? (0-10)",
-      "start": "1458614237190",
-      "end": "1458621437190",
+      "question": "Would you recommend me as a candidate to your friend? (0-10)",
+      "start": "2016-03-04T17:08:47.294Z",
+      "end": "2016-03-04T19:08:47.294Z",
       "polls_sent": 10,
-      "polls_responded": 3
+      "polls_responded": 7
     },
     "pollId": "1007",
-    "message": "1 STOP sending me these",
+    "time": "2016-03-04T18:22:01.822Z",
+    "message": "1 I want to hear more about abortion",
     "value": "1"
+  },
+  {
+    "id": "100760",
+    "user": {
+      "id": "1075",
+      "first_name": "PHIL",
+      "last_name": "DAVIS",
+      "party": "REPUBLICAN",
+      "gender": "female",
+      "zip": "94130"
+    },
+    "userId": "1075",
+    "poll": {
+      "id": "1007",
+      "question": "Would you recommend me as a candidate to your friend? (0-10)",
+      "start": "2016-03-04T17:08:47.294Z",
+      "end": "2016-03-04T19:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 7
+    },
+    "pollId": "1007",
+    "time": "2016-03-04T17:24:17.635Z",
+    "message": "2 I want to hear more about abortion",
+    "value": "2"
+  },
+  {
+    "id": "100770",
+    "user": {
+      "id": "1041",
+      "first_name": "LEONARD",
+      "last_name": "LEE",
+      "party": "LIBERTARIAN",
+      "gender": "female",
+      "zip": "94143"
+    },
+    "userId": "1041",
+    "poll": {
+      "id": "1007",
+      "question": "Would you recommend me as a candidate to your friend? (0-10)",
+      "start": "2016-03-04T17:08:47.294Z",
+      "end": "2016-03-04T19:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 7
+    },
+    "pollId": "1007",
+    "time": "2016-03-04T18:56:42.204Z",
+    "message": "7 I could do better",
+    "value": "7"
   },
   {
     "id": "100810",
     "user": {
-      "id": "1053",
-      "first_name": "DEREK",
-      "last_name": "BAKER",
-      "party": "GREEN",
+      "id": "1015",
+      "first_name": "CHRISTINE",
+      "last_name": "LUBY",
+      "party": "INDEPENDENT",
       "gender": "female",
-      "zip": "94174"
+      "zip": "94181"
     },
-    "userId": "1053",
+    "userId": "1015",
     "poll": {
       "id": "1008",
-      "question": "How did I do in last night's debate? (0-10)",
-      "start": "1458614237190",
-      "end": "1458621437190",
+      "question": "How much do you care about the 2nd Amendment? (0-10)",
+      "start": "2016-02-24T19:08:47.294Z",
+      "end": "2016-02-24T21:08:47.294Z",
       "polls_sent": 10,
-      "polls_responded": 1
+      "polls_responded": 7
     },
     "pollId": "1008",
-    "message": "1 STOP sending me these",
+    "time": "2016-02-24T20:55:54.204Z",
+    "message": "6 #boo",
+    "value": "6"
+  },
+  {
+    "id": "100820",
+    "user": {
+      "id": "1099",
+      "first_name": "SALLY",
+      "last_name": "MARTIN",
+      "party": "LIBERTARIAN",
+      "gender": "female",
+      "zip": "94115"
+    },
+    "userId": "1099",
+    "poll": {
+      "id": "1008",
+      "question": "How much do you care about the 2nd Amendment? (0-10)",
+      "start": "2016-02-24T19:08:47.294Z",
+      "end": "2016-02-24T21:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 7
+    },
+    "pollId": "1008",
+    "time": "2016-02-24T20:22:49.882Z",
+    "message": "5 I love you",
+    "value": "5"
+  },
+  {
+    "id": "100830",
+    "user": {
+      "id": "1057",
+      "first_name": "MINNIE",
+      "last_name": "VIK",
+      "party": "DEMOCRAT",
+      "gender": "female",
+      "zip": "94118"
+    },
+    "userId": "1057",
+    "poll": {
+      "id": "1008",
+      "question": "How much do you care about the 2nd Amendment? (0-10)",
+      "start": "2016-02-24T19:08:47.294Z",
+      "end": "2016-02-24T21:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 7
+    },
+    "pollId": "1008",
+    "time": "2016-02-24T20:05:05.050Z",
+    "message": "5 I want to hear more about abortion",
+    "value": "5"
+  },
+  {
+    "id": "100840",
+    "user": {
+      "id": "1039",
+      "first_name": "THOMAS",
+      "last_name": "WILSON",
+      "party": "DEMOCRAT",
+      "gender": "female",
+      "zip": "94126"
+    },
+    "userId": "1039",
+    "poll": {
+      "id": "1008",
+      "question": "How much do you care about the 2nd Amendment? (0-10)",
+      "start": "2016-02-24T19:08:47.294Z",
+      "end": "2016-02-24T21:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 7
+    },
+    "pollId": "1008",
+    "time": "2016-02-24T21:07:07.599Z",
+    "message": "7 #winning",
+    "value": "7"
+  },
+  {
+    "id": "100850",
+    "user": {
+      "id": "1078",
+      "first_name": "RACHEL",
+      "last_name": "SAKAMOTO",
+      "party": "GREEN",
+      "gender": "female",
+      "zip": "94187"
+    },
+    "userId": "1078",
+    "poll": {
+      "id": "1008",
+      "question": "How much do you care about the 2nd Amendment? (0-10)",
+      "start": "2016-02-24T19:08:47.294Z",
+      "end": "2016-02-24T21:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 7
+    },
+    "pollId": "1008",
+    "time": "2016-02-24T19:16:11.283Z",
+    "message": "1 #winning",
     "value": "1"
+  },
+  {
+    "id": "100860",
+    "user": {
+      "id": "1059",
+      "first_name": "PENNY",
+      "last_name": "WILSON",
+      "party": "INDEPENDENT",
+      "gender": "female",
+      "zip": "94189"
+    },
+    "userId": "1059",
+    "poll": {
+      "id": "1008",
+      "question": "How much do you care about the 2nd Amendment? (0-10)",
+      "start": "2016-02-24T19:08:47.294Z",
+      "end": "2016-02-24T21:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 7
+    },
+    "pollId": "1008",
+    "time": "2016-02-24T20:18:02.582Z",
+    "message": "6 I want to hear more about abortion",
+    "value": "6"
+  },
+  {
+    "id": "100870",
+    "user": {
+      "id": "1017",
+      "first_name": "LEONARD",
+      "last_name": "ALLEN",
+      "party": "DEMOCRAT",
+      "gender": "female",
+      "zip": "9415"
+    },
+    "userId": "1017",
+    "poll": {
+      "id": "1008",
+      "question": "How much do you care about the 2nd Amendment? (0-10)",
+      "start": "2016-02-24T19:08:47.294Z",
+      "end": "2016-02-24T21:08:47.294Z",
+      "polls_sent": 10,
+      "polls_responded": 7
+    },
+    "pollId": "1008",
+    "time": "2016-02-24T20:59:18.672Z",
+    "message": "7 #winning",
+    "value": "7"
   },
   {
     "id": "100910",
     "user": {
-      "id": "1070",
-      "first_name": "SUSAN",
-      "last_name": "WILSON",
-      "party": "REPUBLICAN",
+      "id": "1087",
+      "first_name": "CLAIRE",
+      "last_name": "KING",
+      "party": "DEMOCRAT",
       "gender": "female",
-      "zip": "94199"
+      "zip": "94175"
     },
-    "userId": "1070",
+    "userId": "1087",
     "poll": {
       "id": "1009",
-      "question": "Do you approve of my campaign so far? (0-10)",
-      "start": "1458182237190",
-      "end": "1458189437190",
+      "question": "What place did I get in last night's debate? (0-10)",
+      "start": "2016-02-24T21:08:47.294Z",
+      "end": "2016-02-24T23:08:47.294Z",
       "polls_sent": 10,
-      "polls_responded": 8
+      "polls_responded": 5
     },
     "pollId": "1009",
-    "message": "2 #boo",
+    "time": "2016-02-24T22:47:10.670Z",
+    "message": "2 (^*%&$^#^%$#^)",
     "value": "2"
   },
   {
     "id": "100920",
     "user": {
-      "id": "1040",
-      "first_name": "CAROLINE",
-      "last_name": "HALL",
-      "party": "REPUBLICAN",
+      "id": "1096",
+      "first_name": "FRANK",
+      "last_name": "LEWIS",
+      "party": "LIBERTARIAN",
       "gender": "female",
-      "zip": "94165"
+      "zip": "94167"
     },
-    "userId": "1040",
+    "userId": "1096",
     "poll": {
       "id": "1009",
-      "question": "Do you approve of my campaign so far? (0-10)",
-      "start": "1458182237190",
-      "end": "1458189437190",
+      "question": "What place did I get in last night's debate? (0-10)",
+      "start": "2016-02-24T21:08:47.294Z",
+      "end": "2016-02-24T23:08:47.294Z",
       "polls_sent": 10,
-      "polls_responded": 8
+      "polls_responded": 5
     },
     "pollId": "1009",
-    "message": "3 I could do better",
-    "value": "3"
+    "time": "2016-02-24T21:17:24.404Z",
+    "message": "10 I want to hear more about abortion",
+    "value": "10"
   },
   {
     "id": "100930",
     "user": {
-      "id": "1019",
-      "first_name": "RACHEL",
-      "last_name": "WILLIAMS",
-      "party": "INDEPENDENT",
+      "id": "1041",
+      "first_name": "LEONARD",
+      "last_name": "LEE",
+      "party": "LIBERTARIAN",
       "gender": "female",
-      "zip": "9416"
+      "zip": "94143"
     },
-    "userId": "1019",
+    "userId": "1041",
     "poll": {
       "id": "1009",
-      "question": "Do you approve of my campaign so far? (0-10)",
-      "start": "1458182237190",
-      "end": "1458189437190",
+      "question": "What place did I get in last night's debate? (0-10)",
+      "start": "2016-02-24T21:08:47.294Z",
+      "end": "2016-02-24T23:08:47.294Z",
       "polls_sent": 10,
-      "polls_responded": 8
+      "polls_responded": 5
     },
     "pollId": "1009",
+    "time": "2016-02-24T22:38:46.463Z",
     "message": "4",
     "value": "4"
   },
   {
     "id": "100940",
     "user": {
-      "id": "1061",
-      "first_name": "PHIL",
-      "last_name": "SAKAMOTO",
-      "party": "GREEN",
+      "id": "1032",
+      "first_name": "LEONARD",
+      "last_name": "TAYLOR",
+      "party": "INDEPENDENT",
       "gender": "female",
-      "zip": "94119"
+      "zip": "94118"
     },
-    "userId": "1061",
+    "userId": "1032",
     "poll": {
       "id": "1009",
-      "question": "Do you approve of my campaign so far? (0-10)",
-      "start": "1458182237190",
-      "end": "1458189437190",
+      "question": "What place did I get in last night's debate? (0-10)",
+      "start": "2016-02-24T21:08:47.294Z",
+      "end": "2016-02-24T23:08:47.294Z",
       "polls_sent": 10,
-      "polls_responded": 8
+      "polls_responded": 5
     },
     "pollId": "1009",
-    "message": "3 #winning",
-    "value": "3"
+    "time": "2016-02-24T22:49:55.752Z",
+    "message": "0 #winning",
+    "value": "0"
   },
   {
     "id": "100950",
     "user": {
-      "id": "1007",
-      "first_name": "FRANK",
-      "last_name": "SAKAMOTO",
-      "party": "LIBERTARIAN",
-      "gender": "female",
-      "zip": "94142"
-    },
-    "userId": "1007",
-    "poll": {
-      "id": "1009",
-      "question": "Do you approve of my campaign so far? (0-10)",
-      "start": "1458182237190",
-      "end": "1458189437190",
-      "polls_sent": 10,
-      "polls_responded": 8
-    },
-    "pollId": "1009",
-    "message": "7 STOP sending me these",
-    "value": "7"
-  },
-  {
-    "id": "100960",
-    "user": {
-      "id": "1040",
-      "first_name": "CAROLINE",
-      "last_name": "HALL",
-      "party": "REPUBLICAN",
+      "id": "1056",
+      "first_name": "LEONARD",
+      "last_name": "MILLER",
+      "party": "INDEPENDENT",
       "gender": "female",
       "zip": "94165"
     },
-    "userId": "1040",
+    "userId": "1056",
     "poll": {
       "id": "1009",
-      "question": "Do you approve of my campaign so far? (0-10)",
-      "start": "1458182237190",
-      "end": "1458189437190",
+      "question": "What place did I get in last night's debate? (0-10)",
+      "start": "2016-02-24T21:08:47.294Z",
+      "end": "2016-02-24T23:08:47.294Z",
       "polls_sent": 10,
-      "polls_responded": 8
+      "polls_responded": 5
     },
     "pollId": "1009",
-    "message": "1 I love you",
-    "value": "1"
-  },
-  {
-    "id": "100970",
-    "user": {
-      "id": "1038",
-      "first_name": "GLENN",
-      "last_name": "ALLEN",
-      "party": "INDEPENDENT",
-      "gender": "female",
-      "zip": "94198"
-    },
-    "userId": "1038",
-    "poll": {
-      "id": "1009",
-      "question": "Do you approve of my campaign so far? (0-10)",
-      "start": "1458182237190",
-      "end": "1458189437190",
-      "polls_sent": 10,
-      "polls_responded": 8
-    },
-    "pollId": "1009",
-    "message": "10",
-    "value": "10"
-  },
-  {
-    "id": "100980",
-    "user": {
-      "id": "1037",
-      "first_name": "GLENN",
-      "last_name": "JONES",
-      "party": "INDEPENDENT",
-      "gender": "female",
-      "zip": "94195"
-    },
-    "userId": "1037",
-    "poll": {
-      "id": "1009",
-      "question": "Do you approve of my campaign so far? (0-10)",
-      "start": "1458182237190",
-      "end": "1458189437190",
-      "polls_sent": 10,
-      "polls_responded": 8
-    },
-    "pollId": "1009",
-    "message": "7 STOP sending me these",
-    "value": "7"
+    "time": "2016-02-24T22:09:25.518Z",
+    "message": "3 #winning",
+    "value": "3"
   }
 ]
