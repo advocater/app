@@ -41,12 +41,14 @@ class User extends React.Component {
 
   render() {
     let { users, responses, params } = this.props
-    let user = this.filterUser(params.id, users.objects)
+    let user = this.filterUser(params.id, users.objects)[0]
     let userResponses = this.filterResponses(params.id, responses.objects)
     return (
       <div className="user container">
         <div className="panel panel-default container">
-          {JSON.stringify(user)}
+          <h2>{user.first_name + ' ' + user.last_name}</h2>
+          <h4>Gender: {user.gender} Zip: {user.zip}</h4>
+          <h4>Political Party: {user.party}</h4>
         </div>
         <div className="panel panel-default container">
           <ResponsesTable metadata={'poll'} responses={userResponses} />
