@@ -19,7 +19,7 @@ class Home extends React.Component {
         <div className="container">
           <div className="jumbotron">
             <h1>{ COMPANY_NAME }</h1>
-            <h3>{ COMPANY_MISSION }</h3>
+            <h2><small>{ COMPANY_MISSION }</small></h2>
             <Link to="/dashboard">Login</Link>
           </div>
         </div>
