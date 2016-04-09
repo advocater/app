@@ -1,5 +1,6 @@
 
 import React from 'react'
+import { Link } from 'react-router'
 
 export default class PollsTable extends React.Component {
 
@@ -8,9 +9,10 @@ export default class PollsTable extends React.Component {
   }
 
   renderRow(poll) {
+    let link = '/poll/' + poll.id
     return (
       <tr key={poll.id}>
-        <td>{poll.question}</td>
+        <td><Link to={link}>{poll.question}</Link></td>
         <td>{poll.start}</td>
         <td>{poll.end}</td>
         <td>{poll.polls_responded} / {poll.polls_sent}</td>

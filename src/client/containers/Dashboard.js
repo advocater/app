@@ -17,6 +17,7 @@ class Dashboard extends React.Component {
   componentDidMount() {
     this.refreshPolls()
     this.refreshResponses()
+    this.refreshUsers()
   }
 
   refreshPolls() {
@@ -27,6 +28,11 @@ class Dashboard extends React.Component {
   refreshResponses() {
     let { dispatch } = this.props
     dispatch(actions.fetchResponses())
+  }
+
+  refreshUsers() {
+    let { dispatch } = this.props
+    dispatch(actions.fetchUsers())
   }
 
   render() {

@@ -1,82 +1,82 @@
 [
   {
-    "id": 1000,
-    "question": "How did I do in last night's debate? (0-10)",
-    "start": 1459715875154,
-    "end": 1459723075154,
-    "polls_sent": 10,
-    "polls_responded": 4
-  },
-  {
-    "id": 1001,
-    "question": "Do you approve of my campaign so far? (0-10)",
-    "start": 1459715875154,
-    "end": 1459723075154,
-    "polls_sent": 10,
-    "polls_responded": 8
-  },
-  {
-    "id": 1002,
-    "question": "What place did I get in last night's debate? (0-10)",
-    "start": 1459543075154,
-    "end": 1459550275154,
-    "polls_sent": 10,
-    "polls_responded": 4
-  },
-  {
-    "id": 1003,
+    "id": "1000",
     "question": "Would you recommend me as a candidate to your friend? (0-10)",
-    "start": 1459024675154,
-    "end": 1459031875154,
+    "start": "1460169437190",
+    "end": "1460176637190",
+    "polls_sent": 10,
+    "polls_responded": 4
+  },
+  {
+    "id": "1001",
+    "question": "How much do you care about the 2nd Amendment? (0-10)",
+    "start": "1459737437190",
+    "end": "1459744637190",
     "polls_sent": 10,
     "polls_responded": 2
   },
   {
-    "id": 1004,
+    "id": "1002",
     "question": "Would you recommend me as a candidate to your friend? (0-10)",
-    "start": 1458592675154,
-    "end": 1458599875154,
+    "start": "1459564637190",
+    "end": "1459571837190",
     "polls_sent": 10,
-    "polls_responded": 9
+    "polls_responded": 7
   },
   {
-    "id": 1005,
-    "question": "How did I do in last night's debate? (0-10)",
-    "start": 1458419875154,
-    "end": 1458427075154,
+    "id": "1003",
+    "question": "Would you recommend me as a candidate to your friend? (0-10)",
+    "start": "1459478237190",
+    "end": "1459485437190",
     "polls_sent": 10,
-    "polls_responded": 5
+    "polls_responded": 2
   },
   {
-    "id": 1006,
+    "id": "1004",
     "question": "Would you recommend me as a candidate to your friend? (0-10)",
-    "start": 1458247075154,
-    "end": 1458254275154,
+    "start": "1459478237190",
+    "end": "1459485437190",
     "polls_sent": 10,
-    "polls_responded": 8
+    "polls_responded": 7
   },
   {
-    "id": 1007,
-    "question": "Would you recommend me as a candidate to your friend? (0-10)",
-    "start": 1457728675154,
-    "end": 1457735875154,
+    "id": "1005",
+    "question": "Do you approve of my campaign so far? (0-10)",
+    "start": "1459391837190",
+    "end": "1459399037190",
     "polls_sent": 10,
     "polls_responded": 6
   },
   {
-    "id": 1008,
-    "question": "What place did I get in last night's debate? (0-10)",
-    "start": 1457642275154,
-    "end": 1457649475154,
+    "id": "1006",
+    "question": "How did I do in last night's debate? (0-10)",
+    "start": "1459219037190",
+    "end": "1459226237190",
     "polls_sent": 10,
-    "polls_responded": 2
+    "polls_responded": 7
   },
   {
-    "id": 1009,
-    "question": "Do you approve of my campaign so far? (0-10)",
-    "start": 1456864675154,
-    "end": 1456871875154,
+    "id": "1007",
+    "question": "How did I do in last night's debate? (0-10)",
+    "start": "1458614237190",
+    "end": "1458621437190",
     "polls_sent": 10,
-    "polls_responded": 5
+    "polls_responded": 3
+  },
+  {
+    "id": "1008",
+    "question": "How did I do in last night's debate? (0-10)",
+    "start": "1458614237190",
+    "end": "1458621437190",
+    "polls_sent": 10,
+    "polls_responded": 1
+  },
+  {
+    "id": "1009",
+    "question": "Do you approve of my campaign so far? (0-10)",
+    "start": "1458182237190",
+    "end": "1458189437190",
+    "polls_sent": 10,
+    "polls_responded": 8
   }
 ]

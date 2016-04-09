@@ -24,16 +24,15 @@
 import React from 'react'
 import { Route, IndexRoute } from 'react-router'
 
-import { App, Home, Dashboard, Quiz, Explore } from './containers'
+import { App, Home, Dashboard, Poll, User } from './containers'
 
 export default (
   <Route path="/" component={App}>
     <IndexRoute component={Home} />
 
     <Route path="dashboard" component={Dashboard} />
-    {/*<Route path="polls/:id" component={Poll} />*/}
+    <Route path="poll/:id" component={Poll} />
+    <Route path="user/:id" component={User} />
 
-    <Route path="quiz" component={Quiz} />
-    <Route path="explore" component={Explore} />
   </Route>
 )
