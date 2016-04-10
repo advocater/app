@@ -50,21 +50,20 @@ class Poll extends React.Component {
     return Math.round( average * 100 ) / 100
   }
 
-  createNewResponse(i) {
+  createNewResponse() {
     console.log('creating new response')
     let { dispatch, params } = this.props
     let newResponse = { pollId: params.id }
     dispatch(actions.createNewResponse(newResponse))
-    return i++
   }
 
   generateMaxResponses(e, num) {
     e.preventDefault()
     console.log('Clicked generateMaxResponses', num)
-    for (let i = 0; i < num; ) {
+    for (let i = 0; i < num; i++) {
       // console.log('Clicked generateMaxResponses', i)
-      this.createNewResponse()
-      setTimeout(i++, 1000)
+
+      setTimeout(this.createNewResponse(), 1000)
         // this.createNewResponse(i).bind(this),
         // Math.floor(Math.random() * 1000) + 1000
     }
@@ -90,7 +89,7 @@ class Poll extends React.Component {
         </div>}
         <div className="panel panel-default panel-body">
           <h2>{poll.question}</h2>
-          <p>Sent poll to {poll.polls_sent} and {poll.polls_responded} responded</p>
+          <p>Sent poll to {poll.polls_sent} and {pollResponses.length} responded</p>
           <p>Average Score: {averageResponse}</p>
           <ResponseResults responses={pollResponses} />
         </div>

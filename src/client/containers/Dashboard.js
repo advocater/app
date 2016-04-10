@@ -60,8 +60,8 @@ class Dashboard extends React.Component {
         <div className="panel panel-default">
           <div className="panel-heading">
             <h1 className="panel-title">
-              {!showAddPollForm && <button className="btn btn-primary pull-right" onClick={this.showAddPollForm.bind(this)}>Add Poll</button>}
-              {showAddPollForm && <button className="btn btn-danger pull-right" onClick={this.showAddPollForm.bind(this)}>Cancel Poll</button>}
+              {!showAddPollForm && <button className="btn btn-primary pull-right panel-heading-button" onClick={this.showAddPollForm.bind(this)}>Add Poll</button>}
+              {showAddPollForm && <button className="btn btn-danger pull-right panel-heading-button" onClick={this.showAddPollForm.bind(this)}>Cancel Poll</button>}
               Latest Polls
             </h1>
           </div>
