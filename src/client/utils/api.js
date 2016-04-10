@@ -51,6 +51,21 @@ export function responses_get() {
     .catch(logError)
 }
 
+export function responses_post(newResponse) {
+  let path = '/api/responses'
+  return fetch(path, {
+    method: 'POST',
+    credentials: 'same-origin',
+    headers: {
+      'Accept': 'application/json',
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify(newResponse)
+  }).then(checkStatus)
+    .then(getJSON)
+    .catch(logError)
+}
+
 /* Users */
 export function users_get() {
   return fetch('/api/users', { method: 'GET', credentials: 'same-origin' })

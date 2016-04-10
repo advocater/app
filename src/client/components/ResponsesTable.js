@@ -13,12 +13,13 @@ export default class ResponsesTable extends React.Component {
   }
 
   renderRow(response, metadata) {
-    let link = '/' + metadata + '/' + response[metadata].id
+    let idLabel = [metadata] + 'Id'
+    let link = '/' + metadata + '/' + response[idLabel]
     let metadataValue = ''
     if (metadata === 'user') {
       metadataValue = response.user.last_name + ', ' + response.user.first_name
     } else {
-      metadataValue = response.poll.question
+      metadataValue = response.poll ? response.poll.question : response.pollId
     }
 
     return (

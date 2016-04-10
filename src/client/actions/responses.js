@@ -15,7 +15,15 @@ export function receiveResponses(payload) {
 export function fetchResponses() {
   return (dispatch) => {
     return api.responses_get()
-      .then((responses) => { dispatch(receiveResponses(responses))})
+      .then((responses) => { dispatch(receiveResponses(responses)) })
+      .catch(logError)
+  }
+}
+
+export function createNewResponse(newResponse) {
+  return (dispatch) => {
+    return api.responses_post(newResponse)
+      .then((responses) => { dispatch(receiveResponses(responses)) })
       .catch(logError)
   }
 }

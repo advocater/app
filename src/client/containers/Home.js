@@ -20,7 +20,11 @@ class Home extends React.Component {
           <div className="jumbotron">
             <h1>{ COMPANY_NAME }</h1>
             <h2><small>{ COMPANY_MISSION }</small></h2>
-            <Link to="/dashboard">Login</Link>
+            <Link to="/dashboard">
+              <button className="btn btn-primary">
+                Login
+              </button>
+            </Link>
           </div>
         </div>
           {/*

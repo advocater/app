@@ -11,7 +11,7 @@ import { ResponsesTable, ResponseResults } from '../components'
 import './User.less'
 
 function select(state) {
-  return { responses: state.responses, users: state.users }
+  return { responses: state.responses, users: state.users, polls: state.polls }
 }
 
 class User extends React.Component {
@@ -40,18 +40,27 @@ class User extends React.Component {
   }
 
   render() {
-    let { users, responses, params } = this.props
+    let { users, responses, polls, params } = this.props
     let user = this.filterUser(params.id, users.objects)[0]
     let userResponses = this.filterResponses(params.id, responses.objects)
     return (
       <div className="user container">
-        <div className="panel panel-default container">
-          <h2>{user.first_name + ' ' + user.last_name}</h2>
-          <h4>Gender: {user.gender} Zip: {user.zip} Political Party: {user.party}</h4>
-          <ResponseResults responses={userResponses} />
+        <div className="panel panel-default">
+          <div className="panel-heading">
+            <h2 className="panel-title">{user.first_name + ' ' + user.last_name}</h2>
+          </div>
+          <div className="panel-body">
+            <h4>Gender: {user.gender} Zip: {user.zip} Political Party: {user.party}</h4>
+            <ResponseResults responses={userResponses} />
+          </div>
         </div>
-        <div className="panel panel-default container">
-          <ResponsesTable metadata={'poll'} responses={userResponses} />
+        <div className="panel panel-default">
+          <div className="panel-heading">
+            <h3 className="panel-title">Response History</h3>
+          </div>
+          <div className="panel-body">
+            <ResponsesTable metadata={'poll'} responses={userResponses} polls={polls} />
+          </div>
         </div>
       </div>
     )
