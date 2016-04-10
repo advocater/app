@@ -46,12 +46,17 @@ class Dashboard extends React.Component {
     this.setState({ showAddPollForm: !this.state.showAddPollForm })
   }
 
+  handleSubmit(newPoll) {
+    let { dispatch } = this.props
+    dispatch(actions.createPoll(newPoll))
+  }
+
   render() {
     let { showAddPollForm } = this.state
     let polls = this.props.polls.objects
     return (
       <div className="dashboard-container container">
-        {showAddPollForm && <PollForm />}
+        {showAddPollForm && <PollForm onSubmit={this.handleSubmit.bind(this)}/>}
         <div className="panel panel-default">
           <div className="panel-heading">
             <h1 className="panel-title">

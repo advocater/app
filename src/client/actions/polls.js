@@ -1,7 +1,7 @@
 
 import * as api from '../utils/api'
 
-import { FETCH_POLLS, RECEIVE_POLLS } from '../constants'
+import { FETCH_POLLS, RECEIVE_POLLS, CREATE_POLL } from '../constants'
 
 /* Helper functions */
 function logError(err) { console.log('Error in actions/polls.js', err); throw err; }
@@ -15,7 +15,15 @@ export function receivePolls(payload) {
 export function fetchPolls() {
   return (dispatch) => {
     return api.polls_get()
-      .then((polls) => { dispatch(receivePolls(polls))})
+      .then((polls) => { dispatch(receivePolls(polls)) })
+      .catch(logError)
+  }
+}
+
+export function createPoll(newPoll) {
+  return (dispatch) => {
+    return api.polls_post(newPoll)
+      .then((polls) => { dispatch(receivePolls(polls)) })
       .catch(logError)
   }
 }

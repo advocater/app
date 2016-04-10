@@ -44,7 +44,10 @@ class Poll extends React.Component {
     let { polls, responses, params } = this.props
     let poll = this.filterPoll(params.id, polls.objects)[0]
     let pollResponses = this.filterResponses(params.id, responses.objects)
-    let averageResponse = this.calculateAverageResponse(pollResponses)
+    let averageResponse = 'N/A'
+    if (pollResponses.length > 0) {
+      averageResponse = this.calculateAverageResponse(pollResponses)
+    }
     return (
       <div className="poll container">
         <div className="panel panel-default container">

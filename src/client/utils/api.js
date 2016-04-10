@@ -27,6 +27,21 @@ export function polls_get() {
     .catch(logError)
 }
 
+export function polls_post(newPoll) {
+  let path = '/api/polls'
+  return fetch(path, {
+    method: 'POST',
+    credentials: 'same-origin',
+    headers: {
+      'Accept': 'application/json',
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify(newPoll)
+  }).then(checkStatus)
+    .then(getJSON)
+    .catch(logError)
+}
+
 /* Responses */
 export function responses_get() {
   let path = '/api/responses'
