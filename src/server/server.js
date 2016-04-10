@@ -43,7 +43,7 @@ app.use('/data', express.static(PATH_DATA))
 // Connect to API
 app.use('/api', api)
 
-app.get('/', function (req, res) {
+app.all('/*', function (req, res) {
   res.sendFile('index.html', { root: __dirname + '/../client' })
 })
 

@@ -4,7 +4,7 @@ import { connect } from 'react-redux'
 
 import * as actions from '../actions'
 
-import { PollsTable } from '../components'
+import { PollsTable, PollForm } from '../components'
 
 import './Dashboard.less'
 
@@ -13,6 +13,13 @@ function select(state){
 }
 
 class Dashboard extends React.Component {
+
+  constructor() {
+    super()
+    this.state = {
+      showAddPollForm: false
+    }
+  }
 
   componentDidMount() {
     this.refreshPolls()
@@ -35,18 +42,27 @@ class Dashboard extends React.Component {
     dispatch(actions.fetchUsers())
   }
 
+  showAddPollForm() {
+    this.setState({ showAddPollForm: !this.state.showAddPollForm })
+  }
+
   render() {
+    let { showAddPollForm } = this.state
     let polls = this.props.polls.objects
     return (
-      <div className="dashboard-container">
-        <div className="breadcrumb container">
-          <h4>
-            Latest Polls
-            <button className="btn btn-default pull-right">Add Poll</button>
-          </h4>
-        </div>
-        <div className="panel panel-default container">
-          <PollsTable polls={polls} />
+      <div className="dashboard-container container">
+        {showAddPollForm && <PollForm />}
+        <div className="panel panel-default">
+          <div className="panel-heading">
+            <h1 className="panel-title">
+              {!showAddPollForm && <button className="btn btn-primary pull-right" onClick={this.showAddPollForm.bind(this)}>Add Poll</button>}
+              {showAddPollForm && <button className="btn btn-danger pull-right" onClick={this.showAddPollForm.bind(this)}>Cancel Poll</button>}
+              Latest Polls
+            </h1>
+          </div>
+          <div className="panel-body">
+            <PollsTable polls={polls} />
+          </div>
         </div>
       </div>
     )
