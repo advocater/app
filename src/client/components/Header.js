@@ -23,8 +23,8 @@ export default class Header extends React.Component {
           <div id="navbar" className="navbar-collapse collapse">
             <ul className="nav navbar-nav">
               <li><Link to="/dashboard">Dashboard</Link></li>
+              <li><Link to="/quiz">User Quiz</Link></li>
               <li><Link to="#"><s>Users</s></Link></li>
-              <li><Link to="#"><s>User Quiz</s></Link></li>
               <li><Link to="#"><s>Demo Article</s></Link></li>
               <li><Link to="#"><s>Explore Candidates</s></Link></li>
             </ul>
